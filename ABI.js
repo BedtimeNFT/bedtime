@@ -19,7 +19,7 @@ var ABI = [
 	  },
 	  {
 		"inputs": [],
-		"name": "getPausedState",
+		"name": "xgetPausedState",
 		"outputs": [
 			{
 				"internalType": "bool",

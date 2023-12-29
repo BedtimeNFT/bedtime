@@ -42,5 +42,5 @@ var ABI = [
 		],
 		"stateMutability": "view",
 		"type": "function"
-	},
+	}
 ]

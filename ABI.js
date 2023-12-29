@@ -19,7 +19,7 @@ var ABI = [
 	  },
 	  {
 		"inputs": [],
-		"name": "paused",
+		"name": "getPausedState",
 		"outputs": [
 			{
 				"internalType": "bool",
@@ -32,7 +32,7 @@ var ABI = [
 	},
 	{
 		"inputs": [],
-		"name": "totalSupply",
+		"name": "getTotalSupply",
 		"outputs": [
 			{
 				"internalType": "uint256",

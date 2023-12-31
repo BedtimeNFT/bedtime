@@ -388,11 +388,17 @@ const mintTokens = async function (amount) {
     })
     .then(estimatedGas => {
       console.log("Estimated Gas: ", estimatedGas);
+
+    // Add 20% buffer to the estimated gas
+    const bufferedGas = Math.floor(estimatedGas * 1.20);
+    console.log("Buffered Gas: ", bufferedGas);
+
+
       // Now that we have the estimated gas, we can send the transaction
       contract.methods.publicMint(amount, accounts[0]).send({
         from: accounts[0], 
         value: String(totalCost),
-        gas: estimatedGas
+        gas: bufferedGas
       })
       .then(function(receipt){
         console.log("Transaction Receipt: ", receipt);
@@ -423,6 +429,7 @@ const mintTokensSheesh = async function (amount) {
    });
   }
 } 
+
 const updateChainId = async function () {
 	const id = await ethereum.request({ method: 'eth_chainId' });
   console.log('id from async func is: ' + id);  

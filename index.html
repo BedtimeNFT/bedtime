@@ -383,7 +383,7 @@ const mintTokens = async function (amount) {
   //contract.methods.Mint(amount).send({
     contract.methods.publicMint(amount, accounts[0]).send({
     from: accounts[0], 
-    to: CONTRACT_ADDRESS,
+   // to: CONTRACT_ADDRESS,
     value: String(totalCost),
     gas: 3000000 // Specifying the gas limit here
    });
@@ -402,7 +402,7 @@ const mintTokensSheesh = async function (amount) {
   //contract.methods.Mint(amount).send({
     contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
     from: accounts[0], 
-    to: CONTRACT_ADDRESS_SHEESH,
+   // to: CONTRACT_ADDRESS_SHEESH,
     value: String(totalCostSheesh),
     gas: 3000000 // Specifying the gas limit here
    });

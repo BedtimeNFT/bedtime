@@ -392,7 +392,7 @@ const mintTokens = async function (amount) {
     from: accounts[0], 
    // to: CONTRACT_ADDRESS,
     value: String(totalCost),
-    gas: String(estimatedGas) // Specifying the gas limit here
+    gas: estimatedGas // Specifying the gas limit here
    });
    
   }

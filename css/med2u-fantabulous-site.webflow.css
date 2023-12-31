@@ -1537,6 +1537,10 @@ figcaption {
   .header_middle-wrapper {
     transform: scale(.7);
   }
+
+  .mint-form-wrapper {
+    flex-wrap: wrap;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -1797,6 +1801,10 @@ figcaption {
     display: none;
   }
 
+  .mint-form-wrapper {
+    flex-wrap: wrap;
+  }
+
   .get-metamask-button {
     height: auto;
     letter-spacing: 0;
@@ -1929,8 +1937,33 @@ figcaption {
     max-width: 270px;
   }
 
+  .header_bottom-wrapper {
+    display: block;
+  }
+
   .mint-button {
     font-size: 2rem;
+  }
+
+  .has-wallet {
+    object-fit: none;
+    flex-flow: column wrap;
+    flex: 0 auto;
+    align-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    overflow: scroll;
+  }
+
+  .has-wallet.hidden {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mint-form-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
   }
 
   .get-metamask-button, .get-metamask-button-copy {

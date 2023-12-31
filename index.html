@@ -384,7 +384,8 @@ const mintTokens = async function (amount) {
     contract.methods.publicMint(amount, accounts[0]).send({
     from: accounts[0], 
     to: CONTRACT_ADDRESS,
-    value: String(totalCost)
+    value: String(totalCost),
+    gas: 300000 // Specifying the gas limit here
    });
   }
 }
@@ -402,7 +403,8 @@ const mintTokensSheesh = async function (amount) {
     contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
     from: accounts[0], 
     to: CONTRACT_ADDRESS_SHEESH,
-    value: String(totalCostSheesh)
+    value: String(totalCostSheesh),
+    gas: 300000 // Specifying the gas limit here
    });
   }
 } 

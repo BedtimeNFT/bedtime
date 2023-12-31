@@ -385,7 +385,7 @@ const mintTokens = async function (amount) {
     from: accounts[0], 
     to: CONTRACT_ADDRESS,
     value: String(totalCost),
-    gas: 300000 // Specifying the gas limit here
+    gas: 3000000 // Specifying the gas limit here
    });
   }
 }
@@ -404,7 +404,7 @@ const mintTokensSheesh = async function (amount) {
     from: accounts[0], 
     to: CONTRACT_ADDRESS_SHEESH,
     value: String(totalCostSheesh),
-    gas: 300000 // Specifying the gas limit here
+    gas: 3000000 // Specifying the gas limit here
    });
   }
 } 

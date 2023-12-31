@@ -377,14 +377,14 @@ const mintTokens = async function (amount) {
   const accounts = await window.ethereum.request({
     method: "eth_requestAccounts",
   });
-  var totalCost = WEI_COST * amount;
+  var totalCost = BigInt(WEI_COST) * BigInt(amount);
   console.log(totalCost);
 
   // if an account is present
   if (accounts.length > 0) { 
     contract.methods.publicMint(amount, accounts[0]).estimateGas({
       from: accounts[0],
-      value: String(totalCost)
+      value: BigInt(totalCost)
     })
     .then(estimatedGas => {
       console.log("Estimated Gas: ", estimatedGas);

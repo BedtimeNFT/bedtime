@@ -373,6 +373,8 @@ function handleChainChanged(_chainId) {
 
 // Mint Function ETH
 const mintTokens = async function (amount) {
+    // Convert amount to BigInt
+    amount = BigInt(amount);
   // get a list of accounts from metamask
   const accounts = await window.ethereum.request({
     method: "eth_requestAccounts",
@@ -387,18 +389,18 @@ const mintTokens = async function (amount) {
       value: BigInt(totalCost)
     })
     .then(estimatedGas => {
-      console.log("Estimated Gas: ", estimatedGas);
+      console.log("Estimated Gas: ", BigInt(estimatedGas) );
 
     // Add 20% buffer to the estimated gas
-    const bufferedGas = Math.floor(estimatedGas * 1.20);
+    const bufferedGas = Math.floor(BigInt(estimatedGas) * 1.20);
     console.log("Buffered Gas: ", bufferedGas);
 
 
       // Now that we have the estimated gas, we can send the transaction
       contract.methods.publicMint(amount, accounts[0]).send({
         from: accounts[0], 
-        value: String(totalCost),
-        gas: bufferedGas
+        value: BigInt(totalCost),
+        gas: BigInt(bufferedGas)
       })
       .then(function(receipt){
         console.log("Transaction Receipt: ", receipt);

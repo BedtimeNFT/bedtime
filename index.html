@@ -381,17 +381,20 @@ const mintTokens = async function (amount) {
   // if an account is present
 	if (accounts.length > 0) { 
   //contract.methods.Mint(amount).send({
+
     contract.methods.publicMint(amount, accounts[0]).estimateGas({from: accounts[0]})
 .then(estimatedGas => {
     console.log("Estimated Gas: ", estimatedGas);
-    
+  })
+.catch(console.error);
     
     contract.methods.publicMint(amount, accounts[0]).send({
     from: accounts[0], 
    // to: CONTRACT_ADDRESS,
     value: String(totalCost),
-    gas: 3000000 // Specifying the gas limit here
+    gas: String(estimatedGas) // Specifying the gas limit here
    });
+   
   }
 }
 // Mint Function SHEESH

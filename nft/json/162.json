@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #162",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "bea623ce6506e3abc66140a57eee5722e4a425f8",
-  "edition": 162,
-  "date": 1701903829618,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals Dusk"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Butterscotch"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Cotton Candy"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Magic Candy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #162",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/162.png",
+    "dna": "bea623ce6506e3abc66140a57eee5722e4a425f8",
+    "edition": 162,
+    "date": 1701903829618,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals Dusk"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Butterscotch"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Magic Candy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

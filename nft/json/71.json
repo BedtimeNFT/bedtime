@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #71",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4f27ee47bd1d6ce5758581f0fd130bbdf2375b2e",
-  "edition": 71,
-  "date": 1701903690755,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Candy Foil"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Watermelon"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Melon"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Pink Taffy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #71",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/71.png",
+    "dna": "4f27ee47bd1d6ce5758581f0fd130bbdf2375b2e",
+    "edition": 71,
+    "date": 1701903690755,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Candy Foil"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Watermelon"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Melon"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Pink Taffy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #154",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "957da65c09eb16808afe2d82dbcb4ee1dad98e7d",
-  "edition": 154,
-  "date": 1701903713153,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Blue Sugar"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Pink Sugar"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Raspberry"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #154",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/154.png",
+    "dna": "957da65c09eb16808afe2d82dbcb4ee1dad98e7d",
+    "edition": 154,
+    "date": 1701903713153,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Blue Sugar"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Pink Sugar"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Raspberry"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

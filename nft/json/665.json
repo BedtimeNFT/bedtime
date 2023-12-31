@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #665",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "0ca964ec04e5ab1b1ca529b190295090a3eebd6c",
-  "edition": 665,
-  "date": 1701903597344,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Woodland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Shadowfang"
-    },
-    {
-      "trait_type": "Shadowfang/Body",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Shadowfang/Head",
-      "value": "Midnight"
-    },
-    {
-      "trait_type": "Shadowfang/Eyes",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Shadowfang/Feet",
-      "value": "Soot"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #665",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/665.png",
+    "dna": "0ca964ec04e5ab1b1ca529b190295090a3eebd6c",
+    "edition": 665,
+    "date": 1701903597344,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Woodland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Shadowfang"
+        },
+        {
+            "trait_type": "Shadowfang/Body",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Shadowfang/Head",
+            "value": "Midnight"
+        },
+        {
+            "trait_type": "Shadowfang/Eyes",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Shadowfang/Feet",
+            "value": "Soot"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

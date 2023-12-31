@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #467",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "99774517d3a597494b68dc80856fcd6d24281e0f",
-  "edition": 467,
-  "date": 1701903324347,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Green"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Deep Blue"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "One Green Crystal"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #467",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/467.png",
+    "dna": "99774517d3a597494b68dc80856fcd6d24281e0f",
+    "edition": 467,
+    "date": 1701903324347,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Green"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Deep Blue"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "One Green Crystal"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

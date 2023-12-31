@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #180",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "a60091445008452cca1d805470b204f112f6a92c",
-  "edition": 180,
-  "date": 1701902886357,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Snow Cap"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Playful"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Blue Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Young Fall"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #180",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/180.png",
+    "dna": "a60091445008452cca1d805470b204f112f6a92c",
+    "edition": 180,
+    "date": 1701902886357,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow Cap"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Playful"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Young Fall"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

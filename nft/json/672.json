@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #672",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4deb169050b6747b171586dcb33d3c158ea7be7e",
-  "edition": 672,
-  "date": 1701903275053,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Demon Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted light"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Snow glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Obsidian"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #672",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/672.png",
+    "dna": "4deb169050b6747b171586dcb33d3c158ea7be7e",
+    "edition": 672,
+    "date": 1701903275053,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Demon Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted light"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Snow glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Obsidian"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

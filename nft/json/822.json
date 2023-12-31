@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #822",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5dd72aab674456b84f2e0127d8d18c4e947396d1",
-  "edition": 822,
-  "date": 1701903313032,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Demonic Red"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "One Amber Crystal"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #822",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/822.png",
+    "dna": "5dd72aab674456b84f2e0127d8d18c4e947396d1",
+    "edition": 822,
+    "date": 1701903313032,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Demonic Red"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "One Amber Crystal"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #34",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "64312aa07ad2eff0d9622a5961037d45908640f6",
-  "edition": 34,
-  "date": 1701902806637,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Teal Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Pastel"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Pink Crest"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Poison Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #34",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/34.png",
+    "dna": "64312aa07ad2eff0d9622a5961037d45908640f6",
+    "edition": 34,
+    "date": 1701902806637,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Teal Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Pink Crest"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Poison Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

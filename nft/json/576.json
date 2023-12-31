@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #576",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5cd4474fbf8311f5e7e6b3a6d41f9fb643e20dee",
-  "edition": 576,
-  "date": 1701903102222,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Orange"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Amber White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Ocean"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #576",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/576.png",
+    "dna": "5cd4474fbf8311f5e7e6b3a6d41f9fb643e20dee",
+    "edition": 576,
+    "date": 1701903102222,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Orange"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Amber White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

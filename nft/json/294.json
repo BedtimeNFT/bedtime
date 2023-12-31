@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #294",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "802f52699e75f6261f38de8493c76501b4f2d1ee",
-  "edition": 294,
-  "date": 1701903395606,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Blue 4"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Diamond"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Snow Eagle"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #294",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/294.png",
+    "dna": "802f52699e75f6261f38de8493c76501b4f2d1ee",
+    "edition": 294,
+    "date": 1701903395606,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Blue 4"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Diamond"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Snow Eagle"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #366",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "06f46e7c2a4bafa044bcd5abba06016e219e4555",
-  "edition": 366,
-  "date": 1701903723422,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Cotton Candy"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Pink Sugar"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Pink Candy"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Lime"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Pink Taffy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #366",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/366.png",
+    "dna": "06f46e7c2a4bafa044bcd5abba06016e219e4555",
+    "edition": 366,
+    "date": 1701903723422,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Pink Sugar"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Pink Candy"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Pink Taffy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #739",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "8db00511d1d3d6c1218e81d8535f6f1fc4a7af6e",
-  "edition": 739,
-  "date": 1701903490025,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Red"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Dusk Adorned"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Dusk Folded"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Red Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Flame Dusk Horned"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Red Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #739",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/739.png",
+    "dna": "8db00511d1d3d6c1218e81d8535f6f1fc4a7af6e",
+    "edition": 739,
+    "date": 1701903490025,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Red"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Dusk Adorned"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Dusk Folded"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Red Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Flame Dusk Horned"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Red Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

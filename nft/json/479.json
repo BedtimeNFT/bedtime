@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #479",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "f4c5858c1501897e4406c643f432e0b4b3319746",
-  "edition": 479,
-  "date": 1701903056387,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candy Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Purple White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Gold Beam"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #479",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/479.png",
+    "dna": "f4c5858c1501897e4406c643f432e0b4b3319746",
+    "edition": 479,
+    "date": 1701903056387,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candy Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Purple White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Gold Beam"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

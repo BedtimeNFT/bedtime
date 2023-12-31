@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #522",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "8649328a25f178cbba0245db08eec1dc1748df15",
-  "edition": 522,
-  "date": 1701903078028,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Teal Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Gold Storm"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Light Greens"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #522",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/522.png",
+    "dna": "8649328a25f178cbba0245db08eec1dc1748df15",
+    "edition": 522,
+    "date": 1701903078028,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Gold Storm"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Light Greens"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

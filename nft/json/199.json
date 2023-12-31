@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #199",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "3ef7be52a6514a3cd0eecebfbb13c88cfe759b78",
-  "edition": 199,
-  "date": 1701903447041,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Purple"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Power Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Power Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Legend"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #199",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/199.png",
+    "dna": "3ef7be52a6514a3cd0eecebfbb13c88cfe759b78",
+    "edition": 199,
+    "date": 1701903447041,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Purple"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Power Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Power Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

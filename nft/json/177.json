@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #177",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d61945cb12f2f6259780be4b044df331350c7fdc",
-  "edition": 177,
-  "date": 1701903595102,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Orange"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Shadowfang"
-    },
-    {
-      "trait_type": "Shadowfang/Body",
-      "value": "Tawny"
-    },
-    {
-      "trait_type": "Shadowfang/Head",
-      "value": "Tawny"
-    },
-    {
-      "trait_type": "Shadowfang/Eyes",
-      "value": "Death"
-    },
-    {
-      "trait_type": "Shadowfang/Feet",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #177",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/177.png",
+    "dna": "d61945cb12f2f6259780be4b044df331350c7fdc",
+    "edition": 177,
+    "date": 1701903595102,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Orange"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Shadowfang"
+        },
+        {
+            "trait_type": "Shadowfang/Body",
+            "value": "Tawny"
+        },
+        {
+            "trait_type": "Shadowfang/Head",
+            "value": "Tawny"
+        },
+        {
+            "trait_type": "Shadowfang/Eyes",
+            "value": "Death"
+        },
+        {
+            "trait_type": "Shadowfang/Feet",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

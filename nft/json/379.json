@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #379",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cb72150faa011fed712efea68c8cab8fc1effe8e",
-  "edition": 379,
-  "date": 1701903089085,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #379",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/379.png",
+    "dna": "cb72150faa011fed712efea68c8cab8fc1effe8e",
+    "edition": 379,
+    "date": 1701903089085,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

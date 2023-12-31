@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #879",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "80101c939ec70b5f895eb695dda26110e5a3180f",
-  "edition": 879,
-  "date": 1701903503564,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Dusk Basic"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Rusty Folded"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Red Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Flame Pink Spiked"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Red Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #879",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/879.png",
+    "dna": "80101c939ec70b5f895eb695dda26110e5a3180f",
+    "edition": 879,
+    "date": 1701903503564,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Dusk Basic"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Rusty Folded"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Red Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Flame Pink Spiked"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Red Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #985",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d91ead3df511288c28dc651ad1d9c231722e9af6",
-  "edition": 985,
-  "date": 1701903408435,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Blue stars"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Ice Blue 4"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Ice blue"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Diamond"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Green flare"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #985",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/985.png",
+    "dna": "d91ead3df511288c28dc651ad1d9c231722e9af6",
+    "edition": 985,
+    "date": 1701903408435,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Blue stars"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Ice Blue 4"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Ice blue"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Diamond"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Green flare"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

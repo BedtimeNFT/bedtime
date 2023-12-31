@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #704",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d2c255c58595794c1dfabef1dc295799de1e0116",
-  "edition": 704,
-  "date": 1701902887642,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Grass Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Green Spotted"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Base"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #704",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/704.png",
+    "dna": "d2c255c58595794c1dfabef1dc295799de1e0116",
+    "edition": 704,
+    "date": 1701902887642,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grass Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Green Spotted"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

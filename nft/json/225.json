@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #225",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "645151f980e21b80c7dc8c66bdf78097d3afa368",
-  "edition": 225,
-  "date": 1701902850295,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Orange"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sylvan"
-    },
-    {
-      "trait_type": "Sylvan/Body",
-      "value": "Autumn Wood"
-    },
-    {
-      "trait_type": "Sylvan/Faces",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Sylvan/Branches",
-      "value": "Foliage"
-    },
-    {
-      "trait_type": "Sylvan/Accessories",
-      "value": "Fern Blade"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #225",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/225.png",
+    "dna": "645151f980e21b80c7dc8c66bdf78097d3afa368",
+    "edition": 225,
+    "date": 1701902850295,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Orange"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sylvan"
+        },
+        {
+            "trait_type": "Sylvan/Body",
+            "value": "Autumn Wood"
+        },
+        {
+            "trait_type": "Sylvan/Faces",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sylvan/Branches",
+            "value": "Foliage"
+        },
+        {
+            "trait_type": "Sylvan/Accessories",
+            "value": "Fern Blade"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

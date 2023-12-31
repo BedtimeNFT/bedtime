@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #362",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "1b7770401d98827a6e092ea37614336711ada18c",
-  "edition": 362,
-  "date": 1701903643185,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Grass Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Void"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Red Clawed"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Bruise Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Soot Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #362",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/362.png",
+    "dna": "1b7770401d98827a6e092ea37614336711ada18c",
+    "edition": 362,
+    "date": 1701903643185,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grass Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Void"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Red Clawed"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Bruise Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Soot Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

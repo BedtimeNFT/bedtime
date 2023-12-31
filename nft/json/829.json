@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #829",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d70025d45b39eb1cb08a08c692c53ae190a74e42",
-  "edition": 829,
-  "date": 1701902823779,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Orange"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Autumn Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Red Glow"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Short Pink Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Bone Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #829",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/829.png",
+    "dna": "d70025d45b39eb1cb08a08c692c53ae190a74e42",
+    "edition": 829,
+    "date": 1701902823779,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Orange"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Autumn Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Red Glow"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Short Pink Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Bone Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

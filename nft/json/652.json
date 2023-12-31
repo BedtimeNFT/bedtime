@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #652",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4650c667db37c0ca038184a3dc08e39811099b0d",
-  "edition": 652,
-  "date": 1701903542813,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Gray"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Tawny"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Bright"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Soot Crown"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Grime Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #652",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/652.png",
+    "dna": "4650c667db37c0ca038184a3dc08e39811099b0d",
+    "edition": 652,
+    "date": 1701903542813,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Gray"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Tawny"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Soot Crown"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Grime Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

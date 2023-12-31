@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #356",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d6ca4ce713c65677848546a722122fcbdcb17346",
-  "edition": 356,
-  "date": 1701903308606,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Deadwood Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Blue Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Torqouis"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #356",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/356.png",
+    "dna": "d6ca4ce713c65677848546a722122fcbdcb17346",
+    "edition": 356,
+    "date": 1701903308606,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Deadwood Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Blue Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Torqouis"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

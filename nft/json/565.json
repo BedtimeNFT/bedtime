@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #565",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "939cc5839d24d30ea585069ab95279fcdaeeefb0",
-  "edition": 565,
-  "date": 1701903203993,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Light"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Light"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Light glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Amber curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #565",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/565.png",
+    "dna": "939cc5839d24d30ea585069ab95279fcdaeeefb0",
+    "edition": 565,
+    "date": 1701903203993,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Light glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Amber curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

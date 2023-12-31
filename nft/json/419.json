@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #419",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "b4f3d25a6434c1cda9b9aa78ca67e5bf3bccaed5",
-  "edition": 419,
-  "date": 1701903254924,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Teal Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted blue"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Snow glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Midnight"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #419",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/419.png",
+    "dna": "b4f3d25a6434c1cda9b9aa78ca67e5bf3bccaed5",
+    "edition": 419,
+    "date": 1701903254924,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Teal Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted blue"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Snow glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Midnight"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Verdant"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #371",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "f4c59f9d9e11aa0682ead28b50831c99996834e4",
-  "edition": 371,
-  "date": 1701903753140,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bubblegum"
-    },
-    {
-      "trait_type": "Bubblegum/Bubbles",
-      "value": "Blue Bubbles"
-    },
-    {
-      "trait_type": "Bubblegum/Wings",
-      "value": "Gum"
-    },
-    {
-      "trait_type": "Bubblegum/Body",
-      "value": "Lime Candy"
-    },
-    {
-      "trait_type": "Bubblegum/Scales",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Bubblegum/Eyes",
-      "value": "Light Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #371",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/371.png",
+    "dna": "f4c59f9d9e11aa0682ead28b50831c99996834e4",
+    "edition": 371,
+    "date": 1701903753140,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Bubblegum/Bubbles",
+            "value": "Blue Bubbles"
+        },
+        {
+            "trait_type": "Bubblegum/Wings",
+            "value": "Gum"
+        },
+        {
+            "trait_type": "Bubblegum/Body",
+            "value": "Lime Candy"
+        },
+        {
+            "trait_type": "Bubblegum/Scales",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Bubblegum/Eyes",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

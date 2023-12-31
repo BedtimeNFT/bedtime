@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #780",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "e7b96a993ee9a4f55b7f0b1faaa66f1e4a1d8688",
-  "edition": 780,
-  "date": 1701903321267,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Barren Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Blue Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Bright Blue"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "Blue Crystals"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #780",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/780.png",
+    "dna": "e7b96a993ee9a4f55b7f0b1faaa66f1e4a1d8688",
+    "edition": 780,
+    "date": 1701903321267,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Barren Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Blue Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Bright Blue"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "Blue Crystals"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

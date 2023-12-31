@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #305",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "3a3fdbee60ca09c7324244354cd9b9a3631d40ed",
-  "edition": 305,
-  "date": 1701902944169,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Woodland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Willow"
-    },
-    {
-      "trait_type": "Willow/Body",
-      "value": "Purple Beaded"
-    },
-    {
-      "trait_type": "Willow/Eyes",
-      "value": "Pastel"
-    },
-    {
-      "trait_type": "Willow/Antenna",
-      "value": "Red Flare"
-    },
-    {
-      "trait_type": "Willow/Wings",
-      "value": "Blue 6"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #305",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/305.png",
+    "dna": "3a3fdbee60ca09c7324244354cd9b9a3631d40ed",
+    "edition": 305,
+    "date": 1701902944169,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Woodland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Willow"
+        },
+        {
+            "trait_type": "Willow/Body",
+            "value": "Purple Beaded"
+        },
+        {
+            "trait_type": "Willow/Eyes",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Willow/Antenna",
+            "value": "Red Flare"
+        },
+        {
+            "trait_type": "Willow/Wings",
+            "value": "Blue 6"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

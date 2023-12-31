@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #880",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "0087db730872f8f61061f7185c9741b6d0324a40",
-  "edition": 880,
-  "date": 1701902921453,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Demon Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Lime Spotted"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin(1)"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Yellow Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Fall"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #880",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/880.png",
+    "dna": "0087db730872f8f61061f7185c9741b6d0324a40",
+    "edition": 880,
+    "date": 1701902921453,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Demon Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Lime Spotted"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin(1)"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Yellow Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Fall"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #799",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "7b97bbd69ef62fb96bd650efd75881641c709ba7",
-  "edition": 799,
-  "date": 1701903511898,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Snow Cap"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Red Basic"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Soot Fanged"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Mossy Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Red Horned"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Blue Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #799",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/799.png",
+    "dna": "7b97bbd69ef62fb96bd650efd75881641c709ba7",
+    "edition": 799,
+    "date": 1701903511898,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow Cap"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Red Basic"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Soot Fanged"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Mossy Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Red Horned"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Blue Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

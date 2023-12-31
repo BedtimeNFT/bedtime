@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #719",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "942c344a2d8238f2b699fb59e535034741fc5bcb",
-  "edition": 719,
-  "date": 1701903337653,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Green"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Warped Smoke"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Spirit Blue"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Cold Leather Armor"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #719",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/719.png",
+    "dna": "942c344a2d8238f2b699fb59e535034741fc5bcb",
+    "edition": 719,
+    "date": 1701903337653,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Green"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Warped Smoke"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Spirit Blue"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Cold Leather Armor"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

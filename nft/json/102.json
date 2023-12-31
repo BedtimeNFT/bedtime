@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #102",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "15f2e1b7ea85c7958847dd58cb307f9bf9733682",
-  "edition": 102,
-  "date": 1701903485659,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Midnight Adorned"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Dusk Fanged"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Soot Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Flame Red Horned"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Blue Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #102",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/102.png",
+    "dna": "15f2e1b7ea85c7958847dd58cb307f9bf9733682",
+    "edition": 102,
+    "date": 1701903485659,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Midnight Adorned"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Dusk Fanged"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Soot Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Flame Red Horned"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Blue Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

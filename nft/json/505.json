@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #505",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "c86e55fee96386ab3f8022ab24646fa53ee902db",
-  "edition": 505,
-  "date": 1701903802326,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Cherry"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Cotton Candy"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #505",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/505.png",
+    "dna": "c86e55fee96386ab3f8022ab24646fa53ee902db",
+    "edition": 505,
+    "date": 1701903802326,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Cherry"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

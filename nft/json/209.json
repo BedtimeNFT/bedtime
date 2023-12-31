@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #209",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "a19af5a82187a602719e4f608596d9609f6854c4",
-  "edition": 209,
-  "date": 1701902786296,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Lime Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Pink Glow"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Red Crest"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Dual Bone Daggers"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #209",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/209.png",
+    "dna": "a19af5a82187a602719e4f608596d9609f6854c4",
+    "edition": 209,
+    "date": 1701902786296,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Lime Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Pink Glow"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Red Crest"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Dual Bone Daggers"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

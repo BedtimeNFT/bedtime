@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #876",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "df1fd9c53e3044d37c332e6f41062d160ebc3b40",
-  "edition": 876,
-  "date": 1701903663492,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Blood Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Orang Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Dusk Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #876",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/876.png",
+    "dna": "df1fd9c53e3044d37c332e6f41062d160ebc3b40",
+    "edition": 876,
+    "date": 1701903663492,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Blood Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Orang Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Dusk Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

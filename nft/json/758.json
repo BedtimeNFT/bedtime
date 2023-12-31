@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #758",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5b52d7c45f55fd2b034097774d63247ef3945c37",
-  "edition": 758,
-  "date": 1701903562311,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Bruised"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Infernal"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Dusk Crown"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Red Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #758",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/758.png",
+    "dna": "5b52d7c45f55fd2b034097774d63247ef3945c37",
+    "edition": 758,
+    "date": 1701903562311,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Bruised"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Infernal"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Dusk Crown"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Red Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

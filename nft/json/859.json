@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #859",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "bbce6149f2695de961dc5ce9275ff53363495f44",
-  "edition": 859,
-  "date": 1701903569311,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Soot"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Inferno Horns"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Grime Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #859",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/859.png",
+    "dna": "bbce6149f2695de961dc5ce9275ff53363495f44",
+    "edition": 859,
+    "date": 1701903569311,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Soot"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Inferno Horns"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Grime Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

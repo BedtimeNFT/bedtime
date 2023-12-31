@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #979",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "6cf2a7953eace226e1e41b06fc1c8809d83f478c",
-  "edition": 979,
-  "date": 1701903385256,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Blue stars"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Frost flare"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #979",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/979.png",
+    "dna": "6cf2a7953eace226e1e41b06fc1c8809d83f478c",
+    "edition": 979,
+    "date": 1701903385256,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Blue stars"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Frost flare"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

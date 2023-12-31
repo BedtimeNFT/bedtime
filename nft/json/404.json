@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #404",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "6f1f0e5f02465d19cb4a71e4b566f87eef241ba3",
-  "edition": 404,
-  "date": 1701903293882,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Green Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "One Crystal"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #404",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/404.png",
+    "dna": "6f1f0e5f02465d19cb4a71e4b566f87eef241ba3",
+    "edition": 404,
+    "date": 1701903293882,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Green Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "One Crystal"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

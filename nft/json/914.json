@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #914",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "30284d05009d3e4ee3a338b5a5078d7c85ac64b4",
-  "edition": 914,
-  "date": 1701902919839,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Red Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Young Light Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #914",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/914.png",
+    "dna": "30284d05009d3e4ee3a338b5a5078d7c85ac64b4",
+    "edition": 914,
+    "date": 1701902919839,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Red Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Young Light Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

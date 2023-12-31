@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #358",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "3863ba1991c5f336ba2729a1a47c7566147e401e",
-  "edition": 358,
-  "date": 1701903341283,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals Dusk"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Warped Aurora"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Soot Fur"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "White"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Cold Leather Armor"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #358",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/358.png",
+    "dna": "3863ba1991c5f336ba2729a1a47c7566147e401e",
+    "edition": 358,
+    "date": 1701903341283,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals Dusk"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Warped Aurora"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Soot Fur"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "White"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Cold Leather Armor"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

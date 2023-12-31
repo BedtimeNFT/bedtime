@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #821",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "9c81e64457c8a049ff66533b9d05895a2fbc48d1",
-  "edition": 821,
-  "date": 1701903760134,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bubblegum"
-    },
-    {
-      "trait_type": "Bubblegum/Bubbles",
-      "value": "Pink Bubbles"
-    },
-    {
-      "trait_type": "Bubblegum/Wings",
-      "value": "Caramel"
-    },
-    {
-      "trait_type": "Bubblegum/Body",
-      "value": "Pink Candy"
-    },
-    {
-      "trait_type": "Bubblegum/Scales",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Bubblegum/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #821",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/821.png",
+    "dna": "9c81e64457c8a049ff66533b9d05895a2fbc48d1",
+    "edition": 821,
+    "date": 1701903760134,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Bubblegum/Bubbles",
+            "value": "Pink Bubbles"
+        },
+        {
+            "trait_type": "Bubblegum/Wings",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Bubblegum/Body",
+            "value": "Pink Candy"
+        },
+        {
+            "trait_type": "Bubblegum/Scales",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bubblegum/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

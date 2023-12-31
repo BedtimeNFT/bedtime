@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #368",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "194ddcb23ff0fd56d1d0ff0913f0ff84e784a769",
-  "edition": 368,
-  "date": 1701903644601,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Blue Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Tan Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Grime Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #368",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/368.png",
+    "dna": "194ddcb23ff0fd56d1d0ff0913f0ff84e784a769",
+    "edition": 368,
+    "date": 1701903644601,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Blue Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Tan Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Grime Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

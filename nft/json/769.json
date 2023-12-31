@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #769",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "064361ad59d3a3acc2ec6d1ed1047a5ea4449ff9",
-  "edition": 769,
-  "date": 1701902923141,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mystic Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin(1)"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Blue Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #769",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/769.png",
+    "dna": "064361ad59d3a3acc2ec6d1ed1047a5ea4449ff9",
+    "edition": 769,
+    "date": 1701902923141,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mystic Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin(1)"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

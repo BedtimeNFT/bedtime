@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #518",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "9d18589674a669e6706216f0669b6f0c06cb6376",
-  "edition": 518,
-  "date": 1701902922514,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mystic Woods"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Green Spotted"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Red Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Fall"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #518",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/518.png",
+    "dna": "9d18589674a669e6706216f0669b6f0c06cb6376",
+    "edition": 518,
+    "date": 1701902922514,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mystic Woods"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Green Spotted"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Red Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Fall"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

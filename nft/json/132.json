@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #132",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "fa7b2e60583c6d249fac9d292031232d93f51272",
-  "edition": 132,
-  "date": 1701903848516,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sugarplum"
-    },
-    {
-      "trait_type": "Sugarplum/Wings",
-      "value": "Candy Blue"
-    },
-    {
-      "trait_type": "Sugarplum/Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Sugarplum/Face",
-      "value": "Blue Eyed"
-    },
-    {
-      "trait_type": "Sugarplum/Tunic",
-      "value": "Blues"
-    },
-    {
-      "trait_type": "Sugarplum/Hair",
-      "value": "Long Green"
-    },
-    {
-      "trait_type": "Sugarplum/Accessories",
-      "value": "Magic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #132",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/132.png",
+    "dna": "fa7b2e60583c6d249fac9d292031232d93f51272",
+    "edition": 132,
+    "date": 1701903848516,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sugarplum"
+        },
+        {
+            "trait_type": "Sugarplum/Wings",
+            "value": "Candy Blue"
+        },
+        {
+            "trait_type": "Sugarplum/Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Sugarplum/Face",
+            "value": "Blue Eyed"
+        },
+        {
+            "trait_type": "Sugarplum/Tunic",
+            "value": "Blues"
+        },
+        {
+            "trait_type": "Sugarplum/Hair",
+            "value": "Long Green"
+        },
+        {
+            "trait_type": "Sugarplum/Accessories",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #350",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "3acd626ce59cafad1afc08499f0589cb7c8eff4a",
-  "edition": 350,
-  "date": 1701903376648,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Blue Fur"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Glacier Breaker"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #350",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/350.png",
+    "dna": "3acd626ce59cafad1afc08499f0589cb7c8eff4a",
+    "edition": 350,
+    "date": 1701903376648,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Blue Fur"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Glacier Breaker"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

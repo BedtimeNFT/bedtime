@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #728",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "0493cf0fc1a4295ec9b1182114ddaf98c6d014a3",
-  "edition": 728,
-  "date": 1701903106907,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Portal Beam"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #728",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/728.png",
+    "dna": "0493cf0fc1a4295ec9b1182114ddaf98c6d014a3",
+    "edition": 728,
+    "date": 1701903106907,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Portal Beam"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

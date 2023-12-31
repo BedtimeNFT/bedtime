@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #10",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "07bbc771ef7d998c9cdcdf970410afea4b45aa33",
-  "edition": 10,
-  "date": 1701903298716,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Blue Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Deep Blue"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Torqouis"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Bright Red"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #10",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/10.png",
+    "dna": "07bbc771ef7d998c9cdcdf970410afea4b45aa33",
+    "edition": 10,
+    "date": 1701903298716,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Blue Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Deep Blue"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Torqouis"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Bright Red"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

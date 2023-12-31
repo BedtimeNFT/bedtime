@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #982",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cdb7e3474cf2571c4b38d410ef65771da0cc469d",
-  "edition": 982,
-  "date": 1701903384179,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Pink"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Ice blue"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Eagle Eye"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #982",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/982.png",
+    "dna": "cdb7e3474cf2571c4b38d410ef65771da0cc469d",
+    "edition": 982,
+    "date": 1701903384179,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Pink"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Ice blue"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Eagle Eye"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

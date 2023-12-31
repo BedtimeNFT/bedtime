@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #824",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "92068ee74d2098ff9aea578d0cf66905a342df84",
-  "edition": 824,
-  "date": 1701903661234,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Grass Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Gray"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Purple Clawed"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Blue Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Grime Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #824",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/824.png",
+    "dna": "92068ee74d2098ff9aea578d0cf66905a342df84",
+    "edition": 824,
+    "date": 1701903661234,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Grass Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Purple Clawed"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Blue Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Grime Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #248",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "1cd58aec719ae21beca35550708b9a45a2f5c12e",
-  "edition": 248,
-  "date": 1701902795299,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Demon Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Pink Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Blue Glow"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Short Rose Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Pastel"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Bone Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #248",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/248.png",
+    "dna": "1cd58aec719ae21beca35550708b9a45a2f5c12e",
+    "edition": 248,
+    "date": 1701902795299,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Demon Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Pink Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Short Rose Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Bone Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

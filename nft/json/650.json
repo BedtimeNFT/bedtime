@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #650",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "72fb4bebaf9daaf99a85dde0af07f3da5c790d36",
-  "edition": 650,
-  "date": 1701903798376,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Butterscotch"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Bubblegum Candy"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Raspberry"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Green Candy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #650",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/650.png",
+    "dna": "72fb4bebaf9daaf99a85dde0af07f3da5c790d36",
+    "edition": 650,
+    "date": 1701903798376,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Butterscotch"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Bubblegum Candy"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Raspberry"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Green Candy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

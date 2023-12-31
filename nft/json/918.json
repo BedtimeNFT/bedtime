@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #918",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "780b8a316c0f49a47a7809a70821c181b8f71660",
-  "edition": 918,
-  "date": 1701902920471,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Purple Spotted"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Grin"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Base"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #918",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/918.png",
+    "dna": "780b8a316c0f49a47a7809a70821c181b8f71660",
+    "edition": 918,
+    "date": 1701902920471,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Purple Spotted"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Grin"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Base"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

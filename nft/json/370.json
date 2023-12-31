@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #370",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "598ab1bba6c2d1e3df6adf7236076efe81769055",
-  "edition": 370,
-  "date": 1701903428338,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Power Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Light blue"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #370",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/370.png",
+    "dna": "598ab1bba6c2d1e3df6adf7236076efe81769055",
+    "edition": 370,
+    "date": 1701903428338,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Power Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Light blue"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

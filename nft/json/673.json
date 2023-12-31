@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #673",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "446c89d536d5588243c07dc3127870aac330b10b",
-  "edition": 673,
-  "date": 1701903716957,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals Dusk"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Mint"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Silver Dust"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Raspberry"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Sugar Hoof"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #673",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/673.png",
+    "dna": "446c89d536d5588243c07dc3127870aac330b10b",
+    "edition": 673,
+    "date": 1701903716957,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals Dusk"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Mint"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Silver Dust"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Raspberry"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Sugar Hoof"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

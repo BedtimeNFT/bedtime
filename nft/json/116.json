@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #116",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "86b0354110d3b78c633a1592d5afd45417d86cb5",
-  "edition": 116,
-  "date": 1701903263100,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted light"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Ice glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Deep blue"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #116",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/116.png",
+    "dna": "86b0354110d3b78c633a1592d5afd45417d86cb5",
+    "edition": 116,
+    "date": 1701903263100,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted light"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Ice glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Deep blue"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

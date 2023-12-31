@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #83",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "052331ebd846f92004478715a6c7ab563a1dc967",
-  "edition": 83,
-  "date": 1701903732476,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Red"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Silver Dust"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Lime"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Blue Candy"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Lemon"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #83",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/83.png",
+    "dna": "052331ebd846f92004478715a6c7ab563a1dc967",
+    "edition": 83,
+    "date": 1701903732476,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Red"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Silver Dust"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Blue Candy"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Lemon"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

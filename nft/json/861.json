@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #861",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "52ba52fe5f2470f64fc1d0b1f305e7869f7663dd",
-  "edition": 861,
-  "date": 1701903382022,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Ice Blue"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Blue 4"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Diamond"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Eagle Eye"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #861",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/861.png",
+    "dna": "52ba52fe5f2470f64fc1d0b1f305e7869f7663dd",
+    "edition": 861,
+    "date": 1701903382022,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Ice Blue"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Blue 4"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Diamond"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Eagle Eye"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

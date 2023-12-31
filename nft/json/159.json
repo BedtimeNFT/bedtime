@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #159",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d38332307ddf0ac461d3eb74cf38360caef62d76",
-  "edition": 159,
-  "date": 1701903256846,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted light"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Ice glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Obsidian"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Neon"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #159",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/159.png",
+    "dna": "d38332307ddf0ac461d3eb74cf38360caef62d76",
+    "edition": 159,
+    "date": 1701903256846,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted light"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Ice glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Obsidian"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

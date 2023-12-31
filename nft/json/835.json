@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #835",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "9fec9f0fb909e3ef03643ca0608b73230ccce4ee",
-  "edition": 835,
-  "date": 1701903479663,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Red"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Soot Basic"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Red Folded"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Mossy Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Red Horned"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Blue Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #835",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/835.png",
+    "dna": "9fec9f0fb909e3ef03643ca0608b73230ccce4ee",
+    "edition": 835,
+    "date": 1701903479663,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Red"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Soot Basic"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Red Folded"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Mossy Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Red Horned"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Blue Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

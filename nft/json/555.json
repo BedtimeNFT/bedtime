@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #555",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "b6bc7cd2403b06401849fdf3d327711c1d9af11c",
-  "edition": 555,
-  "date": 1701902798587,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Frostland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Yellow Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Gray"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Tropical"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Long Pink Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Tropical"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Poison Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #555",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/555.png",
+    "dna": "b6bc7cd2403b06401849fdf3d327711c1d9af11c",
+    "edition": 555,
+    "date": 1701902798587,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Frostland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Yellow Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Tropical"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Long Pink Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Tropical"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Poison Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #138",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "99ae7ed24b8fa37a1d42cdd5d5c03e510e45bf82",
-  "edition": 138,
-  "date": 1701903323269,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Teal"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Blue Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Deep Blue"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Torqouis"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Bright Red"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "Red Crystals"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #138",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/138.png",
+    "dna": "99ae7ed24b8fa37a1d42cdd5d5c03e510e45bf82",
+    "edition": 138,
+    "date": 1701903323269,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Teal"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Blue Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Deep Blue"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Torqouis"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Bright Red"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "Red Crystals"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

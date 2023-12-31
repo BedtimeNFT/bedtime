@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #446",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "39693f14befeae156eb5f652330e16ecd9c178a8",
-  "edition": 446,
-  "date": 1701903072014,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Light Greens"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Bubble Beam"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #446",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/446.png",
+    "dna": "39693f14befeae156eb5f652330e16ecd9c178a8",
+    "edition": 446,
+    "date": 1701903072014,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Light Greens"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Bubble Beam"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #46",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "dd416e34f81bf25f6ccd2576a155a53e5cc8d78f",
-  "edition": 46,
-  "date": 1701903626615,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Grime Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Teal Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Green Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #46",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/46.png",
+    "dna": "dd416e34f81bf25f6ccd2576a155a53e5cc8d78f",
+    "edition": 46,
+    "date": 1701903626615,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Grime Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Teal Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Green Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

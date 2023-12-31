@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #47",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "72ae6ba801a60f64f36c2ecdf2b14e0a4a48b995",
-  "edition": 47,
-  "date": 1701903675947,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Demon Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Chaos"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Purple Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Bruise Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Grime Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #47",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/47.png",
+    "dna": "72ae6ba801a60f64f36c2ecdf2b14e0a4a48b995",
+    "edition": 47,
+    "date": 1701903675947,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Demon Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Chaos"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Purple Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Bruise Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Grime Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

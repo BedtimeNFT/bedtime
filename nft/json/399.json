@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #399",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "c5fc7c1ced7fe0193f7a5a32015f7865b07a954c",
-  "edition": 399,
-  "date": 1701903707418,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Candy Foil"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Watermelon"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Mango"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Blueberry"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #399",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/399.png",
+    "dna": "c5fc7c1ced7fe0193f7a5a32015f7865b07a954c",
+    "edition": 399,
+    "date": 1701903707418,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Candy Foil"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Watermelon"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Mango"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Blueberry"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

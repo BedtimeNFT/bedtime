@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #192",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5d11f875b61889a5ab292e8747d22dee75038a10",
-  "edition": 192,
-  "date": 1701903152681,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candy Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Zephyr"
-    },
-    {
-      "trait_type": "Zephyr/Tails",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Zephyr/Wings",
-      "value": "Prism"
-    },
-    {
-      "trait_type": "Zephyr/Accents",
-      "value": "Light energy"
-    },
-    {
-      "trait_type": "Zephyr/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Zephyr/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #192",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/192.png",
+    "dna": "5d11f875b61889a5ab292e8747d22dee75038a10",
+    "edition": 192,
+    "date": 1701903152681,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candy Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Zephyr"
+        },
+        {
+            "trait_type": "Zephyr/Tails",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Zephyr/Wings",
+            "value": "Prism"
+        },
+        {
+            "trait_type": "Zephyr/Accents",
+            "value": "Light energy"
+        },
+        {
+            "trait_type": "Zephyr/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Zephyr/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #91",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "04497d44a271b761190f97513aa64226fb9b1d97",
-  "edition": 91,
-  "date": 1701903431163,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candyland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Legend"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Majestic"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #91",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/91.png",
+    "dna": "04497d44a271b761190f97513aa64226fb9b1d97",
+    "edition": 91,
+    "date": 1701903431163,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candyland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Majestic"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

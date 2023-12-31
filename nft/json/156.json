@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #156",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "88df86432597f331abe963310d163650f8554e51",
-  "edition": 156,
-  "date": 1701902875408,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sylvan"
-    },
-    {
-      "trait_type": "Sylvan/Body",
-      "value": "Foliage"
-    },
-    {
-      "trait_type": "Sylvan/Faces",
-      "value": "Midnight Foliage"
-    },
-    {
-      "trait_type": "Sylvan/Branches",
-      "value": "Pastel Ferns"
-    },
-    {
-      "trait_type": "Sylvan/Accessories",
-      "value": "Southpaw"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #156",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/156.png",
+    "dna": "88df86432597f331abe963310d163650f8554e51",
+    "edition": 156,
+    "date": 1701902875408,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sylvan"
+        },
+        {
+            "trait_type": "Sylvan/Body",
+            "value": "Foliage"
+        },
+        {
+            "trait_type": "Sylvan/Faces",
+            "value": "Midnight Foliage"
+        },
+        {
+            "trait_type": "Sylvan/Branches",
+            "value": "Pastel Ferns"
+        },
+        {
+            "trait_type": "Sylvan/Accessories",
+            "value": "Southpaw"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

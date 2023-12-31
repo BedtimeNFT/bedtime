@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #883",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "2c2d84e02407c6b6d36eb25bf842117e35b362c3",
-  "edition": 883,
-  "date": 1701903508117,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Red Basic"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Rusty Fanged"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Mossy Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Flame Green Horned"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Red Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #883",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/883.png",
+    "dna": "2c2d84e02407c6b6d36eb25bf842117e35b362c3",
+    "edition": 883,
+    "date": 1701903508117,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Red Basic"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Rusty Fanged"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Mossy Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Flame Green Horned"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Red Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

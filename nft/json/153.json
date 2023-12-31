@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #153",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "bf07e47fcf07905f4cef29bd8b89c9958fb4cab9",
-  "edition": 153,
-  "date": 1701903022629,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Astrea"
-    },
-    {
-      "trait_type": "Astrea/Aura",
-      "value": "Soft"
-    },
-    {
-      "trait_type": "Astrea/Body",
-      "value": "Origin"
-    },
-    {
-      "trait_type": "Astrea/Head",
-      "value": "Origin"
-    },
-    {
-      "trait_type": "Astrea/Face",
-      "value": "Ethereal"
-    },
-    {
-      "trait_type": "Astrea/Wings",
-      "value": "Dreamy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #153",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/153.png",
+    "dna": "bf07e47fcf07905f4cef29bd8b89c9958fb4cab9",
+    "edition": 153,
+    "date": 1701903022629,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Astrea"
+        },
+        {
+            "trait_type": "Astrea/Aura",
+            "value": "Soft"
+        },
+        {
+            "trait_type": "Astrea/Body",
+            "value": "Origin"
+        },
+        {
+            "trait_type": "Astrea/Head",
+            "value": "Origin"
+        },
+        {
+            "trait_type": "Astrea/Face",
+            "value": "Ethereal"
+        },
+        {
+            "trait_type": "Astrea/Wings",
+            "value": "Dreamy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

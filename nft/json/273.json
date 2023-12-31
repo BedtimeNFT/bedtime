@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #273",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "209d154a908702a144a1aee9cf33c6091480db10",
-  "edition": 273,
-  "date": 1701903110943,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Frostland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Blue White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Rage"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #273",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/273.png",
+    "dna": "209d154a908702a144a1aee9cf33c6091480db10",
+    "edition": 273,
+    "date": 1701903110943,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Frostland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Blue White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Rage"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #2",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "88b75aa9da8f7fa400275532d8f8790bd877e5f2",
+  "edition": 2,
+  "date": 1701903526635,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Mossy Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Flame Dusk Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

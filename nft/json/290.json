@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #290",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "8f25f66daf1399541d9dd9931c8a744c1a9dd061",
-  "edition": 290,
-  "date": 1701903809195,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Bush Daytime"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Rainbow Sparkle"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Caramel"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Lime"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Blue Sparkle"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Caramel"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #290",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/290.png",
+    "dna": "8f25f66daf1399541d9dd9931c8a744c1a9dd061",
+    "edition": 290,
+    "date": 1701903809195,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bush Daytime"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Rainbow Sparkle"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Blue Sparkle"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

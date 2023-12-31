@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #709",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5434ceaf80c70768bf6ad6c4ab18e09310c1ceeb",
-  "edition": 709,
-  "date": 1701902962260,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals Dusk"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Willow"
-    },
-    {
-      "trait_type": "Willow/Body",
-      "value": "Green Beaded"
-    },
-    {
-      "trait_type": "Willow/Eyes",
-      "value": "Multicolor"
-    },
-    {
-      "trait_type": "Willow/Antenna",
-      "value": "Red Pincer"
-    },
-    {
-      "trait_type": "Willow/Wings",
-      "value": "Green 6"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #709",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/709.png",
+    "dna": "5434ceaf80c70768bf6ad6c4ab18e09310c1ceeb",
+    "edition": 709,
+    "date": 1701902962260,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals Dusk"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Willow"
+        },
+        {
+            "trait_type": "Willow/Body",
+            "value": "Green Beaded"
+        },
+        {
+            "trait_type": "Willow/Eyes",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Willow/Antenna",
+            "value": "Red Pincer"
+        },
+        {
+            "trait_type": "Willow/Wings",
+            "value": "Green 6"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

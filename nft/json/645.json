@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #645",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "58840e8acbf01d50c0300203e9ba4058d66b39ae",
-  "edition": 645,
-  "date": 1701903380971,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Blue stars"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Blue 4"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Snow Flare"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #645",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/645.png",
+    "dna": "58840e8acbf01d50c0300203e9ba4058d66b39ae",
+    "edition": 645,
+    "date": 1701903380971,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Blue stars"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Blue 4"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Snow Flare"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

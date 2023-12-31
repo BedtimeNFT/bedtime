@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #841",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "bb12014a71c00d05bb6e1f10618886a98f569dbd",
-  "edition": 841,
-  "date": 1701903719385,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Blue Sugar"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Candy Swirl"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Pink Candy"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Sugar Hoof"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #841",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/841.png",
+    "dna": "bb12014a71c00d05bb6e1f10618886a98f569dbd",
+    "edition": 841,
+    "date": 1701903719385,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Blue Sugar"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Candy Swirl"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Pink Candy"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Sugar Hoof"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

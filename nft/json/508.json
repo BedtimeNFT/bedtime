@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #508",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4c707a8bfa46488faf53da14cc26b2131a0e30a7",
-  "edition": 508,
-  "date": 1701903064157,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Woodland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Gold Storm"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Amber White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #508",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/508.png",
+    "dna": "4c707a8bfa46488faf53da14cc26b2131a0e30a7",
+    "edition": 508,
+    "date": 1701903064157,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Woodland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Gold Storm"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Amber White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

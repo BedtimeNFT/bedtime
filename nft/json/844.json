@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #844",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "53ebe5544f2da92318f28308f17337cdb11772dd",
-  "edition": 844,
-  "date": 1701903197277,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Sparkle"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Amber glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Golden Curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #844",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/844.png",
+    "dna": "53ebe5544f2da92318f28308f17337cdb11772dd",
+    "edition": 844,
+    "date": 1701903197277,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Sparkle"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Amber glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Golden Curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

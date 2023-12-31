@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #801",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "11bd578b4513ee3920cddb2262292e0352207267",
-  "edition": 801,
-  "date": 1701903570900,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Bruised"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Grim"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Dusk Horns"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Tawny Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #801",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/801.png",
+    "dna": "11bd578b4513ee3920cddb2262292e0352207267",
+    "edition": 801,
+    "date": 1701903570900,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Bruised"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Grim"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Dusk Horns"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Tawny Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

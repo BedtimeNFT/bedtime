@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #352",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "e638eb8dcf073fba1f44f6b2e2deaab55b3b0e13",
-  "edition": 352,
-  "date": 1701903702065,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Orange"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Blue Sugar"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Candy Foil"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Silver Dust"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Blueberry"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #352",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/352.png",
+    "dna": "e638eb8dcf073fba1f44f6b2e2deaab55b3b0e13",
+    "edition": 352,
+    "date": 1701903702065,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Orange"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Blue Sugar"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Candy Foil"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Silver Dust"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Blueberry"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

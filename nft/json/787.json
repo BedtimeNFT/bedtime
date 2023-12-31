@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #787",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "fb21e7fd3d7717bff6083c652a4b84d466921465",
-  "edition": 787,
-  "date": 1701902811059,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Pastel"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Long Autumn Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Bone Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #787",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/787.png",
+    "dna": "fb21e7fd3d7717bff6083c652a4b84d466921465",
+    "edition": 787,
+    "date": 1701902811059,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Long Autumn Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Bone Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

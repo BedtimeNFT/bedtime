@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #80",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "89295ed98b34130616c35643db0b76e90a76ddf2",
-  "edition": 80,
-  "date": 1701902860671,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sylvan"
-    },
-    {
-      "trait_type": "Sylvan/Body",
-      "value": "Foliage"
-    },
-    {
-      "trait_type": "Sylvan/Faces",
-      "value": "Foliage"
-    },
-    {
-      "trait_type": "Sylvan/Branches",
-      "value": "Pastel Ferns"
-    },
-    {
-      "trait_type": "Sylvan/Accessories",
-      "value": "Dual Blade"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #80",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/80.png",
+    "dna": "89295ed98b34130616c35643db0b76e90a76ddf2",
+    "edition": 80,
+    "date": 1701902860671,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sylvan"
+        },
+        {
+            "trait_type": "Sylvan/Body",
+            "value": "Foliage"
+        },
+        {
+            "trait_type": "Sylvan/Faces",
+            "value": "Foliage"
+        },
+        {
+            "trait_type": "Sylvan/Branches",
+            "value": "Pastel Ferns"
+        },
+        {
+            "trait_type": "Sylvan/Accessories",
+            "value": "Dual Blade"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

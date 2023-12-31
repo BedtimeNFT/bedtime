@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #942",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "9c49727c58a6fdb3598592d6c1174be6046c17fc",
-  "edition": 942,
-  "date": 1701902952396,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Magic Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Willow"
-    },
-    {
-      "trait_type": "Willow/Body",
-      "value": "Purple Beaded"
-    },
-    {
-      "trait_type": "Willow/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Willow/Antenna",
-      "value": "Green Pincer"
-    },
-    {
-      "trait_type": "Willow/Wings",
-      "value": "Crystal 4"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #942",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/942.png",
+    "dna": "9c49727c58a6fdb3598592d6c1174be6046c17fc",
+    "edition": 942,
+    "date": 1701902952396,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Magic Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Willow"
+        },
+        {
+            "trait_type": "Willow/Body",
+            "value": "Purple Beaded"
+        },
+        {
+            "trait_type": "Willow/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Willow/Antenna",
+            "value": "Green Pincer"
+        },
+        {
+            "trait_type": "Willow/Wings",
+            "value": "Crystal 4"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

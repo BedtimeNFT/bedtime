@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #155",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "30924cfe31118be6931c21d73fcdd98f3ecac966",
-  "edition": 155,
-  "date": 1701903097474,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Nimbus"
-    },
-    {
-      "trait_type": "Nimbus/Scales",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Nimbus/WingsNTails",
-      "value": "Amber White"
-    },
-    {
-      "trait_type": "Nimbus/Eyes",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Nimbus/Accessories",
-      "value": "Golden Sky"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #155",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/155.png",
+    "dna": "30924cfe31118be6931c21d73fcdd98f3ecac966",
+    "edition": 155,
+    "date": 1701903097474,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Nimbus"
+        },
+        {
+            "trait_type": "Nimbus/Scales",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Nimbus/WingsNTails",
+            "value": "Amber White"
+        },
+        {
+            "trait_type": "Nimbus/Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Nimbus/Accessories",
+            "value": "Golden Sky"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #515",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "62cda3fe4cb927c1d202761fffe4057c6940eb6d",
-  "edition": 515,
-  "date": 1701903206954,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Deadwood Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Mystical"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Power glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Golden Curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #515",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/515.png",
+    "dna": "62cda3fe4cb927c1d202761fffe4057c6940eb6d",
+    "edition": 515,
+    "date": 1701903206954,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Deadwood Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Mystical"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Power glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Golden Curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

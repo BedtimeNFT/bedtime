@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #615",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "20a5a52dc111a0974111540a4c26025197a4c8cf",
-  "edition": 615,
-  "date": 1701903198187,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Barren Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Mystical"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Mystical"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Amber glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Amber curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #615",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/615.png",
+    "dna": "20a5a52dc111a0974111540a4c26025197a4c8cf",
+    "edition": 615,
+    "date": 1701903198187,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Barren Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Mystical"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Mystical"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Amber glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Amber curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #464",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "40d6dddea5b7e7b988807386cded4b888ddf9b7e",
-  "edition": 464,
-  "date": 1701903186339,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Woodland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Zephyr"
-    },
-    {
-      "trait_type": "Zephyr/Tails",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Zephyr/Wings",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Zephyr/Accents",
-      "value": "No energy"
-    },
-    {
-      "trait_type": "Zephyr/Body",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Zephyr/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #464",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/464.png",
+    "dna": "40d6dddea5b7e7b988807386cded4b888ddf9b7e",
+    "edition": 464,
+    "date": 1701903186339,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Woodland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Zephyr"
+        },
+        {
+            "trait_type": "Zephyr/Tails",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Zephyr/Wings",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Zephyr/Accents",
+            "value": "No energy"
+        },
+        {
+            "trait_type": "Zephyr/Body",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Zephyr/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #15",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "2c32558cb6d5c2f58b1dc98e5b5af69a00ddf612",
-  "edition": 15,
-  "date": 1701903555664,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Demon Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Grime Crown"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "None"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #15",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/15.png",
+    "dna": "2c32558cb6d5c2f58b1dc98e5b5af69a00ddf612",
+    "edition": 15,
+    "date": 1701903555664,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Demon Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Grime Crown"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "None"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

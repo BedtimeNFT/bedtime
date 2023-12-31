@@ -21,7 +21,7 @@ var ABI = [
 		"constant": false,
 		"inputs": [
 		  {
-			"name": "_mintAmount",
+			"name": "_mintAmountSheesh",
 			"type": "uint256"
 		  },
 		  {

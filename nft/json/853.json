@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #853",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "a53be1c0bae29ca7baa3da4485195b502f9a6bfc",
-  "edition": 853,
-  "date": 1701903221535,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Amber glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Golden Curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Chaotic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #853",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/853.png",
+    "dna": "a53be1c0bae29ca7baa3da4485195b502f9a6bfc",
+    "edition": 853,
+    "date": 1701903221535,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Amber glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Golden Curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Chaotic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

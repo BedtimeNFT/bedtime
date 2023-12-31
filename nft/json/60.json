@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #60",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "b1e14003453bf397ce3582f061e372434ea1ea00",
-  "edition": 60,
-  "date": 1701903835552,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Blueberry"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Raspberry Candy"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Caramel"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #60",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/60.png",
+    "dna": "b1e14003453bf397ce3582f061e372434ea1ea00",
+    "edition": 60,
+    "date": 1701903835552,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Blueberry"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Raspberry Candy"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

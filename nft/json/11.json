@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #11",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5c761e14beba880cc8e0a48940315a5ca0954f5f",
-  "edition": 11,
-  "date": 1701903392938,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostbite"
-    },
-    {
-      "trait_type": "Frostbite/Tails",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Wings",
-      "value": "Blue Stars"
-    },
-    {
-      "trait_type": "Frostbite/Body",
-      "value": "Frozen"
-    },
-    {
-      "trait_type": "Frostbite/Head",
-      "value": "Blue Stars"
-    },
-    {
-      "trait_type": "Frostbite/Eyes",
-      "value": "Ice flare"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #11",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/11.png",
+    "dna": "5c761e14beba880cc8e0a48940315a5ca0954f5f",
+    "edition": 11,
+    "date": 1701903392938,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostbite"
+        },
+        {
+            "trait_type": "Frostbite/Tails",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Wings",
+            "value": "Blue Stars"
+        },
+        {
+            "trait_type": "Frostbite/Body",
+            "value": "Frozen"
+        },
+        {
+            "trait_type": "Frostbite/Head",
+            "value": "Blue Stars"
+        },
+        {
+            "trait_type": "Frostbite/Eyes",
+            "value": "Ice flare"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

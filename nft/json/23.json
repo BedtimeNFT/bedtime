@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #23",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "7f3e7b131f16a1424fba4b45bcbb6e1d5c7a9e02",
-  "edition": 23,
-  "date": 1701902812113,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Purple"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Pastel Down"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Gray"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Green Glow"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Short Yellow Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Dual Bone Daggers"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #23",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/23.png",
+    "dna": "7f3e7b131f16a1424fba4b45bcbb6e1d5c7a9e02",
+    "edition": 23,
+    "date": 1701902812113,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Purple"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Pastel Down"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Green Glow"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Short Yellow Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Dual Bone Daggers"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

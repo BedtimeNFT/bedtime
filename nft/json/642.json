@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #642",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "30ccea4d0256cd5add3892ea2d236c223f665c15",
-  "edition": 642,
-  "date": 1701903444655,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Legend"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Legend"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Legend"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #642",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/642.png",
+    "dna": "30ccea4d0256cd5add3892ea2d236c223f665c15",
+    "edition": 642,
+    "date": 1701903444655,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Legend"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

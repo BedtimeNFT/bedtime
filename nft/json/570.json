@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #570",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "1dc2d9e2fadd33adbf9001169740523951a2faae",
-  "edition": 570,
-  "date": 1701903668947,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Red Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Gray Clawed"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Dusk Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Teal Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #570",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/570.png",
+    "dna": "1dc2d9e2fadd33adbf9001169740523951a2faae",
+    "edition": 570,
+    "date": 1701903668947,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Gray Clawed"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Dusk Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Teal Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

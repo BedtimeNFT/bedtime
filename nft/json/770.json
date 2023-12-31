@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #770",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "747f99bdd81c3008733af8a82b40820e5aa8b4ba",
-  "edition": 770,
-  "date": 1701903329603,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Warped Aurora"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Blue Fur"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Glacier Breaker"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #770",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/770.png",
+    "dna": "747f99bdd81c3008733af8a82b40820e5aa8b4ba",
+    "edition": 770,
+    "date": 1701903329603,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Warped Aurora"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Blue Fur"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Glacier Breaker"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #640",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "3e120a3a96e41757efef54f8639af86c5df3d6c1",
-  "edition": 640,
-  "date": 1701903220552,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mystic Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Light"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Light glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Spring curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #640",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/640.png",
+    "dna": "3e120a3a96e41757efef54f8639af86c5df3d6c1",
+    "edition": 640,
+    "date": 1701903220552,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mystic Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Light glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Spring curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

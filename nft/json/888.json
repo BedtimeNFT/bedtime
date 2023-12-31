@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #888",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "7f6a9b33b768cff3e7278459e151bba12c06c5c8",
-  "edition": 888,
-  "date": 1701903629976,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Snow Cap"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Tawny Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Dusk Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Tan Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #888",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/888.png",
+    "dna": "7f6a9b33b768cff3e7278459e151bba12c06c5c8",
+    "edition": 888,
+    "date": 1701903629976,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow Cap"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Tawny Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Dusk Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Tan Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

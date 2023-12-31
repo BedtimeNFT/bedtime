@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #401",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "8f703bf66c9b5c15f55d27a075b61da24b3b1fd4",
-  "edition": 401,
-  "date": 1701903743781,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mystic Woods"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bubblegum"
-    },
-    {
-      "trait_type": "Bubblegum/Bubbles",
-      "value": "Blue Bubbles"
-    },
-    {
-      "trait_type": "Bubblegum/Wings",
-      "value": "Caramel"
-    },
-    {
-      "trait_type": "Bubblegum/Body",
-      "value": "Pink Candy"
-    },
-    {
-      "trait_type": "Bubblegum/Scales",
-      "value": "Blue(1)"
-    },
-    {
-      "trait_type": "Bubblegum/Eyes",
-      "value": "Cherry"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #401",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/401.png",
+    "dna": "8f703bf66c9b5c15f55d27a075b61da24b3b1fd4",
+    "edition": 401,
+    "date": 1701903743781,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mystic Woods"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Bubblegum/Bubbles",
+            "value": "Blue Bubbles"
+        },
+        {
+            "trait_type": "Bubblegum/Wings",
+            "value": "Caramel"
+        },
+        {
+            "trait_type": "Bubblegum/Body",
+            "value": "Pink Candy"
+        },
+        {
+            "trait_type": "Bubblegum/Scales",
+            "value": "Blue(1)"
+        },
+        {
+            "trait_type": "Bubblegum/Eyes",
+            "value": "Cherry"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

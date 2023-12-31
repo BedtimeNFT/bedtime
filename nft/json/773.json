@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #773",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cedc7fc1e571c7dab294053b6c4ea8d8da1da7a8",
-  "edition": 773,
-  "date": 1701903136665,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Shadow Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Zephyr"
-    },
-    {
-      "trait_type": "Zephyr/Tails",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Zephyr/Wings",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "Zephyr/Accents",
-      "value": "Light energy"
-    },
-    {
-      "trait_type": "Zephyr/Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Zephyr/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #773",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/773.png",
+    "dna": "cedc7fc1e571c7dab294053b6c4ea8d8da1da7a8",
+    "edition": 773,
+    "date": 1701903136665,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shadow Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Zephyr"
+        },
+        {
+            "trait_type": "Zephyr/Tails",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Zephyr/Wings",
+            "value": "Amber"
+        },
+        {
+            "trait_type": "Zephyr/Accents",
+            "value": "Light energy"
+        },
+        {
+            "trait_type": "Zephyr/Body",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Zephyr/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

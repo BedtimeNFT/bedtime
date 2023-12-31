@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #724",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "546a129e2579fb5a6624f6a694db01f51673f499",
-  "edition": 724,
-  "date": 1701903315166,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Purple Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Blizzard"
-    },
-    {
-      "trait_type": "Blizzard/Ground",
-      "value": "Green Hill"
-    },
-    {
-      "trait_type": "Blizzard/Wings",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Blizzard/Body",
-      "value": "Demonic Red"
-    },
-    {
-      "trait_type": "Blizzard/Eyes",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Blizzard/Accessories",
-      "value": "Blue Crystals"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #724",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/724.png",
+    "dna": "546a129e2579fb5a6624f6a694db01f51673f499",
+    "edition": 724,
+    "date": 1701903315166,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Purple Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Blizzard"
+        },
+        {
+            "trait_type": "Blizzard/Ground",
+            "value": "Green Hill"
+        },
+        {
+            "trait_type": "Blizzard/Wings",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Blizzard/Body",
+            "value": "Demonic Red"
+        },
+        {
+            "trait_type": "Blizzard/Eyes",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Blizzard/Accessories",
+            "value": "Blue Crystals"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

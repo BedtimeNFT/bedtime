@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #970",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "7d1f4666f8c709bba34823d5ea097bc63eb4467a",
-  "edition": 970,
-  "date": 1701903866133,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sugarplum"
-    },
-    {
-      "trait_type": "Sugarplum/Wings",
-      "value": "Candy Citrus"
-    },
-    {
-      "trait_type": "Sugarplum/Body",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Sugarplum/Face",
-      "value": "Purple Smile"
-    },
-    {
-      "trait_type": "Sugarplum/Tunic",
-      "value": "Pinks"
-    },
-    {
-      "trait_type": "Sugarplum/Hair",
-      "value": "Short Blue"
-    },
-    {
-      "trait_type": "Sugarplum/Accessories",
-      "value": "Magic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #970",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/970.png",
+    "dna": "7d1f4666f8c709bba34823d5ea097bc63eb4467a",
+    "edition": 970,
+    "date": 1701903866133,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sugarplum"
+        },
+        {
+            "trait_type": "Sugarplum/Wings",
+            "value": "Candy Citrus"
+        },
+        {
+            "trait_type": "Sugarplum/Body",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Sugarplum/Face",
+            "value": "Purple Smile"
+        },
+        {
+            "trait_type": "Sugarplum/Tunic",
+            "value": "Pinks"
+        },
+        {
+            "trait_type": "Sugarplum/Hair",
+            "value": "Short Blue"
+        },
+        {
+            "trait_type": "Sugarplum/Accessories",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #796",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d747e0effce5c6f3c287fe0d7a1cc528d8ec1bf2",
-  "edition": 796,
-  "date": 1701902999641,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Teal"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Astrea"
-    },
-    {
-      "trait_type": "Astrea/Aura",
-      "value": "Soft"
-    },
-    {
-      "trait_type": "Astrea/Body",
-      "value": "Ethereal"
-    },
-    {
-      "trait_type": "Astrea/Head",
-      "value": "Origin"
-    },
-    {
-      "trait_type": "Astrea/Face",
-      "value": "Jade"
-    },
-    {
-      "trait_type": "Astrea/Wings",
-      "value": "Dreamy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #796",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/796.png",
+    "dna": "d747e0effce5c6f3c287fe0d7a1cc528d8ec1bf2",
+    "edition": 796,
+    "date": 1701902999641,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Teal"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Astrea"
+        },
+        {
+            "trait_type": "Astrea/Aura",
+            "value": "Soft"
+        },
+        {
+            "trait_type": "Astrea/Body",
+            "value": "Ethereal"
+        },
+        {
+            "trait_type": "Astrea/Head",
+            "value": "Origin"
+        },
+        {
+            "trait_type": "Astrea/Face",
+            "value": "Jade"
+        },
+        {
+            "trait_type": "Astrea/Wings",
+            "value": "Dreamy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

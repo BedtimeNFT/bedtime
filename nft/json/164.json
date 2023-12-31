@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #164",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cdd8a0ba970cca62ac0401e0208f0d76cd8958e4",
-  "edition": 164,
-  "date": 1701903426119,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Woodland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Majestic"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Power Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #164",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/164.png",
+    "dna": "cdd8a0ba970cca62ac0401e0208f0d76cd8958e4",
+    "edition": 164,
+    "date": 1701903426119,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Woodland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Majestic"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Power Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

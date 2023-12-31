@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #632",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "6a07dc26e0cf1f7f1ba5e35f3121ea7db4f587e8",
-  "edition": 632,
-  "date": 1701903724116,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candyland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bonbon"
-    },
-    {
-      "trait_type": "Bonbon/Wings",
-      "value": "Gold Foil"
-    },
-    {
-      "trait_type": "Bonbon/Body",
-      "value": "Candy Foil"
-    },
-    {
-      "trait_type": "Bonbon/Mane and Tail",
-      "value": "Blue Candy"
-    },
-    {
-      "trait_type": "Bonbon/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Bonbon/Hooves",
-      "value": "Lime"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #632",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/632.png",
+    "dna": "6a07dc26e0cf1f7f1ba5e35f3121ea7db4f587e8",
+    "edition": 632,
+    "date": 1701903724116,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candyland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bonbon"
+        },
+        {
+            "trait_type": "Bonbon/Wings",
+            "value": "Gold Foil"
+        },
+        {
+            "trait_type": "Bonbon/Body",
+            "value": "Candy Foil"
+        },
+        {
+            "trait_type": "Bonbon/Mane and Tail",
+            "value": "Blue Candy"
+        },
+        {
+            "trait_type": "Bonbon/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Bonbon/Hooves",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

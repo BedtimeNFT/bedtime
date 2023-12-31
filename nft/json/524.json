@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #524",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "1779e89e4decf454767489faf61164221f2d4076",
-  "edition": 524,
-  "date": 1701902808653,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Bush Daytime"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Leafsong"
-    },
-    {
-      "trait_type": "Leafsong/Body",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Feet",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Leafsong/Face",
-      "value": "Blue Glow"
-    },
-    {
-      "trait_type": "Leafsong/Hair",
-      "value": "Short White Spiked"
-    },
-    {
-      "trait_type": "Leafsong/Wings",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Leafsong/Accessories",
-      "value": "Bone Dagger"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #524",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/524.png",
+    "dna": "1779e89e4decf454767489faf61164221f2d4076",
+    "edition": 524,
+    "date": 1701902808653,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bush Daytime"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Leafsong"
+        },
+        {
+            "trait_type": "Leafsong/Body",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Feet",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Leafsong/Face",
+            "value": "Blue Glow"
+        },
+        {
+            "trait_type": "Leafsong/Hair",
+            "value": "Short White Spiked"
+        },
+        {
+            "trait_type": "Leafsong/Wings",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Leafsong/Accessories",
+            "value": "Bone Dagger"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

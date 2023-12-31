@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #837",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "918b0a3f9aba680edd0f8279d77a76c0ba37a10e",
-  "edition": 837,
-  "date": 1701903553149,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Yellow"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Bruised"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Grim"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Infernal Crown"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Grime Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #837",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/837.png",
+    "dna": "918b0a3f9aba680edd0f8279d77a76c0ba37a10e",
+    "edition": 837,
+    "date": 1701903553149,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Yellow"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Bruised"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Grim"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Infernal Crown"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Grime Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

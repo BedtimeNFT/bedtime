@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #24",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "275a1807fa25a1becf58cdeab07ffb8e9c74ad24",
-  "edition": 24,
-  "date": 1701903566543,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Frostland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Bruised"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Soot"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Soot Crown"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Red Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #24",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/24.png",
+    "dna": "275a1807fa25a1becf58cdeab07ffb8e9c74ad24",
+    "edition": 24,
+    "date": 1701903566543,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Frostland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Bruised"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Soot"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Soot Crown"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Red Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

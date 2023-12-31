@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #88",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5e89c86a8f538d4a988e54b20ad34c4d49d49ae7",
-  "edition": 88,
-  "date": 1701903745084,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bubblegum"
-    },
-    {
-      "trait_type": "Bubblegum/Bubbles",
-      "value": "Pink Bubbles"
-    },
-    {
-      "trait_type": "Bubblegum/Wings",
-      "value": "Gum"
-    },
-    {
-      "trait_type": "Bubblegum/Body",
-      "value": "Pink Candy"
-    },
-    {
-      "trait_type": "Bubblegum/Scales",
-      "value": "Rainbow"
-    },
-    {
-      "trait_type": "Bubblegum/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #88",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/88.png",
+    "dna": "5e89c86a8f538d4a988e54b20ad34c4d49d49ae7",
+    "edition": 88,
+    "date": 1701903745084,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Bubblegum/Bubbles",
+            "value": "Pink Bubbles"
+        },
+        {
+            "trait_type": "Bubblegum/Wings",
+            "value": "Gum"
+        },
+        {
+            "trait_type": "Bubblegum/Body",
+            "value": "Pink Candy"
+        },
+        {
+            "trait_type": "Bubblegum/Scales",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Bubblegum/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

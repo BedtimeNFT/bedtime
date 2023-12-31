@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #521",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "f324dbdede1b2baa33ff1fdef193e71c60bf4a55",
-  "edition": 521,
-  "date": 1701903338525,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Bush Daytime"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Warped Smoke"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Blue Fur"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Glacier Breaker"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #521",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/521.png",
+    "dna": "f324dbdede1b2baa33ff1fdef193e71c60bf4a55",
+    "edition": 521,
+    "date": 1701903338525,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Bush Daytime"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Warped Smoke"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Blue Fur"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Glacier Breaker"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

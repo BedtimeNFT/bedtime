@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #440",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4ac88c48c15fb2ee7189e9f03b7dcac7abe7aa0f",
-  "edition": 440,
-  "date": 1701903440887,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Molten"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frostwing"
-    },
-    {
-      "trait_type": "Frostwing/Tails",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Wings",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Body",
-      "value": "Aurora"
-    },
-    {
-      "trait_type": "Frostwing/Eyes",
-      "value": "Magic power"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #440",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/440.png",
+    "dna": "4ac88c48c15fb2ee7189e9f03b7dcac7abe7aa0f",
+    "edition": 440,
+    "date": 1701903440887,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Molten"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frostwing"
+        },
+        {
+            "trait_type": "Frostwing/Tails",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Wings",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Body",
+            "value": "Aurora"
+        },
+        {
+            "trait_type": "Frostwing/Eyes",
+            "value": "Magic power"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

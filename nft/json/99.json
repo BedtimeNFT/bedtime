@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #99",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "600476c3bc8253948eac89e0f426845cad4b2990",
-  "edition": 99,
-  "date": 1701903540153,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candy Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Inferno"
-    },
-    {
-      "trait_type": "Inferno/Body",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Inferno/Eyes",
-      "value": "Infernal"
-    },
-    {
-      "trait_type": "Inferno/Horns",
-      "value": "Inferno Horns"
-    },
-    {
-      "trait_type": "Inferno/Tail Tip",
-      "value": "Red Small Fin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #99",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/99.png",
+    "dna": "600476c3bc8253948eac89e0f426845cad4b2990",
+    "edition": 99,
+    "date": 1701903540153,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candy Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Inferno"
+        },
+        {
+            "trait_type": "Inferno/Body",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Inferno/Eyes",
+            "value": "Infernal"
+        },
+        {
+            "trait_type": "Inferno/Horns",
+            "value": "Inferno Horns"
+        },
+        {
+            "trait_type": "Inferno/Tail Tip",
+            "value": "Red Small Fin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

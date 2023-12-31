@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #486",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "d9f6682b363e0dfd1b0fe7c8fe783353be9d4bd6",
-  "edition": 486,
-  "date": 1701903464536,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Blue"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Ashen"
-    },
-    {
-      "trait_type": "Ashen/Pedestals",
-      "value": "Dusk Adorned"
-    },
-    {
-      "trait_type": "Ashen/Wings",
-      "value": "Dusk Folded"
-    },
-    {
-      "trait_type": "Ashen/Body",
-      "value": "Soot Goblin"
-    },
-    {
-      "trait_type": "Ashen/Head",
-      "value": "Flame Pink Spiked"
-    },
-    {
-      "trait_type": "Ashen/Accessories",
-      "value": "Red Flame"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #486",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/486.png",
+    "dna": "d9f6682b363e0dfd1b0fe7c8fe783353be9d4bd6",
+    "edition": 486,
+    "date": 1701903464536,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Blue"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Ashen"
+        },
+        {
+            "trait_type": "Ashen/Pedestals",
+            "value": "Dusk Adorned"
+        },
+        {
+            "trait_type": "Ashen/Wings",
+            "value": "Dusk Folded"
+        },
+        {
+            "trait_type": "Ashen/Body",
+            "value": "Soot Goblin"
+        },
+        {
+            "trait_type": "Ashen/Head",
+            "value": "Flame Pink Spiked"
+        },
+        {
+            "trait_type": "Ashen/Accessories",
+            "value": "Red Flame"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #176",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "872bd415bb11f9a5a49986e910f65a7066668642",
-  "edition": 176,
-  "date": 1701903255700,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Sugar Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted light"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Ice glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #176",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/176.png",
+    "dna": "872bd415bb11f9a5a49986e910f65a7066668642",
+    "edition": 176,
+    "date": 1701903255700,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sugar Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted light"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Ice glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

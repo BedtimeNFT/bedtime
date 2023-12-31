@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #897",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "74dcb83b4c5b96a7ac71b8aa9b20d69a42c3fb5f",
-  "edition": 897,
-  "date": 1701903235749,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Blue Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Spirit"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Light glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Blue Curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Chaotic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #897",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/897.png",
+    "dna": "74dcb83b4c5b96a7ac71b8aa9b20d69a42c3fb5f",
+    "edition": 897,
+    "date": 1701903235749,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Light glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Blue Curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Chaotic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

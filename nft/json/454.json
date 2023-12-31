@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #454",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "ae1c9f19277176648bbc0eb030503c79f2ecf396",
-  "edition": 454,
-  "date": 1701902915787,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Deadwood Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bramble"
-    },
-    {
-      "trait_type": "Bramble/Body",
-      "value": "Green Spotted"
-    },
-    {
-      "trait_type": "Bramble/Faces",
-      "value": "Playful"
-    },
-    {
-      "trait_type": "Bramble/Eyes",
-      "value": "Yellow Glow"
-    },
-    {
-      "trait_type": "Bramble/Vines",
-      "value": "Empty"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #454",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/454.png",
+    "dna": "ae1c9f19277176648bbc0eb030503c79f2ecf396",
+    "edition": 454,
+    "date": 1701902915787,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Deadwood Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bramble"
+        },
+        {
+            "trait_type": "Bramble/Body",
+            "value": "Green Spotted"
+        },
+        {
+            "trait_type": "Bramble/Faces",
+            "value": "Playful"
+        },
+        {
+            "trait_type": "Bramble/Eyes",
+            "value": "Yellow Glow"
+        },
+        {
+            "trait_type": "Bramble/Vines",
+            "value": "Empty"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #201",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "4498028ca70480a779cbe9de14d7adf7d76e6b65",
-  "edition": 201,
-  "date": 1701903223548,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Red"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Spirit"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Mystical"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Light glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Spring curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #201",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/201.png",
+    "dna": "4498028ca70480a779cbe9de14d7adf7d76e6b65",
+    "edition": 201,
+    "date": 1701903223548,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Red"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Mystical"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Light glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Spring curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

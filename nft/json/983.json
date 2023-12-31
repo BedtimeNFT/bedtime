@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #983",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "de0b1a2892254ae37ee4358d4911813ea89e019f",
-  "edition": 983,
-  "date": 1701903804322,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candyland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Gold Dust"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Licorice"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Silver"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Magic Candy"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #983",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/983.png",
+    "dna": "de0b1a2892254ae37ee4358d4911813ea89e019f",
+    "edition": 983,
+    "date": 1701903804322,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candyland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Gold Dust"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Licorice"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Magic Candy"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

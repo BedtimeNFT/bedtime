@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #96",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "41ab0b07da726b169cf938620aabf079ea74833a",
-  "edition": 96,
-  "date": 1701903281910,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Snow Cap"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Icy blue"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Ice glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Midnight"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #96",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/96.png",
+    "dna": "41ab0b07da726b169cf938620aabf079ea74833a",
+    "edition": 96,
+    "date": 1701903281910,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Snow Cap"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Icy blue"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Ice glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Midnight"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

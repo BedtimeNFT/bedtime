@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #840",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "e2079bc59e78736be942420e0c96e20f985d34e5",
-  "edition": 840,
-  "date": 1701903250733,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candy Forest"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted light"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Snow glare"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Light blue"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #840",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/840.png",
+    "dna": "e2079bc59e78736be942420e0c96e20f985d34e5",
+    "edition": 840,
+    "date": 1701903250733,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candy Forest"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted light"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Snow glare"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Light blue"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Verdant"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #795",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cbdc645a79f0270e29c7239efcdb5a2bdf99c770",
-  "edition": 795,
-  "date": 1701903751662,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Ice Cave"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Bubblegum"
-    },
-    {
-      "trait_type": "Bubblegum/Bubbles",
-      "value": "Pink Bubbles"
-    },
-    {
-      "trait_type": "Bubblegum/Wings",
-      "value": "Spring"
-    },
-    {
-      "trait_type": "Bubblegum/Body",
-      "value": "Woodland Fur"
-    },
-    {
-      "trait_type": "Bubblegum/Scales",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Bubblegum/Eyes",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #795",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/795.png",
+    "dna": "cbdc645a79f0270e29c7239efcdb5a2bdf99c770",
+    "edition": 795,
+    "date": 1701903751662,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Ice Cave"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Bubblegum"
+        },
+        {
+            "trait_type": "Bubblegum/Bubbles",
+            "value": "Pink Bubbles"
+        },
+        {
+            "trait_type": "Bubblegum/Wings",
+            "value": "Spring"
+        },
+        {
+            "trait_type": "Bubblegum/Body",
+            "value": "Woodland Fur"
+        },
+        {
+            "trait_type": "Bubblegum/Scales",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Bubblegum/Eyes",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

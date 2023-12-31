@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #940",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "df1c92bc39986d259e6b4c6ed3340992e7bc2ec8",
-  "edition": 940,
-  "date": 1701902966833,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Portals Dusk"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Woodlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Willow"
-    },
-    {
-      "trait_type": "Willow/Body",
-      "value": "Pastel"
-    },
-    {
-      "trait_type": "Willow/Eyes",
-      "value": "Multicolor"
-    },
-    {
-      "trait_type": "Willow/Antenna",
-      "value": "Light Blue Pincer"
-    },
-    {
-      "trait_type": "Willow/Wings",
-      "value": "Crystal 6"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #940",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/940.png",
+    "dna": "df1c92bc39986d259e6b4c6ed3340992e7bc2ec8",
+    "edition": 940,
+    "date": 1701902966833,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Portals Dusk"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Woodlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Willow"
+        },
+        {
+            "trait_type": "Willow/Body",
+            "value": "Pastel"
+        },
+        {
+            "trait_type": "Willow/Eyes",
+            "value": "Multicolor"
+        },
+        {
+            "trait_type": "Willow/Antenna",
+            "value": "Light Blue Pincer"
+        },
+        {
+            "trait_type": "Willow/Wings",
+            "value": "Crystal 6"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

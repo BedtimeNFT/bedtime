@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #86",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "5c3406edf3945d1e620e80a46db5436a59cc527d",
-  "edition": 86,
-  "date": 1701903816053,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Green Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sprinkle"
-    },
-    {
-      "trait_type": "Sprinkle/Body",
-      "value": "Silver Dust"
-    },
-    {
-      "trait_type": "Sprinkle/Mane and Tail",
-      "value": "Raspberry Candy"
-    },
-    {
-      "trait_type": "Sprinkle/Eyes",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Sprinkle/Horns",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Sprinkle/Hooves",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #86",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/86.png",
+    "dna": "5c3406edf3945d1e620e80a46db5436a59cc527d",
+    "edition": 86,
+    "date": 1701903816053,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sprinkle"
+        },
+        {
+            "trait_type": "Sprinkle/Body",
+            "value": "Silver Dust"
+        },
+        {
+            "trait_type": "Sprinkle/Mane and Tail",
+            "value": "Raspberry Candy"
+        },
+        {
+            "trait_type": "Sprinkle/Eyes",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sprinkle/Horns",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Sprinkle/Hooves",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

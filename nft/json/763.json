@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #763",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "60c3b0089a574ea1b051819961c851559f7b539c",
-  "edition": 763,
-  "date": 1701903249617,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Barren Hill"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Auroura"
-    },
-    {
-      "trait_type": "Auroura/Body",
-      "value": "Spotted blue"
-    },
-    {
-      "trait_type": "Auroura/Eyes",
-      "value": "Basic"
-    },
-    {
-      "trait_type": "Auroura/Claws",
-      "value": "Light blue"
-    },
-    {
-      "trait_type": "Auroura/Accents",
-      "value": "Light Blue"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #763",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/763.png",
+    "dna": "60c3b0089a574ea1b051819961c851559f7b539c",
+    "edition": 763,
+    "date": 1701903249617,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Barren Hill"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Auroura"
+        },
+        {
+            "trait_type": "Auroura/Body",
+            "value": "Spotted blue"
+        },
+        {
+            "trait_type": "Auroura/Eyes",
+            "value": "Basic"
+        },
+        {
+            "trait_type": "Auroura/Claws",
+            "value": "Light blue"
+        },
+        {
+            "trait_type": "Auroura/Accents",
+            "value": "Light Blue"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

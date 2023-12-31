@@ -1,50 +1,50 @@
 {
-  "name": "Bedtime Creations Companions #244",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "e763e6697c37679ed890b44d831396731869c149",
-  "edition": 244,
-  "date": 1701903850378,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Frostland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Candylanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Sugarplum"
-    },
-    {
-      "trait_type": "Sugarplum/Wings",
-      "value": "Candy Citrus"
-    },
-    {
-      "trait_type": "Sugarplum/Body",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Sugarplum/Face",
-      "value": "Green Eyed"
-    },
-    {
-      "trait_type": "Sugarplum/Tunic",
-      "value": "Spring 2"
-    },
-    {
-      "trait_type": "Sugarplum/Hair",
-      "value": "Short Yellow"
-    },
-    {
-      "trait_type": "Sugarplum/Accessories",
-      "value": "Magic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #244",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/244.png",
+    "dna": "e763e6697c37679ed890b44d831396731869c149",
+    "edition": 244,
+    "date": 1701903850378,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Frostland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Candylanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Sugarplum"
+        },
+        {
+            "trait_type": "Sugarplum/Wings",
+            "value": "Candy Citrus"
+        },
+        {
+            "trait_type": "Sugarplum/Body",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sugarplum/Face",
+            "value": "Green Eyed"
+        },
+        {
+            "trait_type": "Sugarplum/Tunic",
+            "value": "Spring 2"
+        },
+        {
+            "trait_type": "Sugarplum/Hair",
+            "value": "Short Yellow"
+        },
+        {
+            "trait_type": "Sugarplum/Accessories",
+            "value": "Magic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

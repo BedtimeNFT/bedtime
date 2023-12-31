@@ -1,46 +1,46 @@
 {
-  "name": "Bedtime Creations Companions #29",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "cbc8238fdded1121344a1a61016a16492fb8bcfc",
-  "edition": 29,
-  "date": 1701903206069,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Factions Teal"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Mystics"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Solstice"
-    },
-    {
-      "trait_type": "Solstice/Body",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Solstice/Mane and Tail",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Solstice/Eyes",
-      "value": "Amber glow"
-    },
-    {
-      "trait_type": "Solstice/Horns",
-      "value": "Spring curved"
-    },
-    {
-      "trait_type": "Solstice/Hooves",
-      "value": "Chaotic"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Diamond"
-    }
-  ]
+    "name": "Bedtime Creations Companions #29",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/29.png",
+    "dna": "cbc8238fdded1121344a1a61016a16492fb8bcfc",
+    "edition": 29,
+    "date": 1701903206069,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Factions Teal"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Mystics"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Solstice"
+        },
+        {
+            "trait_type": "Solstice/Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Solstice/Mane and Tail",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Solstice/Eyes",
+            "value": "Amber glow"
+        },
+        {
+            "trait_type": "Solstice/Horns",
+            "value": "Spring curved"
+        },
+        {
+            "trait_type": "Solstice/Hooves",
+            "value": "Chaotic"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Diamond"
+        }
+    ]
 }

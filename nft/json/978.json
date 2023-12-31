@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #978",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "fff6522b0637f8428e73f7f277422f42f48b97e3",
-  "edition": 978,
-  "date": 1701903673156,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Shadow Summon"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Void"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Blue Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Green Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Soot Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #978",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/978.png",
+    "dna": "fff6522b0637f8428e73f7f277422f42f48b97e3",
+    "edition": 978,
+    "date": 1701903673156,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Shadow Summon"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Void"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Blue Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Green Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Soot Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #595",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "f8ebb23194ecccbaffed1d084d385cc025df9307",
-  "edition": 595,
-  "date": 1701903666167,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Mystic Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Demons"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Vortex"
-    },
-    {
-      "trait_type": "Vortex/Vortex",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Vortex/Wings",
-      "value": "Purple Tattered"
-    },
-    {
-      "trait_type": "Vortex/Body",
-      "value": "Teal Crest"
-    },
-    {
-      "trait_type": "Vortex/Head",
-      "value": "Orange Goblin"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Ruby"
-    }
-  ]
+    "name": "Bedtime Creations Companions #595",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/595.png",
+    "dna": "f8ebb23194ecccbaffed1d084d385cc025df9307",
+    "edition": 595,
+    "date": 1701903666167,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mystic Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Demons"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Vortex"
+        },
+        {
+            "trait_type": "Vortex/Vortex",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Vortex/Wings",
+            "value": "Purple Tattered"
+        },
+        {
+            "trait_type": "Vortex/Body",
+            "value": "Teal Crest"
+        },
+        {
+            "trait_type": "Vortex/Head",
+            "value": "Orange Goblin"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Ruby"
+        }
+    ]
 }

@@ -1,42 +1,42 @@
 {
-  "name": "Bedtime Creations Companions #108",
-  "description": "",
-  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
-  "dna": "064094d647516874ec0c55fdfa3d294e86323d94",
-  "edition": 108,
-  "date": 1701903355545,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Candyland Pattern"
-    },
-    {
-      "trait_type": "Faction",
-      "value": "Frostlanders"
-    },
-    {
-      "trait_type": "Creature",
-      "value": "Frost Bear"
-    },
-    {
-      "trait_type": "Frost Bear/Essence",
-      "value": "Warped Aurora"
-    },
-    {
-      "trait_type": "Frost Bear/Body",
-      "value": "Spotted Fur"
-    },
-    {
-      "trait_type": "Frost Bear/Eyes",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Frost Bear/Accessories",
-      "value": "Glacier Breaker"
-    },
-    {
-      "trait_type": "Grade",
-      "value": "Emerald"
-    }
-  ]
+    "name": "Bedtime Creations Companions #108",
+    "description": "",
+    "image": "https://bedtimecreation.com/nft/images/108.png",
+    "dna": "064094d647516874ec0c55fdfa3d294e86323d94",
+    "edition": 108,
+    "date": 1701903355545,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Candyland Pattern"
+        },
+        {
+            "trait_type": "Faction",
+            "value": "Frostlanders"
+        },
+        {
+            "trait_type": "Creature",
+            "value": "Frost Bear"
+        },
+        {
+            "trait_type": "Frost Bear/Essence",
+            "value": "Warped Aurora"
+        },
+        {
+            "trait_type": "Frost Bear/Body",
+            "value": "Spotted Fur"
+        },
+        {
+            "trait_type": "Frost Bear/Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Frost Bear/Accessories",
+            "value": "Glacier Breaker"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "Emerald"
+        }
+    ]
 }

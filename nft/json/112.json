@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #112",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "9302b0c93d5ca9c25785f0430fe56d30a7857dbb",
+  "edition": 112,
+  "date": 1701903438623,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Majestic"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

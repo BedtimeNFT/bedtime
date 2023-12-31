@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #414",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8be848a8674b1d5288e3b6d45a04a52088833e99",
+  "edition": 414,
+  "date": 1701902965722,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Multicolor"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Flare Pink"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Pink 6"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

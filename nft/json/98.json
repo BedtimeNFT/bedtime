@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #98",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "cc71f3d659f8172e731e0a46d61f34a03c8d9387",
+  "edition": 98,
+  "date": 1701903436321,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

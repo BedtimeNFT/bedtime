@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #424",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "76c9f8ebfd2ef641d96d9e87b250c34e8fbf998e",
+  "edition": 424,
+  "date": 1701902906650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Grin(1)"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Green Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Young Pink"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #357",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7e61dab1f34d0c6f67ff118fe2a9e775faf26007",
+  "edition": 357,
+  "date": 1701903670386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Bruise Tattered"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Dusk Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Teal Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

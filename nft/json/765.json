@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #765",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "0565f5c0ca9f2286c14aa6ff99b825da59cb8016",
+  "edition": 765,
+  "date": 1701903086615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Amber White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

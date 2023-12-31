@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #251",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8cad819dd6b032adb49a30736cf40b9fd41e58d1",
+  "edition": 251,
+  "date": 1701903421994,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Power Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

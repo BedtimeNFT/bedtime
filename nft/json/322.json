@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #322",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "5a051e8154bf726a2ee2809ba2d401f265cce1c9",
+  "edition": 322,
+  "date": 1701903702951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Gold Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Edible Gold"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #332",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "343ad48d0e2b422879c848e3d0819144080d1eb3",
+  "edition": 332,
+  "date": 1701902917722,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Teal Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #311",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6996e3b09a09f4610469d763a444370e246685e8",
+  "edition": 311,
+  "date": 1701903407748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Woodland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Ice Blue"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Snow Eagle"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #761",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "fafd898527e563214b020fab4574cef0b63c8681",
+  "edition": 761,
+  "date": 1701902862307,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Green Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Rose Wood"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Duality"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

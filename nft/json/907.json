@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #907",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "036c2248ad9ab6f17932c4d342b37fb007b0e251",
+  "edition": 907,
+  "date": 1701903101037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sugar Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Prismatic"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

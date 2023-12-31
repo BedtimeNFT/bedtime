@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #742",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f5a5ef5956687e8c5465a075734b04f2bf7a5b91",
+  "edition": 742,
+  "date": 1701903194290,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Woods"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Spirit"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Blue glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Lavender Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Chaotic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

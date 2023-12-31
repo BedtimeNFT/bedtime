@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #449",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "de159c9c44bfb3ef2f99a406d2c5a6ae875f447f",
+  "edition": 449,
+  "date": 1701902808007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Festive Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "Pink Glow"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Short White Spiked"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Tropical"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Bone Dagger"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

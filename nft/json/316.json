@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #316",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2214d7901097b1e088460d7862e3943fe1108327",
+  "edition": 316,
+  "date": 1701903269745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Icy Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

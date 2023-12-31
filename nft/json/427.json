@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #427",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6f5a51f422ae178f491df81a1182cf8ac19ffee2",
+  "edition": 427,
+  "date": 1701903792943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Butterscotch"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Licorice"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

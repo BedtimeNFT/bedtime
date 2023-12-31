@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #70",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "0d505c016e28810a4899fb900d52f5e39050b485",
+  "edition": 70,
+  "date": 1701903721585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

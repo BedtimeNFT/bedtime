@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #246",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6a281aa5127fd6928f3d1514e5181a22c948c654",
+  "edition": 246,
+  "date": 1701903836770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Licorice"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Magical"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Green Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

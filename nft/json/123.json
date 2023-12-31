@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #123",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "52fe0e2d77766da9ed1e2429e13435a20c09b16b",
+  "edition": 123,
+  "date": 1701902794374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Lime Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Pink Crest"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Autumn"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Bone Dagger"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

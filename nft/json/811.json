@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #811",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2af309245c211085c5c3968b84869642a4c9da20",
+  "edition": 811,
+  "date": 1701903813295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Sugar Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Blue Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

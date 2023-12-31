@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #243",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f6fb7240252f2a957faaf999d9f41fe8f3b8a322",
+  "edition": 243,
+  "date": 1701902900001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bush Daytime"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

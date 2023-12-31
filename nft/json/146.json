@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #146",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b45f02eeabbb79a317cb5ed59f7fd0674c50d7cc",
+  "edition": 146,
+  "date": 1701903717853,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Gold Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Pink Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Blue Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Pink Taffy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

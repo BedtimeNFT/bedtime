@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #972",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2ed1ff2a9cc3c4c7798e00d857fdf9247c971d9c",
+  "edition": 972,
+  "date": 1701903777830,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bush Daytime"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Cherry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

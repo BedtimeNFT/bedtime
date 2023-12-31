@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #791",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "55073633c1f81bd32bf1a331b969162f884bc8be",
+  "edition": 791,
+  "date": 1701903624150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Purple Tattered"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Orang Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

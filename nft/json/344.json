@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #344",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "610b211bafda2b10c6742ad1e9a3716ef632d5ce",
+  "edition": 344,
+  "date": 1701903616371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Shadowfang"
+    },
+    {
+      "trait_type": "Shadowfang/Body",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Shadowfang/Head",
+      "value": "Fang"
+    },
+    {
+      "trait_type": "Shadowfang/Eyes",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Shadowfang/Feet",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

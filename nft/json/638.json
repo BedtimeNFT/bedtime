@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #638",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e4b6c7c2ca1c23b1960de18050698fb18d751a52",
+  "edition": 638,
+  "date": 1701903776105,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Blue Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Cherry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

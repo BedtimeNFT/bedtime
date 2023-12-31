@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #636",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "db9c0e7a3ae5d23e68dff33f2c2ecaeee41ddbac",
+  "edition": 636,
+  "date": 1701903710154,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grass Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

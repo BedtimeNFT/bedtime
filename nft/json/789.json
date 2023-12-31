@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #789",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "edd4a1cdb5860c9d62655c2ad0aca59aa3f3e98c",
+  "edition": 789,
+  "date": 1701903539291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Tawny"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Dusk Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Grime Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

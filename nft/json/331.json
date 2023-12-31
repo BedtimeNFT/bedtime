@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #331",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "30ab9df1ceaa6ac91f9a869229d7f27069aad845",
+  "edition": 331,
+  "date": 1701903579171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Barren Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Grim"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Inferno Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Red Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

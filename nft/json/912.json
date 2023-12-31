@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #912",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "c8dae2727207133c7f8eaf3228d641178fe9075c",
+  "edition": 912,
+  "date": 1701903133079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "No energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

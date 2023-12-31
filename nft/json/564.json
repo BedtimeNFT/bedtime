@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #564",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "783ea726e70dc1c686642ae1319237cb9a06e43c",
+  "edition": 564,
+  "date": 1701903399147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Ice Blue"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Ice blue"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Ice flare"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

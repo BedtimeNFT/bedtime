@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #226",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b75188e597e0d9d2f0763488d9f8d136df8ab445",
+  "edition": 226,
+  "date": 1701903076909,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Purple White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Bubble Beam"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

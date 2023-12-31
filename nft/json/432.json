@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #432",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d02b9f5b6eb662c654e7e6a910e127e8a4ba2460",
+  "edition": 432,
+  "date": 1701903016829,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Astrea"
+    },
+    {
+      "trait_type": "Astrea/Aura",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Astrea/Body",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Astrea/Head",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Astrea/Face",
+      "value": "Dreamy"
+    },
+    {
+      "trait_type": "Astrea/Wings",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

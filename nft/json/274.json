@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #274",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "3db28d0efafd0ec61f5f462c73d90d28334f5c14",
+  "edition": 274,
+  "date": 1701903191865,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Gray"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Mystical"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Light glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Amber curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

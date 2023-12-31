@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #548",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d651039062aa6f80fffa340221948f85840bafa2",
+  "edition": 548,
+  "date": 1701903706089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Gold Foil"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

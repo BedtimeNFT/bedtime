@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #663",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a7da922dafc82155ec191e70af347104e563081b",
+  "edition": 663,
+  "date": 1701903126611,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Purple energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Power"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

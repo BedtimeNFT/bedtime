@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #535",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d856c829bd42f6e64d1a3e22c3e2d4b43f84e2fc",
+  "edition": 535,
+  "date": 1701903103171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Gray"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Purple White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Portal Beam"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

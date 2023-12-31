@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #667",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "910d13f5ca6a95ab584a639c064678bdbccd85d3",
+  "edition": 667,
+  "date": 1701903068560,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Molten"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Blue White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

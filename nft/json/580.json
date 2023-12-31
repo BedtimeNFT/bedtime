@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #580",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b49dcbfa8a7ac6f99a271a0a7ed5f0047174990f",
+  "edition": 580,
+  "date": 1701903283037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shadow Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted light"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Ice glare"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Deep blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

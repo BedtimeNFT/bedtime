@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #355",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "279c411198b52a857949aef34cd2c84819e9dd43",
+  "edition": 355,
+  "date": 1701903455640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Majestic"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

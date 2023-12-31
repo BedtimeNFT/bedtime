@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #82",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "aa01893ff7908863bf233b572319818ac831dd71",
+  "edition": 82,
+  "date": 1701903370724,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frost Bear"
+    },
+    {
+      "trait_type": "Frost Bear/Essence",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Frost Bear/Body",
+      "value": "Spotted Fur"
+    },
+    {
+      "trait_type": "Frost Bear/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Frost Bear/Accessories",
+      "value": "Glacier Breaker"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #956",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2a559b9a2753d2c352129b6d818f8c01818d95ca",
+  "edition": 956,
+  "date": 1701903401161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Snow Eagle"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #360",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "57a1a2ab0c7552420000685726889a6f0c858447",
+  "edition": 360,
+  "date": 1701903001210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Astrea"
+    },
+    {
+      "trait_type": "Astrea/Aura",
+      "value": "Soft"
+    },
+    {
+      "trait_type": "Astrea/Body",
+      "value": "Dreamy"
+    },
+    {
+      "trait_type": "Astrea/Head",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Astrea/Face",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Astrea/Wings",
+      "value": "Dreamy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

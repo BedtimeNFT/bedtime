@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #964",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "145365c30d3daa5f5383fb05545c9d5ca53e7315",
+  "edition": 964,
+  "date": 1701903555044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Bright"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Dusk Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Tawny Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

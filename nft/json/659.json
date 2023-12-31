@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #659",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b5c8deb584db47ac20157d20b66d3c9993fe0eda",
+  "edition": 659,
+  "date": 1701903069737,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Light Clouds"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

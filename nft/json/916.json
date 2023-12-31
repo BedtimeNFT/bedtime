@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #916",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1c20888ebd108ea959515578e83b3791d04ed60d",
+  "edition": 916,
+  "date": 1701903728402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Blue Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Pink Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Gold Foil"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

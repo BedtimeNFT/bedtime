@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #826",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d0135fde1dd9ed47a060496676588395a769c4ea",
+  "edition": 826,
+  "date": 1701902941253,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Green Beaded"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Yellow Flare"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Red 6"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

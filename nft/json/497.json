@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #497",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d67f0a4bc05e72fe3a233af15d9819d250b28bfa",
+  "edition": 497,
+  "date": 1701903613912,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Shadowfang"
+    },
+    {
+      "trait_type": "Shadowfang/Body",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Shadowfang/Head",
+      "value": "Infernal"
+    },
+    {
+      "trait_type": "Shadowfang/Eyes",
+      "value": "Infernal"
+    },
+    {
+      "trait_type": "Shadowfang/Feet",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

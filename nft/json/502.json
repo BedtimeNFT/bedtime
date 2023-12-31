@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #502",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1cc93f48a6f6ec6adca91e73ae5609fbad490759",
+  "edition": 502,
+  "date": 1701902866700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shadow Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Verdant Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Green Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

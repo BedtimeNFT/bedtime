@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #711",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ea69706459da2e7006ad8937f00aec4133bdaf45",
+  "edition": 711,
+  "date": 1701903104073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Amber White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

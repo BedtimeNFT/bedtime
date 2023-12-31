@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #658",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f5e45d8c53421eff76c5df46acd8db3bc177cc0f",
+  "edition": 658,
+  "date": 1701903406342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Ice Blue"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Ice Blue 4"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Green flare"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

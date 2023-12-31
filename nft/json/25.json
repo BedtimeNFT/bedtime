@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #25",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "95b8e4244b63646bb3e37f54f51169b9dac4c63d",
+  "edition": 25,
+  "date": 1701902885231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Yellow Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #484",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a021572c99f00ecaefc47b75ef1376f934ea4419",
+  "edition": 484,
+  "date": 1701903367028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Barren Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frost Bear"
+    },
+    {
+      "trait_type": "Frost Bear/Essence",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Frost Bear/Body",
+      "value": "Spirit Blue"
+    },
+    {
+      "trait_type": "Frost Bear/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Frost Bear/Accessories",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #730",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f2a48b7b04775e9cd383a5446e125c1aec891aca",
+  "edition": 730,
+  "date": 1701902857658,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bush Daytime"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Dusk Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Pastel Ferns"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Combo 2"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

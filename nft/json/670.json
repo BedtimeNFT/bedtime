@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #670",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7f668feea5595b60f3011f45bb904b3069fb9d46",
+  "edition": 670,
+  "date": 1701903857255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sugarplum"
+    },
+    {
+      "trait_type": "Sugarplum/Wings",
+      "value": "Candy Cyan"
+    },
+    {
+      "trait_type": "Sugarplum/Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Sugarplum/Face",
+      "value": "Pink Eyed"
+    },
+    {
+      "trait_type": "Sugarplum/Tunic",
+      "value": "Cute Pink"
+    },
+    {
+      "trait_type": "Sugarplum/Hair",
+      "value": "Long Green"
+    },
+    {
+      "trait_type": "Sugarplum/Accessories",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

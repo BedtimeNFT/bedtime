@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #664",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "be372fac76909ea5b87f400c98102792128b80a9",
+  "edition": 664,
+  "date": 1701903468158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Dusk Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Gray Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Red Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

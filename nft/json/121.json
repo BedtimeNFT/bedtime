@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #121",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "705e007444f8c3a710c08f9db13df72d32a151e4",
+  "edition": 121,
+  "date": 1701903411404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Teal Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue 4"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Ice blue"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Red Eagle"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

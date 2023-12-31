@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #896",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2383310d8331427e4b4ed9a6dec3be7355ed97aa",
+  "edition": 896,
+  "date": 1701903199162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Light glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Golden Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Chaotic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

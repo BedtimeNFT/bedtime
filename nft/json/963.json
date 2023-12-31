@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #963",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1ffdcb2c3dc683d668f3b06c3bbda03181f89ee0",
+  "edition": 963,
+  "date": 1701903639236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Blue Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Dusk Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Orange Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

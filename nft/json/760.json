@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #760",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "66173df865799584e61665216bf9066310894f94",
+  "edition": 760,
+  "date": 1701903033822,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Astrea"
+    },
+    {
+      "trait_type": "Astrea/Aura",
+      "value": "Soft"
+    },
+    {
+      "trait_type": "Astrea/Body",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Astrea/Head",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Astrea/Face",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Astrea/Wings",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

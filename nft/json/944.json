@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #944",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "62eea4c9cec1f3121965461684541d974ca6af46",
+  "edition": 944,
+  "date": 1701903733818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Berry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

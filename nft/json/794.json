@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #794",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ba5fb6a52da8cceba40a1bce9282cba06c845402",
+  "edition": 794,
+  "date": 1701903578309,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Tawny"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Infernal"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Grime Horns"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Grime Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

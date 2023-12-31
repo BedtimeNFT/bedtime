@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #579",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a10b3795a71aae68038f3503ab209e75cf373185",
+  "edition": 579,
+  "date": 1701903614782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Shadowfang"
+    },
+    {
+      "trait_type": "Shadowfang/Body",
+      "value": "Tawny"
+    },
+    {
+      "trait_type": "Shadowfang/Head",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Shadowfang/Eyes",
+      "value": "Death"
+    },
+    {
+      "trait_type": "Shadowfang/Feet",
+      "value": "Grim"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

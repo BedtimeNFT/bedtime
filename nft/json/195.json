@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #195",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "279f5dcdc1c931a3539599d1a2263b2a1133d715",
+  "edition": 195,
+  "date": 1701903778625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Berry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

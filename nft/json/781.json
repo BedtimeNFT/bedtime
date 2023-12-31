@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #781",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8c180f4827e9905e5343ae38419deb38ccdb3510",
+  "edition": 781,
+  "date": 1701903258958,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Green glare"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

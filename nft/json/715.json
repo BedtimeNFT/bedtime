@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #715",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4076ee156ae5b3149de952e9312bb6429e88451d",
+  "edition": 715,
+  "date": 1701903290780,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Molten"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Green Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "Green Crystals"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

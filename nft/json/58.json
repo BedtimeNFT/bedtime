@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #58",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f4c8b579dd923f7ccd920ae11dccc9c474adb52b",
+  "edition": 58,
+  "date": 1701902797883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Light energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

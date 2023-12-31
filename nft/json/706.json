@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #706",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "01407890c9f36d966cd394d151a95da1f4ba4e6f",
+  "edition": 706,
+  "date": 1701903400073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Blue Stars"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Red Eagle"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #725",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "19b93cfc95e8d9cc7d54cc9d74900afe4688b7a2",
+  "edition": 725,
+  "date": 1701903153964,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sugar Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Light energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Power"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

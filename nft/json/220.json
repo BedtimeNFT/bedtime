@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #220",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f20d035757d67ce0ef9a34202c1b60f570437d2b",
+  "edition": 220,
+  "date": 1701903187494,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "No energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

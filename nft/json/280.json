@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #280",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "fd585f0f656f68be59b5e2d413f7287f8a9da854",
+  "edition": 280,
+  "date": 1701902814115,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Yellow Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "White Glow"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Short Autumn Spiked"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Bone Dagger"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

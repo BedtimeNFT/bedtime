@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #347",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "63ccbc5fbdc235515bf2763764f65a78ebf9dae0",
+  "edition": 347,
+  "date": 1701902842106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Woodland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Autumn Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Midnight Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Ferns"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Dual Blade"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

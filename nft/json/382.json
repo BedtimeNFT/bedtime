@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #382",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8d9791167997ec5508c8b307204303be9defb84f",
+  "edition": 382,
+  "date": 1701903870001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Purple"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sugarplum"
+    },
+    {
+      "trait_type": "Sugarplum/Wings",
+      "value": "Candy Blue"
+    },
+    {
+      "trait_type": "Sugarplum/Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sugarplum/Face",
+      "value": "Yellow Smile"
+    },
+    {
+      "trait_type": "Sugarplum/Tunic",
+      "value": "Blues"
+    },
+    {
+      "trait_type": "Sugarplum/Hair",
+      "value": "Short Yellow"
+    },
+    {
+      "trait_type": "Sugarplum/Accessories",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

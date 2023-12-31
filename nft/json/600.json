@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #600",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6c91f63a294702925871f74fe58834d17a7c3746",
+  "edition": 600,
+  "date": 1701903656104,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Tawny Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Tan Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Orange Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #300",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1d8d4d88bf843108888050cbd6ecb3c1546653fe",
+  "edition": 300,
+  "date": 1701903698676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

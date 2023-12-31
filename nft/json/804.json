@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #804",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6412fd77da7427202c816cfe5718b377ba8ccf59",
+  "edition": 804,
+  "date": 1701903552208,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Infernal"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Dusk Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Grime Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

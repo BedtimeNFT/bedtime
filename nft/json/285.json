@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #285",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "c536f202b46ac866e21b577e1eac92d857e3268d",
+  "edition": 285,
+  "date": 1701903532314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Pink Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Mossy Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Flame Gray Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

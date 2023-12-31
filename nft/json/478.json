@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #478",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "05be901d4707c668f3a9ca4ba33ba01bb0adc2f3",
+  "edition": 478,
+  "date": 1701903565902,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Dusk Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Grime Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

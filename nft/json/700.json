@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #700",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "c81982801944bcd4475de095d152754947dd6ad4",
+  "edition": 700,
+  "date": 1701903518121,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Purple"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Gray Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Dusk Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Flame Green Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Blue Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

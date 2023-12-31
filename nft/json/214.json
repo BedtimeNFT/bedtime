@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #214",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "5af51374c1ebbf3a1ccf6b44ab34255850f9f225",
+  "edition": 214,
+  "date": 1701903229832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Barren Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Mystical"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Light glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Golden Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

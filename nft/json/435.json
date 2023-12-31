@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #435",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b590073e85b17f673e9788827cf5f57b4c49804f",
+  "edition": 435,
+  "date": 1701903693993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Watermelon"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Mango"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

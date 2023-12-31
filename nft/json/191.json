@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #191",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "294abb1629276c0d333bc0e019af7ff7bd0246bd",
+  "edition": 191,
+  "date": 1701903536295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bush Daytime"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Inferno Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Tawny Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

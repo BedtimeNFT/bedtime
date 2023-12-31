@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #233",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7a2fbc190db703db9376291c2a30c14bb225a638",
+  "edition": 233,
+  "date": 1701903557628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Grim"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Grime Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Red Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #947",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f3a07b73bf4f1c7a6f35164feee95262325c36aa",
+  "edition": 947,
+  "date": 1701903834501,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Bubblegum Soda"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Lime Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

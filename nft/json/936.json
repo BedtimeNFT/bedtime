@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #936",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f1f2302f0655db43487bfbde8ce36092cb8f06a1",
+  "edition": 936,
+  "date": 1701903166927,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Frostland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Prism"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Blue energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Power"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

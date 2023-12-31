@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #499",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8d309c2f243e2882a2b8ea4641405abbbdb26522",
+  "edition": 499,
+  "date": 1701903686703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Mango"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

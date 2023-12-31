@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #718",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6e17b677bac7344f1141d57216b9cfb7eb01d017",
+  "edition": 718,
+  "date": 1701903080295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Shadow Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Amber White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

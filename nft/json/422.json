@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #422",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "5a0c71c570e51a9903cfebf5df5f941c73febf2d",
+  "edition": 422,
+  "date": 1701903533812,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Purple"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Dusk Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Dusk Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Gray Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

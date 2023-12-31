@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #194",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4768a9f93889d0ae8ceef4a3d2f98716704891d9",
+  "edition": 194,
+  "date": 1701903346424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frost Bear"
+    },
+    {
+      "trait_type": "Frost Bear/Essence",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frost Bear/Body",
+      "value": "Spirit Blue"
+    },
+    {
+      "trait_type": "Frost Bear/Eyes",
+      "value": "White"
+    },
+    {
+      "trait_type": "Frost Bear/Accessories",
+      "value": "Leather Armor"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

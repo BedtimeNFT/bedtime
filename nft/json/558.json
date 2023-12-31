@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #558",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "9d6518746f77e0dd0aa24b7c29279e18768f6b1b",
+  "edition": 558,
+  "date": 1701903803666,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Rainbow Sparkle"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

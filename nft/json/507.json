@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #507",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a61fca81bf3d1847bd4ca77951a7fdc045d830fb",
+  "edition": 507,
+  "date": 1701903769566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Cherry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Candy Rainbow"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

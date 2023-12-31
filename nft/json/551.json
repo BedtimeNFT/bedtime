@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #551",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ea9886c04d0f4bb82a5134b0c19a6badadd4a039",
+  "edition": 551,
+  "date": 1701902913911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sugar Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Fall spotted"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

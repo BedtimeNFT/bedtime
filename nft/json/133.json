@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #133",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "49dedfbf9e9f5c294c833b8623162c262545b64b",
+  "edition": 133,
+  "date": 1701903520867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Soot Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Dusk Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Dusk Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Gray Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Blue Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #333",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e50e43356388434f687a35452489e6e1d0d76b7c",
+  "edition": 333,
+  "date": 1701903108889,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Light Scales"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Light Greens"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

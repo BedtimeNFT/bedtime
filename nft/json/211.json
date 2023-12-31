@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #211",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "be1c89afbda6006c234bc86eef1d4a32f911c0a0",
+  "edition": 211,
+  "date": 1701903727316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

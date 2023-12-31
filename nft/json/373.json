@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #373",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ab8c8c7374648376ce2e748e37b9837554f4d95a",
+  "edition": 373,
+  "date": 1701903279840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #400",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "53c060fdc5288b3ace3b9c460757013bfeed39aa",
+  "edition": 400,
+  "date": 1701903087714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Light Scales"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Purple White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

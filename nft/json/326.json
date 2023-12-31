@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #326",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "5ec56a096e8da82a6484020abe9f1bbcb136355c",
+  "edition": 326,
+  "date": 1701903509544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Barren Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Dusk Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Dusk Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Dusk Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

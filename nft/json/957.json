@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #957",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "98d1bb36d53b688c2248bc8c7a47a013fe4f453a",
+  "edition": 957,
+  "date": 1701902797226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Autumn Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Short White Spiked"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Poison Dagger"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

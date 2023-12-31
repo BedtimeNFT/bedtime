@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #807",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6fecbe433586fd7e4e770f48e40435ccf4c08ae1",
+  "edition": 807,
+  "date": 1701903571652,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Inferno Horns"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Red Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

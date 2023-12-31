@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #152",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d84550f6c450fff32c0ab432652ea882d9816812",
+  "edition": 152,
+  "date": 1701903779914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Berry Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

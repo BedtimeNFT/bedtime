@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #310",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d9fed74c17226eb3e978b5c1cebe2e156e5102ee",
+  "edition": 310,
+  "date": 1701903528183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Rusty Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Dusk Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Flame Pink Spiked"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

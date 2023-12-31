@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #756",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4ac28419542da0410fa08c9713b75e8a1a99ccf0",
+  "edition": 756,
+  "date": 1701903642363,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Soot Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Dusk Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Teal Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

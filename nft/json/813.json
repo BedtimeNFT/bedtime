@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #813",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "dc7be973004484a0ecb14b0116d4eda780b67ec5",
+  "edition": 813,
+  "date": 1701902978172,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Green Flare"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Crystal 6"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

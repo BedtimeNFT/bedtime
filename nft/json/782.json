@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #782",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "47215dcecab56834bc7d86ca4e9799ca2b9636f8",
+  "edition": 782,
+  "date": 1701903469395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Mossy Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Mossy Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #586",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f6ae7dae3dea52a3232f2af0ed35e2c095401339",
+  "edition": 586,
+  "date": 1701903720536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Pink"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Pink Taffy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

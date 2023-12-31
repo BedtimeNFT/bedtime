@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #426",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d554e524fc2c91866b043df40879f83b530efa3d",
+  "edition": 426,
+  "date": 1701903757014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Blue Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Pink Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

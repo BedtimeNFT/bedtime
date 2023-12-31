@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #94",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e1a5267ad01188e2ddb77ca945e75a69c7c67816",
+  "edition": 94,
+  "date": 1701903273953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Icy blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Green glare"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Obsidian"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

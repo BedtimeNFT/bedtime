@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #309",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "25a73d91b2c7743a48b8ccdc1e533fa9bc802a48",
+  "edition": 309,
+  "date": 1701903892489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sugarplum"
+    },
+    {
+      "trait_type": "Sugarplum/Wings",
+      "value": "Candy Cyan"
+    },
+    {
+      "trait_type": "Sugarplum/Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Sugarplum/Face",
+      "value": "Green Eyed"
+    },
+    {
+      "trait_type": "Sugarplum/Tunic",
+      "value": "Blues 2"
+    },
+    {
+      "trait_type": "Sugarplum/Hair",
+      "value": "Long Green"
+    },
+    {
+      "trait_type": "Sugarplum/Accessories",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

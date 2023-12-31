@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #230",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "677ed3b6dd3b1d003d87834726a076055f963346",
+  "edition": 230,
+  "date": 1701903070854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Ethereal"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Blue White"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

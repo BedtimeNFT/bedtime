@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #139",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d1617e64025fdec4b8edf0f7d393f9d35b74c95a",
+  "edition": 139,
+  "date": 1701903488465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Frostland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Red Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Dusk Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Mossy Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Pink Spiked"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

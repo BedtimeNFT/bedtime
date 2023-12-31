@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #815",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "aa6480332d6d2d79d8515902510bd152b3416e05",
+  "edition": 815,
+  "date": 1701903549839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Cold Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "None"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

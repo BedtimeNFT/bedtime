@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #406",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7124f66830bfa3c7c19128017fc903d4708afe63",
+  "edition": 406,
+  "date": 1701902839984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Verdant Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Empty"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

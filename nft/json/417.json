@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #417",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4f8b11e6d87d6788a1656ea2b142627b0c3649d3",
+  "edition": 417,
+  "date": 1701903171402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Woods"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "No energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

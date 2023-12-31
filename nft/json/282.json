@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #282",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "052a61d0ff45ab51b3a885dcf107de39bd309369",
+  "edition": 282,
+  "date": 1701903104966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Frostland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Nimbus"
+    },
+    {
+      "trait_type": "Nimbus/Scales",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Nimbus/WingsNTails",
+      "value": "Light Greens"
+    },
+    {
+      "trait_type": "Nimbus/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Nimbus/Accessories",
+      "value": "Golden Sky"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

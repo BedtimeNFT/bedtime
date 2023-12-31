@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #643",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7ae6d3d2bf9b5d4ab7e7a1150a87d7327ed7f4b3",
+  "edition": 643,
+  "date": 1701903199818,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Frostland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Light glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Blue Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

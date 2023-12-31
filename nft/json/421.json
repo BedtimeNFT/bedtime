@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #421",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7f8eaa491bd8bd0645f3a12c1b0137a41cc8a8bd",
+  "edition": 421,
+  "date": 1701903738902,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Lime Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

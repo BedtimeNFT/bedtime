@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #487",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "68a441008db294c9e134e5687fec206043ab72ff",
+  "edition": 487,
+  "date": 1701903045502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Astrea"
+    },
+    {
+      "trait_type": "Astrea/Aura",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Astrea/Body",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Astrea/Head",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Astrea/Face",
+      "value": "Origin(1)"
+    },
+    {
+      "trait_type": "Astrea/Wings",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

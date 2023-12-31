@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #477",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "db04a2e27a54f707af0ca01c2c8b532727a717e7",
+  "edition": 477,
+  "date": 1701903754445,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Blue Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Blue Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

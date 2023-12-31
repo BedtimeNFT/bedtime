@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #455",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4c46ef5b31c540224148060fec75748111f7eacd",
+  "edition": 455,
+  "date": 1701903260267,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Icy blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Snow glare"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Light Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

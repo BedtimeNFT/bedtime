@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #325",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "522432c9c5acab750a9dbb0fc722980cc6e390fb",
+  "edition": 325,
+  "date": 1701902891776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Lime Spotted"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Red Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

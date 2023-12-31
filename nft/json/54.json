@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #54",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "107de8ab42951c72d4424d07cb528646d9bd80de",
+  "edition": 54,
+  "date": 1701903502075,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Blue Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Torqouis"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Bright Red"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "Red Crystals"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

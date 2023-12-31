@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #456",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "dae5768d1225bc91d49101b93b9b6206054105f2",
+  "edition": 456,
+  "date": 1701903825887,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Candy Rainbow"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Lime Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

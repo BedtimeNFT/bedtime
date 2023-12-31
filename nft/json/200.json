@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #200",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d2633a8d93fedfe48bfd4387aa0de846c7d03a9c",
+  "edition": 200,
+  "date": 1701903714087,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Rainbow Pop"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Watermelon"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Pink Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Sugar Hoof"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

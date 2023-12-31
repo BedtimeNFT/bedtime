@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #127",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2468458978de63b763cf0a3eaa7da56bdea0c451",
+  "edition": 127,
+  "date": 1701903541158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Bruised"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Grime Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "None"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

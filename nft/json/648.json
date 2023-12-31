@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #648",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b2b31e73b0821e2cf5f23aca4aa756cd78a33485",
+  "edition": 648,
+  "date": 1701903810703,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Bubblegum Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Green Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

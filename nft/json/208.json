@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #208",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e69e26f2f6663cbd4bc67818e622e66754d3cd36",
+  "edition": 208,
+  "date": 1701902905642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Yellow Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Young Lime Green"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #716",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f675aca9d8bbb9a0966322847c267fa21ce277eb",
+  "edition": 716,
+  "date": 1701903149295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Blue energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #462",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "3d17aa34514e9a5f88c9f84b28cada0bf953945e",
+  "edition": 462,
+  "date": 1701903218114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Golden glare"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Amber curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Chaotic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

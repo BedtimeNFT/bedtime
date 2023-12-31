@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #221",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4d1fc5e8724fb1d4f0d74318bb9db275498ef485",
+  "edition": 221,
+  "date": 1701903728986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Blue Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #877",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e053ae1f6ce80b76b02b9f1e9a01493a0568396d",
+  "edition": 877,
+  "date": 1701903871155,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sugarplum"
+    },
+    {
+      "trait_type": "Sugarplum/Wings",
+      "value": "Candy Citrus"
+    },
+    {
+      "trait_type": "Sugarplum/Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Sugarplum/Face",
+      "value": "Pink Smile"
+    },
+    {
+      "trait_type": "Sugarplum/Tunic",
+      "value": "Blues"
+    },
+    {
+      "trait_type": "Sugarplum/Hair",
+      "value": "Long Blue"
+    },
+    {
+      "trait_type": "Sugarplum/Accessories",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

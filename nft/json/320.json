@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #320",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7aea5845eeecd21b0963e906544fa1d8539a9fc9",
+  "edition": 320,
+  "date": 1701903443175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Molten"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Power Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Magic power"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

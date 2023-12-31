@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #527",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d15dead4ad4b5bca39b8192a5982c640152e7cdd",
+  "edition": 527,
+  "date": 1701903697677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Gold Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

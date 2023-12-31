@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #649",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e34bc48db3b7494ab8c3894890bdb037c7f72405",
+  "edition": 649,
+  "date": 1701903687777,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Candy Foil"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Blue Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Pink Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

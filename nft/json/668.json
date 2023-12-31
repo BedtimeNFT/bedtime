@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #668",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "053a6852b5116c79891df24079433de80a6383ea",
+  "edition": 668,
+  "date": 1701902910238,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Playful"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Yellow Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

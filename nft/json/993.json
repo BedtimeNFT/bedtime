@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #993",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "74cf54729d860ac8871e2a9b8bdd512e9ba6c95c",
+  "edition": 993,
+  "date": 1701903633066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Woods"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Soot Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Orang Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Soot Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

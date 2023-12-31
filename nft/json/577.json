@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #577",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7f085b9c129b07c340a7c5e24a3eb4f55f5fb5b2",
+  "edition": 577,
+  "date": 1701902827367,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Woodland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Pastel Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Red Fern"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Pastel Ferns"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Green Fern Blade"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

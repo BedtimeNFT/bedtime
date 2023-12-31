@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #954",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "e6803dc1dddf4ed928fb47bf838411694d864a43",
+  "edition": 954,
+  "date": 1701903310835,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Blue Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "Molten Crystal"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #250",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "c9ce6f9c21507d28160e72e770e554ed535f7a6e",
+  "edition": 250,
+  "date": 1701903828496,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

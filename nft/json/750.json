@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #750",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "f8728334fc14ed143958df5200fb0be387d3f439",
+  "edition": 750,
+  "date": 1701902927983,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Purple Beaded"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Crystal"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Red Pincer"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Green 6"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #236",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "bac8c948b73afcc0089704bb75724d36725f726c",
+  "edition": 236,
+  "date": 1701903551261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Frostland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Soot"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Soot Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Grime Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

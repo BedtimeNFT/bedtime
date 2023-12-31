@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #722",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "3a7654bf882b464c593597057c0f863fa09afc54",
+  "edition": 722,
+  "date": 1701902846584,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Midnight Rose Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Autumn"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Ferns"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Blue Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

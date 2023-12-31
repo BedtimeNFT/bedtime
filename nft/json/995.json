@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #995",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4e67e5439f9c33012074cb9ebff9fc90d2cf0785",
+  "edition": 995,
+  "date": 1701903807608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Raspberry Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Blue Sparkle"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #150",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7ce623c86c5831813acc9fd5b85da86e5a6547ef",
+  "edition": 150,
+  "date": 1701902831105,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bush Daytime"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Verdant Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Blue Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Combo 1"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

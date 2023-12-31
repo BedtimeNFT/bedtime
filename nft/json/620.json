@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #620",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "9c1c3c897e07ac4ffa482a81cde1f3c1f05cf40d",
+  "edition": 620,
+  "date": 1701902838741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Pastel Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Blue Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Blue Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #101",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "aef8b2408654352bb87f7e3e5583873751bf3781",
+  "edition": 101,
+  "date": 1701903823177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Teal Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Sugar Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Blue Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Licorice"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

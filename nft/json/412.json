@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #412",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "44e30011252ced46a9aa4cbec3c73fdfa583ba59",
+  "edition": 412,
+  "date": 1701903272680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Woods"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted light"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Snow glare"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Diamond"
+    }
+  ]
+}

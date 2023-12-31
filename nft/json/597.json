@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #597",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "14024c1be8380a5663605e50e140a26b8cd2279f",
+  "edition": 597,
+  "date": 1701903423084,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Power Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Power Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

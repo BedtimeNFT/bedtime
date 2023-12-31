@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #74",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "124b700224992ece3f957ccf71c90d6fcd427d5a",
+  "edition": 74,
+  "date": 1701903683099,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Green Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Teal Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Teal Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #193",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1d24657da1d7b0d980da298513d3884c06782482",
+  "edition": 193,
+  "date": 1701903275851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Grass Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Icy blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Neon"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

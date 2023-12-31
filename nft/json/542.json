@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #542",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "de7b4f7781c4f9a70241d73ce51b0f10e3eddd6d",
+  "edition": 542,
+  "date": 1701903463032,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Mossy Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Mossy Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Mossy Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Flame Dusk Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Red Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

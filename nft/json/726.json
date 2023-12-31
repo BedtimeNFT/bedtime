@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #726",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a07d1ed26c99a343fe4d12fe201871427001e6b4",
+  "edition": 726,
+  "date": 1701903487196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Mossy Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Mossy Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Mossy Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Dusk Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Blue Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

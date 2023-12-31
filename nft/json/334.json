@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #334",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "fd25fd5ee7ef481130f2ed0f5d8653ca92b5cd3c",
+  "edition": 334,
+  "date": 1701903244008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Auroura"
+    },
+    {
+      "trait_type": "Auroura/Body",
+      "value": "Spotted blue"
+    },
+    {
+      "trait_type": "Auroura/Eyes",
+      "value": "Basic"
+    },
+    {
+      "trait_type": "Auroura/Claws",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Auroura/Accents",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

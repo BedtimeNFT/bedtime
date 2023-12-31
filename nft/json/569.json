@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #569",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2a63a82494f02f0ae1fd9566313a23dbc807bf82",
+  "edition": 569,
+  "date": 1701902961096,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Cool Blue Beaded"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Red Flare"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Green 4"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

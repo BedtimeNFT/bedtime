@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #75",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "4f9408179bbcc6f6c391496b932324d9df3fa252",
+  "edition": 75,
+  "date": 1701903701006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Teal Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Silver Dust"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Edible Gold"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Mango"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

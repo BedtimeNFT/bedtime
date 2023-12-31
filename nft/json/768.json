@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #768",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "8f2adbd3d18e1e146094fe07a577780077531e14",
+  "edition": 768,
+  "date": 1701903222385,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Mystical"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Amber glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Blue Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

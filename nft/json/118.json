@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #118",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "000a4157d877fd688c29377ccaca13c94614e11f",
+  "edition": 118,
+  "date": 1701903224607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Light glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Amber curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

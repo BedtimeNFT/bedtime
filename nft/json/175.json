@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #175",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "999172ffebf87ebaf87a30b7a64506a78b021a1b",
+  "edition": 175,
+  "date": 1701903657521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Chaos"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Red Clawed"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Dusk Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Tan Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

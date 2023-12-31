@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #232",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "86861a2e38f96a642d3a56890029688af5be9ba0",
+  "edition": 232,
+  "date": 1701903584339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Shadowfang"
+    },
+    {
+      "trait_type": "Shadowfang/Body",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Shadowfang/Head",
+      "value": "Fang"
+    },
+    {
+      "trait_type": "Shadowfang/Eyes",
+      "value": "Infernal"
+    },
+    {
+      "trait_type": "Shadowfang/Feet",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

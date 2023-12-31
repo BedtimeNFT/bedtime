@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #873",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "cf63cd4bf946e1cc2ba1b409a78676416cba09e6",
+  "edition": 873,
+  "date": 1701902789125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Pastel Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "Pink Glow"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Long Yellow Spiked"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Rose"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Bone Dagger"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

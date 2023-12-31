@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #562",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d772fc6c8e1350e0b17e9fb378b49832bdaf4a62",
+  "edition": 562,
+  "date": 1701903297519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Bright Red"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "Blue Crystals"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

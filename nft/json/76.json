@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #76",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "0a6e7aa96801e761255ed0c08c7d2ff584cc1d35",
+  "edition": 76,
+  "date": 1701903795008,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Lemon"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Bubblegum Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Cherry"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

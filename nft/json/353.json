@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #353",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "36dc5f701fdaeec64fee23734ccc943b4436bdb9",
+  "edition": 353,
+  "date": 1701903650156,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candyland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Dusk Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Orange Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

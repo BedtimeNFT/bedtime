@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #472",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ca450e20ead0bcf11ab77f14b096285d918d160f",
+  "edition": 472,
+  "date": 1701903359407,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Purple"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frost Bear"
+    },
+    {
+      "trait_type": "Frost Bear/Essence",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Frost Bear/Body",
+      "value": "Ice Fur"
+    },
+    {
+      "trait_type": "Frost Bear/Eyes",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frost Bear/Accessories",
+      "value": "War Bear"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

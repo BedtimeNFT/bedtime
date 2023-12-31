@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #388",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "95418d7b1fece248e51daafb41c1b3b2be3f8a0f",
+  "edition": 388,
+  "date": 1701903425343,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Power Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Legend"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

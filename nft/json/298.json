@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #298",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "b497672a616ccbfa8d9aedac34ee7b330e59fd6b",
+  "edition": 298,
+  "date": 1701903390702,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Blue 4"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Eagle Eye"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #698",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "464cec81b88bbed1eaf52d90e99545c8d52e6358",
+  "edition": 698,
+  "date": 1701903413656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Molten"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostbite"
+    },
+    {
+      "trait_type": "Frostbite/Tails",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Wings",
+      "value": "Frozen"
+    },
+    {
+      "trait_type": "Frostbite/Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Frostbite/Head",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Frostbite/Eyes",
+      "value": "Green Eagle"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #178",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "33654e6728c2942d597786c6acf52bdd84b94102",
+  "edition": 178,
+  "date": 1701903144810,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Zephyr"
+    },
+    {
+      "trait_type": "Zephyr/Tails",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Zephyr/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Zephyr/Accents",
+      "value": "Blue energy"
+    },
+    {
+      "trait_type": "Zephyr/Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Zephyr/Eyes",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

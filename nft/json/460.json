@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #460",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "0decfe095e78abca219d1f16f1806a9b88bcb4e2",
+  "edition": 460,
+  "date": 1701902847859,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Midnight Rose Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Pastel Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Rose Fern"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Pink Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

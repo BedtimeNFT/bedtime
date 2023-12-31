@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #989",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "50a972aad574923cecc6e3b1deae0216a200a04c",
+  "edition": 989,
+  "date": 1701903826745,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Candy Coated"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Bubblegum Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

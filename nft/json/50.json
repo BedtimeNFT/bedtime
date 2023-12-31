@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #50",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "3e28b887e18d39d5c194f60a969d16588a1c24a1",
+  "edition": 50,
+  "date": 1701903741056,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Blue Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Blue Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Candy Rainbow"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

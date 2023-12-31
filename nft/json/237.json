@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #237",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "9d089e4e67a1f0e13b8c3d7427601b910f4448cd",
+  "edition": 237,
+  "date": 1701903299520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow Cap"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "One Purple Crystal"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

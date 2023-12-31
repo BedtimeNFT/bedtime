@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #847",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "7e6a2193488c1c3b6aa3db94cb3ad836bbcaea38",
+  "edition": 847,
+  "date": 1701903190466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Power glow"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Lavender Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Spring"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #279",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "2d715a95379d06e319520bfd527b14f6d087ccbb",
+  "edition": 279,
+  "date": 1701902938090,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Demon Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Willow"
+    },
+    {
+      "trait_type": "Willow/Body",
+      "value": "Pastel"
+    },
+    {
+      "trait_type": "Willow/Eyes",
+      "value": "Multicolor"
+    },
+    {
+      "trait_type": "Willow/Antenna",
+      "value": "Yellow Pincer"
+    },
+    {
+      "trait_type": "Willow/Wings",
+      "value": "Red 6"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

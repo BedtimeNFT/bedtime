@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #87",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "5e8d125ebb9d5171b35fea6be0e53aba0338601b",
+  "edition": 87,
+  "date": 1701903498776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Barren Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Mossy Basic"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Pink Folded"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Mossy Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Dusk Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Blue Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

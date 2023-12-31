@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #549",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "bb25a5c72b1ff642c4c9ac817c01894eff7d7307",
+  "edition": 549,
+  "date": 1701903558608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Inferno"
+    },
+    {
+      "trait_type": "Inferno/Body",
+      "value": "Tawny"
+    },
+    {
+      "trait_type": "Inferno/Eyes",
+      "value": "Grim"
+    },
+    {
+      "trait_type": "Inferno/Horns",
+      "value": "Inferno Crown"
+    },
+    {
+      "trait_type": "Inferno/Tail Tip",
+      "value": "Dusk Small Fin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

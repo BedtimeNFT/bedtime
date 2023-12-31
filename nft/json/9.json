@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #9",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "68492322de1dc4e06a020d4442d2ad0f8734bfed",
+  "edition": 9,
+  "date": 1701902841194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Blue"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Green Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Rose Fern"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Duality"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

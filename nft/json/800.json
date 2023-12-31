@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #800",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "3753c7092e568c8617a5b95c8aecf6d3b8baca8b",
+  "edition": 800,
+  "date": 1701902888668,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bramble"
+    },
+    {
+      "trait_type": "Bramble/Body",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bramble/Faces",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Bramble/Eyes",
+      "value": "Red Glow"
+    },
+    {
+      "trait_type": "Bramble/Vines",
+      "value": "Young Blue"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

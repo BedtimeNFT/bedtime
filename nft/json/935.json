@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #935",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "15704be5f106f0a7284ae3f5cb5ef0be785151cb",
+  "edition": 935,
+  "date": 1701903781222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Summon"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Gum"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Pink Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

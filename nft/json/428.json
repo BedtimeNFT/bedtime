@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #428",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "85c56bb309ff7dc88a52f337b0ae15ad8068c13b",
+  "edition": 428,
+  "date": 1701903705074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bonbon"
+    },
+    {
+      "trait_type": "Bonbon/Wings",
+      "value": "Blue Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Body",
+      "value": "Blue Sugar"
+    },
+    {
+      "trait_type": "Bonbon/Mane and Tail",
+      "value": "Pink Candy"
+    },
+    {
+      "trait_type": "Bonbon/Eyes",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Bonbon/Hooves",
+      "value": "Cotton Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #909",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "ca08f95de7b2a73c5d4bedfeaddcc7e034e3f8c2",
+  "edition": 909,
+  "date": 1701903678389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sugar Hill"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Vortex"
+    },
+    {
+      "trait_type": "Vortex/Vortex",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Vortex/Wings",
+      "value": "Purple Tattered"
+    },
+    {
+      "trait_type": "Vortex/Body",
+      "value": "Tan Crest"
+    },
+    {
+      "trait_type": "Vortex/Head",
+      "value": "Grime Goblin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

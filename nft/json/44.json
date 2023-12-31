@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #44",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "cd0980dd21752ac35329a114dcf773aa50cc5732",
+  "edition": 44,
+  "date": 1701902845368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Foliage"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Pink Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

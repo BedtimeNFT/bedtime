@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #951",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "6294e9539562294787e2ac0ef9240204210b7a06",
+  "edition": 951,
+  "date": 1701903439761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Frostwing"
+    },
+    {
+      "trait_type": "Frostwing/Tails",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Wings",
+      "value": "Aurora"
+    },
+    {
+      "trait_type": "Frostwing/Body",
+      "value": "Majestic"
+    },
+    {
+      "trait_type": "Frostwing/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

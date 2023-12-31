@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #871",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "19b55c5ab24eef3bd17c071d4894e70de4f3fd20",
+  "edition": 871,
+  "date": 1701903750289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mystic Woods"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Blue Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Pink Candy"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

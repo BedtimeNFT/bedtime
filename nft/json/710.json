@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #710",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "634e9f9d1b6a51e8c968d3ad7d6e2cee09e9c352",
+  "edition": 710,
+  "date": 1701903015190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ice Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Astrea"
+    },
+    {
+      "trait_type": "Astrea/Aura",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Astrea/Body",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Astrea/Head",
+      "value": "Balance"
+    },
+    {
+      "trait_type": "Astrea/Face",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Astrea/Wings",
+      "value": "Origin"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

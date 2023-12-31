@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #818",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "35e70728e2281b9a36facbbe2f67afcf4651dbdd",
+  "edition": 818,
+  "date": 1701903768233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Woodland Pattern"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Bubblegum/Bubbles",
+      "value": "Pink Bubbles"
+    },
+    {
+      "trait_type": "Bubblegum/Wings",
+      "value": "Lime"
+    },
+    {
+      "trait_type": "Bubblegum/Body",
+      "value": "Woodland Fur"
+    },
+    {
+      "trait_type": "Bubblegum/Scales",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Bubblegum/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

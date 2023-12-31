@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #833",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "50f716b2e51c4df252e8efd2015049f75d7e751c",
+  "edition": 833,
+  "date": 1701903295274,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Cave"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Blue Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Demonic Red"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Bright Purple"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "One Green Crystal"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

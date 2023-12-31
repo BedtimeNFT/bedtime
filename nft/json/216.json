@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #216",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "0ed4cd554a952383cada23d0d1db0289c58e8e8e",
+  "edition": 216,
+  "date": 1701903325480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Red"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Frostlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Blizzard"
+    },
+    {
+      "trait_type": "Blizzard/Ground",
+      "value": "Blue Hill"
+    },
+    {
+      "trait_type": "Blizzard/Wings",
+      "value": "Deep Blue"
+    },
+    {
+      "trait_type": "Blizzard/Body",
+      "value": "Demonic Red"
+    },
+    {
+      "trait_type": "Blizzard/Eyes",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Blizzard/Accessories",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

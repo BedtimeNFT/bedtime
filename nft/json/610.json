@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #610",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "1b40f16e76486b855129cc09bd38b0d82b63df71",
+  "edition": 610,
+  "date": 1701903505102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Green"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Demons"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Ashen"
+    },
+    {
+      "trait_type": "Ashen/Pedestals",
+      "value": "Midnight Adorned"
+    },
+    {
+      "trait_type": "Ashen/Wings",
+      "value": "Soot Fanged"
+    },
+    {
+      "trait_type": "Ashen/Body",
+      "value": "Red Goblin"
+    },
+    {
+      "trait_type": "Ashen/Head",
+      "value": "Mossy Horned"
+    },
+    {
+      "trait_type": "Ashen/Accessories",
+      "value": "Blue Flame"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

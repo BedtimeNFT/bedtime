@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #975",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "9a38131ec74881cf7e4731d16433a96fe9e3f0e0",
+  "edition": 975,
+  "date": 1701902877442,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Yellow"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Autumn Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Ferns"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Blue Lightning Staff"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

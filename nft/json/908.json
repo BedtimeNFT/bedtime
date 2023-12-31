@@ -1,0 +1,50 @@
+{
+  "name": "Bedtime Creations Companions #908",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "33c0ced9702d91b1bc457375bafe72c730480c22",
+  "edition": 908,
+  "date": 1701902818754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadwood Forest"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Leafsong"
+    },
+    {
+      "trait_type": "Leafsong/Body",
+      "value": "Pink Down"
+    },
+    {
+      "trait_type": "Leafsong/Feet",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Leafsong/Face",
+      "value": "White Glow"
+    },
+    {
+      "trait_type": "Leafsong/Hair",
+      "value": "Long Blue Spiked"
+    },
+    {
+      "trait_type": "Leafsong/Wings",
+      "value": "Autumn"
+    },
+    {
+      "trait_type": "Leafsong/Accessories",
+      "value": "Dual Bone Daggers"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

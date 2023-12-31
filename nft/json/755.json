@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #755",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "d3f9d689035c6b651475713b05669b9a846dab29",
+  "edition": 755,
+  "date": 1701903837827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Teal"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Candylanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sprinkle"
+    },
+    {
+      "trait_type": "Sprinkle/Body",
+      "value": "Gold Dust"
+    },
+    {
+      "trait_type": "Sprinkle/Mane and Tail",
+      "value": "Lime Candy"
+    },
+    {
+      "trait_type": "Sprinkle/Eyes",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Sprinkle/Horns",
+      "value": "Blue Sparkle"
+    },
+    {
+      "trait_type": "Sprinkle/Hooves",
+      "value": "Magic Candy"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

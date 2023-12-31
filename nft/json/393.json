@@ -1,0 +1,42 @@
+{
+  "name": "Bedtime Creations Companions #393",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "fee8c40aaff9d2a6e8e08a2f3e40f01b6a20a4a2",
+  "edition": 393,
+  "date": 1701902874209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factions Orange"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Woodlanders"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Sylvan"
+    },
+    {
+      "trait_type": "Sylvan/Body",
+      "value": "Autumn Wood"
+    },
+    {
+      "trait_type": "Sylvan/Faces",
+      "value": "Autumn"
+    },
+    {
+      "trait_type": "Sylvan/Branches",
+      "value": "Rose Fern"
+    },
+    {
+      "trait_type": "Sylvan/Accessories",
+      "value": "Combo 1"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Ruby"
+    }
+  ]
+}

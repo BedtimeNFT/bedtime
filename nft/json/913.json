@@ -1,0 +1,46 @@
+{
+  "name": "Bedtime Creations Companions #913",
+  "description": "",
+  "image": "https://bafybeibvmplxsvz3waz47jc7pkzebfujoihovomnglexg2pbfobbkbauia.ipfs.nftstorage.link/hidden.jpg",
+  "dna": "a97aa07251fb08592ac091f5771c4ccaf2fe04f8",
+  "edition": 913,
+  "date": 1701903196256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Portals Dusk"
+    },
+    {
+      "trait_type": "Faction",
+      "value": "Mystics"
+    },
+    {
+      "trait_type": "Creature",
+      "value": "Solstice"
+    },
+    {
+      "trait_type": "Solstice/Body",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Solstice/Mane and Tail",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Solstice/Eyes",
+      "value": "Golden glare"
+    },
+    {
+      "trait_type": "Solstice/Horns",
+      "value": "Lavender Curved"
+    },
+    {
+      "trait_type": "Solstice/Hooves",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "Emerald"
+    }
+  ]
+}

@@ -460,6 +460,7 @@ const mintTokens = async function (amount) {
 }
 
 // Mint Function SHEESH new
+
 const mintTokensSheesh = async function (amount) {
   // Convert amount to BigInt
     if (amount <= 0) {
@@ -569,9 +570,6 @@ mintButtonSheesh.addEventListener("click", function (e) {
   if (!mintAmountSheesh.value) {
     alert("Please enter number of NFTs to mint!");
   } else {
-    alert("SHEESH is disabled for mint at this time!");
-  
-  // Temporary disable SHEESH
    const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
    mintTokensSheesh(mintAmountSheesh.value);
    messageText.innerText = "Please accept in Metamask!";

@@ -258,7 +258,12 @@ a {
                 </div>
                 <div class="has-wallet hidden">
                   <div class="mint-form w-form">
-                    <form id="wf-form-Mint-Form" name="wf-form-Mint-Form" data-name="Mint Form" method="get" class="mint-form-wrapper" data-wf-page-id="658e2a021815cdd2c2c9abd8" data-wf-element-id="a4e29691-22b6-dc52-620d-97e753149d57"><label for="mint-amount" class="field-label">Name</label><input type="number" class="mint-amount w-input" max="20" maxlength="256" name="name" data-name="Name" min="1" placeholder="#" id="mint-amount" required=""><input type="submit" id="mint-button" value="Mint in ETH" data-wait="Please wait..." class="mint-button w-button"><input type="submit" id="mint-buttonSheesh" value="SHEESH COMING SOON" data-wait="Please wait..." class="mint-button-sheesh w-button"></form>
+                    <form id="wf-form-Mint-Form" name="wf-form-Mint-Form" data-name="Mint Form" method="get" class="mint-form-wrapper" data-wf-page-id="658e2a021815cdd2c2c9abd8" data-wf-element-id="a4e29691-22b6-dc52-620d-97e753149d57">
+                      <label for="mint-amount" class="field-label"></label>
+                      <input type="number" class="mint-amount w-input" max="20" maxlength="256" name="name" data-name="Name" min="1" placeholder="#" id="mint-amount" required="">
+                      <input type="submit" id="mint-button" value="Mint in ETH" data-wait="Please wait..." class="mint-button w-button">
+                      <input type="submit" id="mint-buttonSheesh" value="SHEESH COMING SOON" data-wait="Please wait..." class="mint-button-sheesh w-button">
+                    </form>
                     <div class="w-form-done">
                       <div>Thank you! Your submission has been received!</div>
                     </div>
@@ -367,9 +372,13 @@ contract.methods.getPausedState().call().then(paused => {
 contract.methods.getTotalSupply().call().then(supply => {
   console.log('Total Supply:', supply);  
 });
-//update totalSupply
+
+
+//Read totalSupply
 //contract.methods.totalSupply().call().then((supply) => numMinted.innerText = supply);
-//contract.methods.getmaxSupply().call().then((max) => maxSupply.innerText = max);
+contract.methods.getTotalSupply().call().then((max) => maxSupply.innerText = max);
+console.log(max, maxSupply);
+
 // Event Listeners
 ethereum.on('chainChanged', handleChainChanged);
 function handleChainChanged(_chainId) {

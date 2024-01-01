@@ -1307,7 +1307,9 @@ figcaption {
 }
 
 .mint-amount-copy {
-  width: 80%;
+  width: 60%; /* Adjust width as needed */
+  margin-bottom: 20px; /* Space between input and buttons */
+  margin-left: 27px;
   height: 100px;
   color: #fff;
   text-align: center;
@@ -1315,7 +1317,6 @@ figcaption {
   border: 1rem solid #ffcb20;
   border-right-width: 0;
   border-radius: 20px 0 0 20px;
-  margin-bottom: 20px;
   padding-top: 32px;
   padding-bottom: 32px;
   font-size: 3rem;
@@ -1377,12 +1378,6 @@ figcaption {
 .mint-button-sheesh:hover {
   background-color: var(--gold2);
 }
-
-.mint-amount {
-  width: 80%; /* Adjust width as needed */
-  margin-bottom: 20px; /* Space between input and buttons */
-}
-
 
 @media screen and (min-width: 1280px) {
   .page-padding {

@@ -349,7 +349,7 @@ const CONTRACT_ADDRESS_SHEESH = "0xbB4f3aD7a2cf75d8EfFc4f6D7BD21d95F06165ca"; //
 const WEI_COST_SHEESH = 78000000;
 const CHAIN_ID = '0x1'; //'0x89' for polygon an '0x1' for Ethereum
 const CHAIN_ID_NAME = 'Ethereum'; //enter name of blockchain used
-console.log(ABI);
+console.log('ABI : ' + ABI);
 // get a reference to all html elements
 const mintAmount = document.querySelector("#mint-amount");
 const mintButton = document.querySelector("#mint-button");
@@ -367,7 +367,6 @@ const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 const web3 = new Web3(window.ethereum);
 const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
 console.log('ETH Contract with ABI : ' + contract );
-console.log(contract);
 contract.methods.getPausedState().call().then(paused => {
   console.log('Paused:', paused); 
 });

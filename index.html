@@ -444,23 +444,44 @@ console.log("Buffered Gas: ", bufferedGas);
 
 // Mint Function SHEESH
 const mintTokensSheesh = async function (amount) {
+    // Convert amount to BigInt
+    amount = BigInt(amount);
   // get a list of accounts from metamask
   const accounts = await window.ethereum.request({
     method: "eth_requestAccounts",
   });
-	var totalCostSheesh = WEI_COST_SHEESH * amount;
+  var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
   console.log('Total Cost Sheesh : ' + totalCostSheesh);
+
   // if an account is present
-	if (accounts.length > 0) { 
-  //contract.methods.Mint(amount).send({
-    contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
-    from: accounts[0], 
-   // to: CONTRACT_ADDRESS_SHEESH,
-    value: String(totalCostSheesh),
-    gas: 3000000 // Specifying the gas limit here
-   });
+  if (accounts.length > 0) { 
+    contract.methods.publicMintWithSheesh(amount, accounts[0]).estimateGas({
+      from: accounts[0],
+      value: BigInt(totalCostSheesh)
+    })
+    .then(estimatedGas => {
+      console.log("Estimated Gas: ", BigInt(estimatedGas) );
+
+  // Add 20% buffer to the estimated gas
+// Since BigInt cannot handle decimals, multiply by 120 and then divide by 100
+const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
+console.log("Buffered Gas: ", bufferedGas);
+
+      // Now that we have the estimated gas, we can send the transaction
+      contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+        from: accounts[0], 
+        value: BigInt(totalCostSheesh),
+        gas: BigInt(bufferedGas)
+      })
+      .then(function(receipt){
+        console.log("Transaction Receipt: ", receipt);
+      })
+      .catch(console.error);
+    })
+    .catch(console.error);
   }
-} 
+}
+
 
 const updateChainId = async function () {
 	const id = await ethereum.request({ method: 'eth_chainId' });
@@ -506,10 +527,10 @@ mintButtonSheesh.addEventListener("click", function (e) {
     alert("SHEESH is disabled for mint at this time!");
   
   // Temporary disable SHEESH
-  //  const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
-  //  mintTokensSheesh(mintAmountSheesh.value);
-  //  messageText.innerText = "Please accept in Metamask!";
-  //  mintAmountSheesh.value = '';
+   const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+   mintTokensSheesh(mintAmountSheesh.value);
+   messageText.innerText = "Please accept in Metamask!";
+   mintAmountSheesh.value = '';
   }
 });
 </script>

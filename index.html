@@ -195,8 +195,7 @@ a {
               </div>
               <div class="header_bottom-wrapper">
                 <div class="text-block-2">
-                  <span class="num-minted">${supply} of 1000 </span>Bedtime Creations Companions are available for only 0.04 ETH each
-                <span id="supplyText" class="num-minted"> of 1000 Bedtime Creations Companions are available for only 0.04 ETH each</span>
+                  <span id="supplyText" class="num-minted"> of 1000 Bedtime Creations Companions are available for only 0.04 ETH each</span>
                 </div>
                 <div class="special-offer">
                   For every 5 purchased, get 1 free
@@ -373,7 +372,7 @@ contract.methods.getPausedState().call().then(paused => {
 });
 contract.methods.getTotalSupply().call().then(supply => {
   document.getElementById('supplyText').innerText = `${supply} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
-  console.log('Total Supply:', supply);  
+  console.log('Total Minted:', supply);  
 });
 
 

@@ -366,7 +366,7 @@ const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
 const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
-console.log('ETH Contract with ABI : ' + contract );
+console.log('ETH Contract with ABI : ' , contract );
 contract.methods.getPausedState().call().then(paused => {
   console.log('Paused:', paused); 
 });
@@ -571,7 +571,7 @@ mintButtonSheesh.addEventListener("click", function (e) {
     alert("Please enter number of NFTs to mint!");
   } else {
    const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
-   console.log('Sheesh Contract with ABI : ' + contract );
+   console.log('Sheesh Contract with ABI : ' , contract );
    console.log('Sheesh Contract : ' + CONTRACT_ADDRESS_SHEESH );
    mintTokensSheesh(mintAmountSheesh.value);
    messageText.innerText = "Please accept in Metamask!";

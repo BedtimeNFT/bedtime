@@ -72,6 +72,13 @@ body {
   line-height: 1.5;
 }
 
+.special-offer {
+  color: #0ba709; /* or any color of your choice */
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
 h1 {
   margin-top: 0;
   margin-bottom: 0;
@@ -1977,12 +1984,7 @@ figcaption {
     align-items: center;
   }
   
-  .special-offer {
-    color: #0ba709; /* or any color of your choice */
-    margin-bottom: 1rem;
-    font-size: 1.5rem;
-    font-weight: 900;
-}
+
 
   .get-metamask-button, .get-metamask-button-copy {
     height: auto;

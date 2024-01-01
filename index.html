@@ -1,5 +1,4 @@
-<!DOCTYPE html><!--  This site was created in Webflow. https://www.webflow.com  -->
-<!--  Last Published: Sat Dec 30 2023 03:44:56 GMT+0000 (Coordinated Universal Time)  -->
+<!DOCTYPE html>
 <html data-wf-page="658e2a021815cdd2c2c9abd8" data-wf-site="658e2a011815cdd2c2c9ab76">
 <head>
   <meta charset="utf-8">
@@ -479,13 +478,13 @@ const mintTokensSheesh = async function (amount) {
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
-   await contract.methods.publicMintWithSheesh.approve(CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ from: accounts[0] });
+   //await contract.methods.publicMintWithSheesh.approve(CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ from: accounts[0] });
    //await contract.methods.publicMintWithSheesh(amount).send({ from: accounts[0] });
-   // contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
-  //       from: accounts[0], 
-  //       value: BigInt(totalCostSheesh),
-  //       gas: 30000
-  //});
+    contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+         from: accounts[0], 
+         value: BigInt(totalCostSheesh),
+         gas: 30000
+  });
 }
 
 

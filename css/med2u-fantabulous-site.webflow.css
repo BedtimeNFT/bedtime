@@ -1978,11 +1978,10 @@ figcaption {
   }
   
   .special-offer {
-    color: #333; /* or any color of your choice */
-    font-size: 1rem; /* adjust as needed */
-    margin-top: 10px; /* space above the text */
-    margin-bottom: 10px; /* space below the text */
-    /* Add any other styles as required */
+    color: #0ba709; /* or any color of your choice */
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 900;
 }
 
   .get-metamask-button, .get-metamask-button-copy {

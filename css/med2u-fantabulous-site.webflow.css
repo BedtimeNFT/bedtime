@@ -989,7 +989,8 @@ figcaption {
 }
 
 .mint-button {
-  width: 400px;
+  width: 80%; /* Adjust width as needed */
+  margin-bottom: 20px; /* Space between buttons */
   height: 100px;
   clear: both;
   border: 20px solid var(--gold2);
@@ -1002,7 +1003,6 @@ figcaption {
   border-radius: 20px;
   flex: 0 auto;
   align-self: auto;
-  margin-bottom: 0;
   margin-left: 10px;
   margin-right: 10px;
   padding: 0 10px;
@@ -1301,7 +1301,7 @@ figcaption {
 }
 
 .mint-amount-copy {
-  width: 140px;
+  width: 80%;
   height: 100px;
   color: #fff;
   text-align: center;
@@ -1309,7 +1309,7 @@ figcaption {
   border: 1rem solid #ffcb20;
   border-right-width: 0;
   border-radius: 20px 0 0 20px;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   padding-top: 32px;
   padding-bottom: 32px;
   font-size: 3rem;
@@ -1371,6 +1371,16 @@ figcaption {
 
 .mint-button-sheesh:hover {
   background-color: var(--gold2);
+}
+
+.mint-amount {
+  width: 80%; /* Adjust width as needed */
+  margin-bottom: 20px; /* Space between input and buttons */
+}
+
+.mint-button, .mint-button-sheesh {
+  width: 80%; /* Adjust width as needed */
+  margin-bottom: 20px; /* Space between buttons */
 }
 
 @media screen and (min-width: 1280px) {
@@ -1974,7 +1984,7 @@ figcaption {
     margin-bottom: 10px; /* space below the text */
     /* Add any other styles as required */
 }
-  
+
   .get-metamask-button, .get-metamask-button-copy {
     height: auto;
     text-align: center;

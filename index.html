@@ -462,31 +462,32 @@ const mintTokens = async function (amount) {
 // Mint Function SHEESH new
 const mintTokensSheesh = async function (amount) {
   // Convert amount to BigInt
-  amount = BigInt(amount);
-  const accounts = await window.ethereum.request({
+    if (amount <= 0) {
+        console.error("Invalid amount. Please enter a positive number.");
+        return;
+    }
+    amount = BigInt(amount);
+const accounts = await window.ethereum.request({
       method: "eth_requestAccounts",
   });
+
+if (accounts.length === 0) {
+            console.error("No Ethereum accounts found. Please ensure MetaMask is connected.");
+            return;
+   }
+   console.log(`Using account: ${accounts[0]}`);
+
   var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
   console.log('Total Cost Sheesh : ' + totalCostSheesh);
   console.log("Sending transaction...");
   contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
          from: accounts[0], 
-         value: BigInt(totalCostSheesh)  
+         value: BigInt(totalCostSheesh)  ,
+         gas: 3000
   });
 }
 
 // Mint Function SHEESH
-//const mintTokensSheesh = async function (amount) {
-  // Convert amount to BigInt
-//  amount = BigInt(amount);
-
-//  try {
-//    // get a list of accounts from metamask
-//    const accounts = await window.ethereum.request({
-//      method: "eth_requestAccounts",
-//    });
-//    
-
     // if an account is present
     //if (accounts.length > 0) {
       //console.log("Estimating gas for the transaction...");

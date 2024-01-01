@@ -371,7 +371,7 @@ contract.methods.getPausedState().call().then(paused => {
   console.log('Paused:', paused); 
 });
 contract.methods.getTotalSupply().call().then((supply) => {
-    const remaining = 1000 - supply; // Calculate the difference
+    const remaining = 1000 - BigInt(supply); // Calculate the difference
     document.getElementById('supplyText').innerText = `${remaining} of 1000 Bedtime Creations Companions are still available for only 0.04 ETH each`;
 
   console.log('Total Minted:', supply);  

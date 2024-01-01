@@ -370,12 +370,24 @@ console.log(contract);
 contract.methods.getPausedState().call().then(paused => {
   console.log('Paused:', paused); 
 });
-contract.methods.getTotalSupply().call().then((supply) => {
-    const remaining = 1000 - BigInt(supply); // Calculate the difference
-    document.getElementById('supplyText').innerText = `${remaining} of 1000 Bedtime Creations Companions are still available for only 0.04 ETH each`;
 
-  console.log('Total Minted:', supply);  
+contract.methods.getTotalSupply().call().then((supply) => {
+    // Convert supply to BigInt, if it's not already
+    const supplyBigInt = BigInt(supply);
+
+    // Convert 1000 to BigInt
+    const totalBigInt = BigInt(1000);
+
+    // Perform the subtraction
+    const remaining = totalBigInt - supplyBigInt;
+
+    // Update the innerText of the element
+    // Convert the BigInt result to a string for display
+    document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are still available for only 0.04 ETH each`;
+    console.log('Total Minted:', supply);  
 });
+
+
 
 
 //Read totalSupply

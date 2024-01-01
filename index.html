@@ -463,11 +463,16 @@ const mintTokens = async function (amount) {
 const mintTokensSheesh = async function (amount) {
   // Convert amount to BigInt
   amount = BigInt(amount);
+  const accounts = await window.ethereum.request({
+      method: "eth_requestAccounts",
+  });
+  var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
+  console.log('Total Cost Sheesh : ' + totalCostSheesh);
   console.log("Sending transaction...");
   contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
          from: accounts[0], 
          value: BigInt(totalCostSheesh)  
-  })
+  });
 }
 
 // Mint Function SHEESH
@@ -480,8 +485,7 @@ const mintTokensSheesh = async function (amount) {
 //    const accounts = await window.ethereum.request({
 //      method: "eth_requestAccounts",
 //    });
-//    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
-//    console.log('Total Cost Sheesh : ' + totalCostSheesh);
+//    
 
     // if an account is present
     //if (accounts.length > 0) {

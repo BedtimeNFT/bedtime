@@ -571,6 +571,7 @@ mintButtonSheesh.addEventListener("click", function (e) {
     alert("Please enter number of NFTs to mint!");
   } else {
    const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+   console.log('Sheesh Contract : ' + contract );
    mintTokensSheesh(mintAmountSheesh.value);
    messageText.innerText = "Please accept in Metamask!";
    mintAmountSheesh.value = '';

@@ -479,11 +479,12 @@ const mintTokensSheesh = async function (amount) {
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...");
-   contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
-         from: accounts[0], 
-         value: BigInt(totalCostSheesh)  ,
-         gas: 30000
-  });
+   await contract.methods.publicMintWithSheesh.approve(CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ from: accounts[0] });
+  // contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+  //       from: accounts[0], 
+  //       value: BigInt(totalCostSheesh),
+  //       gas: 30000
+  //});
 }
 
 
@@ -529,7 +530,7 @@ mintButtonSheesh.addEventListener("click", function (e) {
   if (!mintAmountSheesh.value) {
     alert("Please enter number of NFTs to mint!");
   } else {
-   const contractsheesh = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+
    console.log('Sheesh Contract with ABI : ' , contractsheesh );
    console.log('Sheesh Contract : ' + CONTRACT_ADDRESS_SHEESH );
    mintTokensSheesh(mintAmountSheesh.value);

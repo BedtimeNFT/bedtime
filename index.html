@@ -195,7 +195,7 @@ a {
               </div>
               <div class="header_bottom-wrapper">
                 <div class="text-block-2">
-                  <span class="num-minted">1000 </span>Bedtime Creations Companions are available for only 0.04 ETH each
+                  <span class="num-minted">${supply} </span>Bedtime Creations Companions are available for only 0.04 ETH each
                 </div>
                 <div class="special-offer">
                   For every 5 purchased, get 1 free
@@ -361,6 +361,7 @@ const numMinted = document.querySelector(".num-minted");
 const maxSupply = document.querySelector(".max-supply");
 const mintAmountSheesh = document.querySelector("#mint-amount");
 const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
+
 // Web3 Setup
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
@@ -376,8 +377,8 @@ contract.methods.getTotalSupply().call().then(supply => {
 
 //Read totalSupply
 //contract.methods.totalSupply().call().then((supply) => numMinted.innerText = supply);
-contract.methods.getTotalSupply().call().then((max) => maxSupply.innerText = max);
-console.log(max, maxSupply);
+//contract.methods.getTotalSupply().call().then((max) => maxSupply.innerText = max);
+//console.log(max, maxSupply);
 
 // Event Listeners
 ethereum.on('chainChanged', handleChainChanged);

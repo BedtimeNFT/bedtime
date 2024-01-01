@@ -365,9 +365,28 @@ const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 // Web3 Setup
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
-//contract.methods.getPausedState().call().then(paused => {
-//  console.log('Paused:', paused); 
-//});
+const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
+const contractsheesh = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+console.log('ETH Contract with ABI : ' , contract );
+contract.methods.getPausedState().call().then(paused => {
+  console.log('Paused:', paused); 
+});
+
+contract.methods.getTotalSupply().call().then((supply) => {
+    // Convert supply to BigInt, if it's not already
+    const supplyBigInt = BigInt(supply);
+
+    // Convert 1000 to BigInt
+    const totalBigInt = BigInt(1000);
+
+    // Perform the subtraction
+    const remaining = totalBigInt - supplyBigInt;
+
+    // Update the innerText of the element
+    // Convert the BigInt result to a string for display
+    document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
+    console.log('Total Minted:', supply);  
+});
 
 
 
@@ -496,26 +515,6 @@ mintButton.addEventListener("click", function (e) {
   if (!mintAmount.value) {
     alert("Please enter number of NFTs to mint!");
   } else {
-    const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
-   console.log('Eth Contract with ABI : ' , contract );
-   console.log('Eth Contract : ' + CONTRACT_ADDRESS );
-   contract.methods.getTotalSupply().call().then((supply) => {
-    // Convert supply to BigInt, if it's not already
-    const supplyBigInt = BigInt(supply);
-
-    // Convert 1000 to BigInt
-    const totalBigInt = BigInt(1000);
-
-    // Perform the subtraction
-    const remaining = totalBigInt - supplyBigInt;
-
-    // Update the innerText of the element
-    // Convert the BigInt result to a string for display
-    document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
-    console.log('Total Minted:', supply);  
-});
-
-
   	mintTokens(mintAmount.value);
     messageText.innerText = "Please accept in Metamask!";
     mintAmount.value = '';
@@ -530,16 +529,14 @@ mintButtonSheesh.addEventListener("click", function (e) {
   if (!mintAmountSheesh.value) {
     alert("Please enter number of NFTs to mint!");
   } else {
-   const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
-   console.log('Sheesh Contract with ABI : ' , contract );
+   const contractsheesh = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+   console.log('Sheesh Contract with ABI : ' , contractsheesh );
    console.log('Sheesh Contract : ' + CONTRACT_ADDRESS_SHEESH );
    mintTokensSheesh(mintAmountSheesh.value);
    messageText.innerText = "Please accept in Metamask!";
    mintAmountSheesh.value = '';
   }
 });
-
-
 </script>
 </body>
 </html>

@@ -365,9 +365,9 @@ const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 // Web3 Setup
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
-contract.methods.getPausedState().call().then(paused => {
-  console.log('Paused:', paused); 
-});
+//contract.methods.getPausedState().call().then(paused => {
+//  console.log('Paused:', paused); 
+//});
 
 contract.methods.getTotalSupply().call().then((supply) => {
     // Convert supply to BigInt, if it's not already

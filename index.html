@@ -346,7 +346,7 @@ a {
 const CONTRACT_ADDRESS = "0xaCBC81FE1F56e4138AA1Bc1cF0745D5b52bAcaB5"; //address for your smart contract
 const WEI_COST = 40000000000000000;
 const CONTRACT_ADDRESS_SHEESH = "0xbB4f3aD7a2cf75d8EfFc4f6D7BD21d95F06165ca"; //address for your smart contract
-const WEI_COST_SHEESH = 105000000000000000000000000;
+const WEI_COST_SHEESH = 78000000;
 const CHAIN_ID = '0x1'; //'0x89' for polygon an '0x1' for Ethereum
 const CHAIN_ID_NAME = 'Ethereum'; //enter name of blockchain used
 console.log(ABI);
@@ -403,45 +403,114 @@ function handleChainChanged(_chainId) {
 
 // Mint Function ETH
 const mintTokens = async function (amount) {
+    if (amount <= 0) {
+        console.error("Invalid amount. Please enter a positive number.");
+        return;
+    }
+
     // Convert amount to BigInt
     amount = BigInt(amount);
-  // get a list of accounts from metamask
-  const accounts = await window.ethereum.request({
-    method: "eth_requestAccounts",
-  });
-  var totalCost = BigInt(WEI_COST) * BigInt(amount);
-  console.log(totalCost);
 
-  // if an account is present
-  if (accounts.length > 0) { 
-    contract.methods.publicMint(amount, accounts[0]).estimateGas({
-      from: accounts[0],
-      value: BigInt(totalCost)
-    })
-    .then(estimatedGas => {
-      console.log("Estimated Gas: ", BigInt(estimatedGas) );
+    // Get a list of accounts from MetaMask
+    try {
+        const accounts = await window.ethereum.request({
+            method: "eth_requestAccounts",
+        });
 
-  // Add 20% buffer to the estimated gas
-// Since BigInt cannot handle decimals, multiply by 120 and then divide by 100
-const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
-console.log("Buffered Gas: ", bufferedGas);
+        if (accounts.length === 0) {
+            console.error("No Ethereum accounts found. Please ensure MetaMask is connected.");
+            return;
+        }
 
-      // Now that we have the estimated gas, we can send the transaction
-      contract.methods.publicMint(amount, accounts[0]).send({
-        from: accounts[0], 
-        value: BigInt(totalCost),
-        gas: BigInt(bufferedGas)
-      })
-      .then(function(receipt){
-        console.log("Transaction Receipt: ", receipt);
-      })
-      .catch(console.error);
-    })
-    .catch(console.error);
-  }
+        console.log(`Using account: ${accounts[0]}`);
+        var totalCost = BigInt(WEI_COST) * amount;
+        console.log(`Total cost: ${totalCost} WEI`);
+
+        // Estimate gas for the transaction
+        try {
+            const estimatedGas = await contract.methods.publicMint(amount, accounts[0]).estimateGas({
+                from: accounts[0],
+                value: totalCost
+            });
+
+            console.log(`Estimated Gas: ${estimatedGas}`);
+
+            // Add 20% buffer to the estimated gas
+            const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
+            console.log(`Buffered Gas (with 20% buffer): ${bufferedGas}`);
+
+            // Send the transaction
+            try {
+                const receipt = await contract.methods.publicMint(amount, accounts[0]).send({
+                    from: accounts[0], 
+                    value: totalCost,
+                    gas: bufferedGas
+                });
+
+                console.log("Transaction successful. Receipt: ", receipt);
+            } catch (sendError) {
+                console.error("Error sending transaction: ", sendError);
+            }
+        } catch (estimationError) {
+            console.error("Error estimating gas: ", estimationError);
+        }
+    } catch (accountError) {
+        console.error("Error fetching accounts: ", accountError);
+    }
 }
 
 
+
+// Mint Function SHEESH
+const mintTokensSheesh = async function (amount) {
+  // Convert amount to BigInt
+  amount = BigInt(amount);
+
+  try {
+    // get a list of accounts from metamask
+    const accounts = await window.ethereum.request({
+      method: "eth_requestAccounts",
+    });
+    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
+    console.log('Total Cost Sheesh : ' + totalCostSheesh);
+
+    // if an account is present
+    if (accounts.length > 0) {
+      console.log("Estimating gas for the transaction...");
+      contract.methods.publicMintWithSheesh(amount, accounts[0]).estimateGas({
+        from: accounts[0],
+        value: BigInt(totalCostSheesh)
+      })
+      .then(estimatedGas => {
+        console.log("Estimated Gas: ", BigInt(estimatedGas));
+
+        // Add 20% buffer to the estimated gas
+        const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
+        console.log("Buffered Gas: ", bufferedGas);
+
+        console.log("Sending transaction...");
+        contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+          from: accounts[0], 
+          value: BigInt(totalCostSheesh),
+          gas: BigInt(bufferedGas)
+        })
+        .then(function(receipt){
+          console.log("Transaction successful! Receipt: ", receipt);
+        })
+        .catch(error => {
+          console.error("Transaction failed:", error.message);
+        });
+      })
+      .catch(error => {
+        console.error("Gas estimation failed:", error.message);
+      });
+    } else {
+      console.log("No accounts found. Please connect to MetaMask.");
+    }
+  } catch (error) {
+    console.error("An error occurred:", error.message);
+  }
+}
 
 
 

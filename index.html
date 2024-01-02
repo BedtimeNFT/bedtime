@@ -446,7 +446,6 @@ const mintTokens = async function (amount) {
                     value: totalCost,
                     gas: bufferedGas
                 });
-
                 console.log("Transaction successful. Receipt: ", receipt);
             } catch (sendError) {
                 console.error("Error sending transaction: ", sendError);
@@ -474,34 +473,16 @@ const mintTokensSheesh = async function (amount) {
             return;
     }
    console.log(`Using account: ${accounts[0]}`);
-
-
-
-
-   
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
    
    const receipt = await contractsheesh.methods.publicMintWithSheesh(amount, accounts[0]).send({
                     from: accounts[0], 
-                    value: totalCostSheesh                 
+                    value: totalCostSheesh,
+                    gas: 50000                 
                 });
-
-
- //  await contract.methods.publicMintWithSheesh.approve(
- //   CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ 
- //     from: accounts[0] 
- //   });
-   
-    //await contract.methods.publicMintWithSheesh(amount).send({ from: accounts[0] });
-//    await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
- //        from: accounts[0], 
- //        value: BigInt(totalCostSheesh),
-//         gas: 2000000
- // });
 }
-
 
 const updateChainId = async function () {
 	const id = await ethereum.request({ method: 'eth_chainId' });
@@ -547,7 +528,6 @@ mintButtonSheesh.addEventListener("click", function (e) {
   if (!mintAmountSheesh.value) {
     alert("Please enter number of NFTs to mint!");
   } else {
-
    console.log('Sheesh Contract with ABI : ' , contractsheesh );
    console.log('Sheesh Contract : ' + CONTRACT_ADDRESS_SHEESH );
    mintTokensSheesh(mintAmountSheesh.value);

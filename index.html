@@ -479,7 +479,7 @@ const mintTokensSheesh = async function (amount) {
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
    
-   const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).approve({
+   const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
                     from: accounts[0], 
                     value: totalCostSheesh,
                     gas: 2000000

@@ -365,7 +365,7 @@ const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
 const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
-const contractsheesh = new web3.eth.Contract(ABI, CONTRACT_ADDRESS_SHEESH);
+const contractsheesh = new web3.eth.contractsheesh(ABI, CONTRACT_ADDRESS_SHEESH);
 console.log('ETH Contract with ABI : ' , contract );
 contract.methods.getPausedState().call().then(paused => {
   console.log('Paused:', paused); 
@@ -386,14 +386,6 @@ contract.methods.getTotalSupply().call().then((supply) => {
     document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
     console.log('Total Minted:', supply);  
 });
-
-
-
-
-//Read totalSupply
-//contract.methods.totalSupply().call().then((supply) => numMinted.innerText = supply);
-//contract.methods.getTotalSupply().call().then((max) => maxSupply.innerText = max);
-//console.log(max, maxSupply);
 
 // Event Listeners
 ethereum.on('chainChanged', handleChainChanged);

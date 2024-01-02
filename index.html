@@ -467,16 +467,7 @@ const mintTokensSheesh = async function (amount) {
    console.log(`Using account: ${accounts[0]}`);
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
-   //Estimate Gas
-   const estimatedGas = await contract.methods.publicMint(amount, accounts[0]).estimateGas({
-                from: accounts[0],
-                value: totalCost
-              });
-    // Add 30% buffer to the estimated gas
-    const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
-            console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
-
-   console.log('Total amount : ' , amount );
+     console.log('Total amount : ' , amount );
    //amount = totalCostSheesh;
    console.log('Total amount = sheesh : ' , amount );
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
@@ -485,7 +476,7 @@ const mintTokensSheesh = async function (amount) {
    console.log("amount : " , amountapprovedsheesh)
    const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
                     from: accounts[0], 
-                    gas: bufferedGas                 
+                    gas: 100000                 
                 });
     console.log("Transaction successful. Receipt: ", receipt);
     console.error("Error sending transaction: ", sendError);

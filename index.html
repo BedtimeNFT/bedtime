@@ -539,14 +539,18 @@
               gas: bufferedGas
             });
             console.log("Transaction successful. Receipt: ", receipt);
+            messageText.innerText = "Transaction Complete";
           } catch (sendError) {
             console.error("Error sending transaction: ", sendError);
+            messageText.innerText = "Transaction Error";
           }
         } catch (estimationError) {
           console.error("Error estimating gas: ", estimationError);
+          messageText.innerText = "Error Estimating Gas";
         }
       } catch (accountError) {
         console.error("Error fetching accounts: ", accountError);
+        messageText.innerText = "Error fetching accounts";
       }
     }
 

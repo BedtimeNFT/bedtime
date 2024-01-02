@@ -481,7 +481,7 @@ const mintTokensWithSheesh = async function (amount) {
         }
 
         console.log(`Using account: ${accounts[0]}`);
-        var totalCost = BigInt(WEI_COST) * mintAmount;
+        var totalCost = BigInt(WEI_COST_SHEESH) * mintAmount;
         console.log(`Total cost: ${totalCostsheesh} WEI`);
 
         // Estimate gas for the transaction

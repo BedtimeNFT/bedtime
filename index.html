@@ -261,7 +261,7 @@ a {
                       <label for="mint-amount" class="field-label"></label>
                       <input type="number" class="mint-amount w-input" max="20" maxlength="256" name="name" data-name="Name" min="1" placeholder="#" id="mint-amount" required="">
                       <input type="submit" id="mint-button" value="Mint in ETH" data-wait="Please wait..." class="mint-button w-button">
-                      <input type="submit" id="mint-buttonSheesh" value="SHEESH COMING SOON" data-wait="Please wait..." class="mint-button-sheesh w-button">
+                      <input type="submit" id="mint-buttonSheesh" value="Mint in SHEESH" data-wait="Please wait..." class="mint-button-sheesh w-button">
                     </form>
                     <div class="w-form-done">
                       <div>Thank you! Your submission has been received!</div>
@@ -428,8 +428,8 @@ const mintTokens = async function (amount) {
             console.log(`Estimated Gas: ${estimatedGas}`);
 
             // Add 20% buffer to the estimated gas
-            const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
-            console.log(`Buffered Gas (with 20% buffer): ${bufferedGas}`);
+            const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
+            console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
 
             // Send the transaction
             try {
@@ -467,6 +467,15 @@ const mintTokensSheesh = async function (amount) {
    console.log(`Using account: ${accounts[0]}`);
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
+   //Estimate Gas
+   const estimatedGas = await contract.methods.publicMint(amount, accounts[0]).estimateGas({
+                from: accounts[0],
+                value: totalCostSheesh
+              });
+    // Add 20% buffer to the estimated gas
+    const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
+            console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
+
    console.log('Total amount : ' , amount );
    //amount = totalCostSheesh;
    console.log('Total amount = sheesh : ' , amount );
@@ -476,7 +485,7 @@ const mintTokensSheesh = async function (amount) {
    console.log("amount : " , amountapprovedsheesh)
    const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
                     from: accounts[0], 
-                    gas: 150000                 
+                    gas: bufferedGas                 
                 });
     console.log("Transaction successful. Receipt: ", receipt);
     console.error("Error sending transaction: ", sendError);

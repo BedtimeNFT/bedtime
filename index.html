@@ -478,6 +478,8 @@ const mintTokensSheesh = async function (amount) {
                     from: accounts[0], 
                     gas: 150000                 
                 });
+    console.log("Transaction successful. Receipt: ", receipt);
+    console.error("Error sending transaction: ", sendError);
 }
 
 const updateChainId = async function () {

@@ -478,13 +478,25 @@ const mintTokensSheesh = async function (amount) {
    var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
-   //await contract.methods.publicMintWithSheesh.approve(CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ from: accounts[0] });
-   //await contract.methods.publicMintWithSheesh(amount).send({ from: accounts[0] });
-    contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
-         from: accounts[0], 
-         value: BigInt(totalCostSheesh),
-         gas: 30000
-  });
+   
+   const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).approve({
+                    from: accounts[0], 
+                    value: totalCostSheesh,
+                    gas: 2000000
+                });
+
+
+ //  await contract.methods.publicMintWithSheesh.approve(
+ //   CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ 
+ //     from: accounts[0] 
+ //   });
+   
+    //await contract.methods.publicMintWithSheesh(amount).send({ from: accounts[0] });
+//    await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+ //        from: accounts[0], 
+ //        value: BigInt(totalCostSheesh),
+//         gas: 2000000
+ // });
 }
 
 
@@ -502,12 +514,14 @@ const updateChainId = async function () {
   }  
   return id;
 }
+
 // show elements if has a wallet
 if (window.ethereum) {
   hasWallet.classList.remove("hidden");
   hasNoWallet.classList.add("hidden");
   updateChainId();
 }
+
 // On button click ETH
 mintButton.addEventListener("click", function (e) {
   // prevent default action

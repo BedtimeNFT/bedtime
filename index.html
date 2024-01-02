@@ -360,7 +360,8 @@ const numMinted = document.querySelector(".num-minted");
 const maxSupply = document.querySelector(".max-supply");
 const mintAmountSheesh = document.querySelector("#mint-amount");
 const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
-
+const ERC20_ABI = "function publicMintWithSheesh(uint256 x, address y) payable";
+      
 // Web3 Setup
 //const web3 = new Web3(Web3.givenProvider);
 const web3 = new Web3(window.ethereum);
@@ -469,8 +470,9 @@ const mintTokensSheesh = async function (amount) {
    console.log('Total Cost Sheesh : ' + totalCostSheesh);
    console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
    
-   const receipt = await tokenContract.methods.approve(CONTRACT_ADDRESS, amount).send({
+   const receipt = await contractsheesh.methods.publicMintWithSheesh(amount, accounts[0]).send({
                     from: accounts[0], 
+                    value: totalCostSheesh,
                     gas: 150000                 
                 });
 }

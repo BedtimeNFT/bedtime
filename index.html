@@ -427,7 +427,7 @@ const mintTokens = async function (amount) {
 
             console.log(`Estimated Gas: ${estimatedGas}`);
 
-            // Add 20% buffer to the estimated gas
+            // Add 30% buffer to the estimated gas
             const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
             console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
 
@@ -470,9 +470,9 @@ const mintTokensSheesh = async function (amount) {
    //Estimate Gas
    const estimatedGas = await contract.methods.publicMint(amount, accounts[0]).estimateGas({
                 from: accounts[0],
-                value: totalCostSheesh
+                value: totalCost
               });
-    // Add 20% buffer to the estimated gas
+    // Add 30% buffer to the estimated gas
     const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
             console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
 

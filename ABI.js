@@ -18,6 +18,24 @@ var ABI = [
 		"type": "function"
 	  },
 	  {
+		"constant": false,
+		"inputs": [
+		  {
+			"name": "_mintAmountSheesh",
+			"type": "uint256"
+		  },
+		  {
+			"name": "receiver",
+			"type": "address"
+		  }
+		],
+		"name": "publicMintWithSheesh",
+		"outputs": [],
+		"payable": true,
+		"stateMutability": "payable",
+		"type": "function"
+	  },
+	  {
 		"inputs": [],
 		"name": "getPausedState",
 		"outputs": [

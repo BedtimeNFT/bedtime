@@ -460,44 +460,63 @@ const mintTokens = async function (amount) {
 }
 
 // Mint Function SHEESH new
-const mintTokensSheesh = async function (amount) {
+const mintTokensWithSheesh = async function (amount) {
     if (amount <= 0) {
         console.error("Invalid amount. Please enter a positive number.");
         return;
     }
+
+    // Convert amount to BigInt
     amount = BigInt(amount);
-    const accounts = await window.ethereum.request({
-    method: "eth_requestAccounts",
-    });
-    if (accounts.length === 0) {
+
+    // Get a list of accounts from MetaMask
+    try {
+        const accounts = await window.ethereum.request({
+            method: "eth_requestAccounts",
+        });
+
+        if (accounts.length === 0) {
             console.error("No Ethereum accounts found. Please ensure MetaMask is connected.");
             return;
-    }
-   console.log(`Using account: ${accounts[0]}`);
+        }
 
-   var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
-   console.log('Total Cost Sheesh : ' + totalCostSheesh);
-   console.log("Sending transaction...to : " , CONTRACT_ADDRESS_SHEESH , accounts[0]);
-   
-   const receipt = await contractsheesh.methods.publicMintWithSheesh(amount, accounts[0]).send({
+        console.log(`Using account: ${accounts[0]}`);
+        var totalCost = BigInt(WEI_COST) * mintAmount;
+        console.log(`Total cost: ${totalCostsheesh} WEI`);
+
+        // Estimate gas for the transaction
+        try {
+            const estimatedGas = await contractsheesh.methods.publicMintWithSheesh(amount, accounts[0]).estimateGas({
+                from: accounts[0],
+                value: totalCostsheesh
+            });
+
+            console.log(`Estimated Gas: ${estimatedGas}`);
+
+            // Add 20% buffer to the estimated gas
+            const bufferedGas = (BigInt(estimatedGas) * BigInt(120)) / BigInt(100);
+            console.log(`Buffered Gas (with 20% buffer): ${bufferedGas}`);
+
+            // Send the transaction
+            try {
+                const receipt = await contractsheesh.methods.publicMint(amount, accounts[0]).send({
                     from: accounts[0], 
-                    value: totalCostSheesh,
-                    gas: 3000
+                    value: totalCostsheesh,
+                    gas: bufferedGas
                 });
 
-
- //  await contract.methods.publicMintWithSheesh.approve(
- //   CONTRACT_ADDRESS_SHEESH, totalCostSheesh).send({ 
- //     from: accounts[0] 
- //   });
-   
-    //await contract.methods.publicMintWithSheesh(amount).send({ from: accounts[0] });
-//    await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
- //        from: accounts[0], 
- //        value: BigInt(totalCostSheesh),
-//         gas: 2000000
- // });
+                console.log("Transaction successful. Receipt: ", receipt);
+            } catch (sendError) {
+                console.error("Error sending transaction: ", sendError);
+            }
+        } catch (estimationError) {
+            console.error("Error estimating gas: ", estimationError);
+        }
+    } catch (accountError) {
+        console.error("Error fetching accounts: ", accountError);
+    }
 }
+
 
 
 const updateChainId = async function () {

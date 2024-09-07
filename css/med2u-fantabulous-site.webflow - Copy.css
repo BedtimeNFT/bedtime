@@ -967,7 +967,7 @@ figcaption {
   text-align: center;
   letter-spacing: 10px;
   text-shadow: 6px 6px 0 var(--chocolate);
-  margin-top: 1.5rem;
+  margin-top: 8rem;
   padding-top: 40px;
   font-family: Erica One, sans-serif;
   font-size: 6rem;
@@ -1080,7 +1080,7 @@ figcaption {
 }
 
 .section {
-  background-color: #e8fcfc;
+  background-color: #333;
 }
 
 .image {
@@ -1271,22 +1271,6 @@ figcaption {
 }
 
 .opensea-link:hover {
-  filter: brightness(120%);
-}
-.magiceden-link {
-  width: 50px;
-  cursor: pointer;
-  margin-bottom: 12px;
-  margin-right: 12px;
-  transition: filter .2s;
-  position: fixed;
-  top: 260px;
-  bottom: auto;
-  left: 24px;
-  right: auto;
-}
-
-.magiceden-link:hover {
   filter: brightness(120%);
 }
 

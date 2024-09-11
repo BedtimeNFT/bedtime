@@ -1,0 +1,43 @@
+.video-container {
+  margin: 2rem 0;
+  background-image: url("../../assets/heroBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.contentMain {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-top: 3%;
+  padding: 0 15px;
+}
+.PlayIcon {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: middle;
+  z-index: 6;
+}
+.container-video {
+  max-width: 800px;
+  z-index: 5;
+  border: 4px solid #000;
+  border-radius: 5px;
+  background-color: #000;
+}
+.container-video video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,44 @@
+.image-slider {
+  max-width: 1150px;
+  margin: auto;
+  padding: 20px 10px;
+}
+.slider-image {
+  max-width: 700px;
+  margin: auto;
+}
+
+.ArrowIcon {
+  color: #000;
+  font-size: 30px;
+}
+.slide-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+.slide-header img {
+  height: 50px;
+}
+.slide-Image {
+  width: 100%;
+  height: 400px;
+}
+.slide-Image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 750px) {
+  .slide-Image {
+    height: 190px;
+    width: 80%;
+    margin: auto;
+  }
+  .slide-header img {
+    height: 40px;
+  }
+}

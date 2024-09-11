@@ -1,0 +1,73 @@
+.storybg {
+  background-image: url("../../assets/heroBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 50px;
+}
+.accordionbg {
+  box-shadow: 0 0 1rem 0 rgba(78, 202, 255, 0.5803921568627451);
+  border-radius: 5px;
+  position: relative;
+  background: inherit;
+  overflow: hidden;
+  max-width: 1150px;
+  margin: 40px auto;
+}
+
+.accordionbg:before {
+  content: "";
+  position: absolute;
+  background: inherit;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: inset 0 0 2000px hsla(0, 0%, 100%, 0.397);
+  -webkit-filter: blur(10px);
+  filter: blur(10px);
+  margin: -20px;
+}
+.faq-item {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 10px 20px;
+  text-align: center;
+}
+.faq-item .faq-question {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px 0px;
+  position: relative;
+}
+.AccordionIcon {
+  position: absolute;
+  right: 0px;
+  top: 20px;
+  color: #fff;
+}
+.faq-question h3 {
+  font-size: 30px;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.faq-answer {
+  margin: 15px 0;
+}
+.faq-answer p {
+  font-size: 25px;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+@media (max-width: 450px) {
+  .faq-question h3 {
+    font-size: 20px !important;
+  }
+  .faq-answer p {
+    font-size: 20px;
+  }
+}

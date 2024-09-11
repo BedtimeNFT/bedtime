@@ -1,0 +1,100 @@
+.properties-container {
+  margin-top: 5%;
+}
+.properties-slider {
+  padding: 10px;
+  position: relative;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  width: 100%;
+}
+
+.properties-slides {
+  max-width: 1150px;
+  margin: auto;
+  background-image: linear-gradient(
+    rgba(21, 3, 61, 0.1) 10%,
+    rgba(6, 34, 71, 0.5) 50%,
+    rgba(31, 124, 178, 0.8)
+  );
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 20px;
+}
+.slides-header {
+  display: flex;
+  justify-content: space-between;
+}
+.slies-image {
+  width: 45%;
+  height: 500px;
+}
+.slies-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.list {
+  font-size: 15px;
+  text-transform: uppercase;
+  color: rgb(4, 254, 239);
+  font-weight: 700;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: min(10vw, 4rem) min(5vw, 2rem);
+}
+.list-item {
+  width: 120px;
+  height: 60px;
+  list-style: none;
+  position: relative;
+  display: flex;
+  background-color: rgb(0, 102, 128);
+  justify-content: center;
+  align-items: center;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 25px;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+  transition: all 0.5s ease 0s;
+}
+.list-item:hover {
+  background-color: green;
+}
+
+.propertiesIcon {
+  color: #000;
+  font-size: 30px;
+}
+.ArrowForward {
+  position: absolute;
+  right: -10px !important;
+}
+.ArrowBack {
+  position: absolute;
+  left: 0px;
+}
+
+@media (max-width: 850px) {
+  .list {
+    display: none;
+  }
+  .slies-image {
+    width: 100%;
+    height: 400px;
+  }
+  .properties-slides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 85%;
+  }
+  .slides-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

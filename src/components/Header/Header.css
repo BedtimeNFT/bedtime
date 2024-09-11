@@ -1,0 +1,64 @@
+.sticky {
+  z-index: 1000;
+  position: sticky;
+  top: 0px;
+  padding: 5px;
+}
+.navbarmid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4vh;
+}
+
+.navbarmid ul {
+  position: relative;
+  display: flex;
+  gap: 25px;
+}
+.navbarmid a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navbarmid ul li {
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 60px;
+  background-color: rgb(191, 234, 253);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 25px;
+  cursor: pointer;
+  list-style: none;
+  border-width: 2px;
+  border-style: solid;
+  transition: all 0.5s ease 0s;
+  display: flex;
+  position: relative;
+  text-decoration: none;
+  font-weight: 600;
+
+}
+.navbarmid ul li:hover {
+  background-color: rgb(0, 0, 0);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 25px;
+  color: white;
+}
+@media (max-width: 750px) {
+  .navbarmid ul {
+    gap: 5px;
+    font-size: 10px;
+  }
+  .navbarmid ul li {
+    width: 70px;
+    height: 50px;
+  }
+}
+@media (max-width: 400px) {
+  .navbarmid ul li {
+    width: 55px;
+    height: 40px;
+  }
+}

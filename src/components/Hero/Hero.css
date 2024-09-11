@@ -1,0 +1,97 @@
+.banner {
+  height: 120vh;
+}
+.bannercenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.banerimg3 {
+  display: none;
+}
+.logonav {
+  position: absolute;
+  width: 150px;
+  left: 4%;
+}
+.musicbtn {
+  position: absolute;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  top: 4%;
+  right: 15%;
+  z-index: 100000;
+}
+.banerimg2 {
+  width: 90%;
+  z-index: 21;
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.banerimg {
+  z-index: 21;
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 45%;
+}
+.bannerdisc {
+  z-index: 21;
+  width: 50%;
+  font-size: 30px;
+  font-weight: 100;
+  margin: 0;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: #000;
+  text-align: center;
+}
+
+@media (max-width: 750px) {
+  .banner {
+    height: 100vh;
+  }
+  .bannerdisc {
+    width: 80%;
+    top: 65%;
+    text-align: center;
+    font-size: 15px;
+  }
+  .banerimg3 {
+    overflow-x: hidden;
+    display: block;
+    z-index: 21;
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    object-fit: cover;
+  }
+  .banerimg {
+    top: 25%;
+  }
+  .banerimg2 {
+    top: 25%;
+  }
+  .logonav {
+    width: 100px;
+    top: 5%;
+    left: 5%;
+  }
+  .musicbtn {
+    top: 7.5%;
+    right: 15%;
+    z-index: 1000;
+  }
+}

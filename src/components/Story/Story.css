@@ -1,0 +1,57 @@
+.storybook {
+  margin-top: 5%;
+}
+.storybookcloud {
+  background-image: url("../../assets/Book-with-clouds..png");
+  background-repeat: no-repeat;
+  width: 100%;
+  position: relative;
+  height: auto;
+}
+.magnifierWeb {
+  margin-top: 6%;
+  margin-bottom: 5%;
+}
+.magnifierMob {
+  margin-top: 6%;
+  margin-bottom: 5%;
+  display: none;
+}
+.magnifying-glass.visible {
+  opacity: 1;
+}
+.magnifying-glass.circle {
+  border-radius: 50%;
+}
+.magnifying-glass {
+  position: absolute;
+  z-index: 1;
+  background: #e5e5e5 no-repeat;
+  border: solid #ebebeb;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+
+
+.magnifying-glass {
+  border: 1px solid #000 !important;
+  background-color: #83bcd4 !important;
+  z-index: 26 !important;
+}
+
+.magnifying-glass:after {
+  position: absolute;
+  top: -40px;
+  left: -100px;
+  width: 466px;
+  height: 781px;
+  content: "";
+  background-image: url("../../assets/magnifier-glas.png");
+  background-size: cover;
+  z-index: 999;
+}
+.magnifier-image {
+  cursor: none;
+}

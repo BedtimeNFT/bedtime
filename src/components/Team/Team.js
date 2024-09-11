@@ -54,16 +54,6 @@ const Team = () => {
         <p>Community votes on Bedtime’s direction, utility, and development.</p>
         <br />
         <br />
-        <h3>Artifact Claim:</h3>
-        <br />
-        <p>
-          Those who claim their artifact role(s) will receive their artifact(s)
-          via airdrop or claim which will be decided by community vote. Artifact
-          utility will include but not be limited to prioritization, increased
-          $Dream rewards, in-game display and utility, and a discord role.
-        </p>
-        <br />
-        <br />
       </div>
 
       {/* Team Members  */}

@@ -9,24 +9,24 @@ const faqData = [
       "Bedtime’s team loved the idea of having a one word username that is easily recognizable and eye-catching. They came across @Bedtime which was created in 2008 and decided to use it as Bedtime’s main Twitter account. They did not end up transferring the username to a new account as they did not see it as a big deal. ",
   },
   {
-    question: " What Blockchain Network will the Creations be on? ",
+    question: " What Blockchain are the Bedtime Creations on? ",
     answer:
-      "Bedtime Creations will be stored on the Ethereum network, and minted through a custom smart contract. ",
+      "Bedtime Creations are minted on the Ethereum blockchain through a custom ERC-721 smart contract. ",
   },
   {
-    question: "  What is the price and supply? ",
+    question: " How can I get a Bedtime Creations OG NFT? ",
     answer:
-      "The price of one creation will be 0.025 ETH. The exact price will be played off of the market for the benefit of the Bedtime community. The collection supply will be 10,000. ",
+      " They are available from the secondary market on MagicEden.io or OpenSea.io and other secondary market NFT platforms. ",
   },
   {
-    question: " How can I get Creation?",
+    question: " How can I get a Bedtime Creations Companion? ",
     answer:
-      "You will be able to mint a Creation here on the Bedtime website. After mint, they will be available on OpenSea and other secondary market NFT platforms.",
+      "You can mint a Companion here on the Bedtime website by going to the Mint page from the menu. After you mint, they will be available to see on MagicEden or OpenSea and other secondary market NFT platforms. ",
   },
   {
-    question: " Is the Bedtime dreamlist and whitelist the same thing?",
+    question: "  What is the Companion mint price and supply? ",
     answer:
-      "The Bedtime dreamlist and whitelist are not the same thing! The dreamlist will be a guaranteed mint opportunity and will be first priority. The whitelist will be overallocated and will come after the dreamlist mint. Anyone whitelisted will have to attempt to mint before selling out. If the 10000 Creations are not sold out by the time the whitelist mint period ends, then mint will become open to the public.",
+      "The price of a Companion mint is 1 ETH. If you mint 5 you will get one free. The collection consists of 1,000 total. There are 3 rarity types with 600 Emeralds, 350 Rubys, and only 50 Diamond Companions. ",
   },
   // Add more FAQ entries as needed
 ];

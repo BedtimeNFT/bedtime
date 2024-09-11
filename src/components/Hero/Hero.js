@@ -38,7 +38,7 @@ const Hero = () => {
         <img src={BannerGif1} alt="Banner Main gif" className="banerimg2" />
         <img src={BedtimeGif} alt="BedTime gif" className="banerimg" />
         <p className="bannerdisc">
-          Introducing the Creations, Bedtime’s mintable NFT’s stored in the
+          Introducing the Creations, Bedtime’s mintable NFT’s stored on the
           Ethereum blockchain. Within the Bedtime Creations collection there are
           five factions, each inhabiting their own region in the Lucid Realm,
           Bedtime’s dream world.

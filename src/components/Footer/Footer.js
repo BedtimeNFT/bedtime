@@ -25,10 +25,10 @@ const Footer = () => {
         <Link to="https://discord.gg/bedtimecreations">
           <img src={DiscordIcon} className="SocailIcon" />
         </Link>
-        <Link to="https://opensea.io/">
+        <Link to="https://bit.ly/BedtimeOS">
           <img src={OpenseaIcon} className="SocailIcon" />
         </Link>
-      <Link to="https://opensea.io/">
+      <Link to="https://bit.ly/BedtimeCreation">
           <img src={MagicedenIcon} className="SocailIcon" />
         </Link>
       </div>

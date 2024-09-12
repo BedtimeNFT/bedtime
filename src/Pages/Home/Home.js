@@ -11,6 +11,7 @@ import Faqs from "../../components/Faqs/Faqs";
 import Footer from "../../components/Footer/Footer";
 import "./home.css";
 import ImageSlider from "../../components/ImageSlider/ImageSlider";
+import SocialPanel from "../../components/SocialPanel/SocialPanel"; 
 
 const Home = () => {
   return (
@@ -26,6 +27,7 @@ const Home = () => {
       <Team />
       <Faqs />
       <Footer />
+      <SocialPanel />
     </div>
   );
 };

@@ -2,7 +2,7 @@ import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import "aos/dist/aos.css";
-import SocialPanel from '../SocialPanel'; // Make sure to import the SocialPanel
+import SocialPanel from './components/SocialPanel'; // Make sure to import the SocialPanel
 
 function App() {
   return (

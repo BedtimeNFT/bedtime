@@ -26,10 +26,10 @@ const Footer = () => {
           <img src={DiscordIcon} className="SocailIcon" />
         </Link>
         <Link to="https://bit.ly/BedtimeOS">
-          <img src={OpenseaIcon} className="SocailIcon" />
+          <img src={OpenseaIcon} className="SocailIcon-adj" />
         </Link>
       <Link to="https://bit.ly/BedtimeCreation">
-          <img src={MagicedenIcon} className="SocailIcon" />
+          <img src={MagicedenIcon} className="SocailIcon-adj" />
         </Link>
       </div>
     </div>

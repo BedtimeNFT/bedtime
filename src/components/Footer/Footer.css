@@ -29,6 +29,9 @@
   opacity: 1;
   transition: 0.3s ease-in-out;
 }
+.SocailIcon-adj {
+  height: 30px;
+}
 .SocailIcon:hover {
   opacity: 0.5;
 }

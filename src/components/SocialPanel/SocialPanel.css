@@ -9,6 +9,19 @@
   z-index: 1000; /* Make sure it stays above other elements */
 }
 
+/*.footer-socials {
+    position: fixed;
+    top: 50%;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    width: 100px;
+    flex-direction: column;
+    background-color: #ff0;
+    padding: 20px 0;
+    border-radius: 0 15px 15px 0;
+}*/
+
 .social-icon {
   text-decoration: none;
   color: white;

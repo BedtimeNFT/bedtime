@@ -7,9 +7,6 @@ import "aos/dist/aos.css";
 function App() {
   return (
     <BrowserRouter>
-      {/* SocialPanel should be outside of Routes */}
-      //<SocialPanel /> 
-
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>

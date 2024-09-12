@@ -27,7 +27,6 @@ const Home = () => {
       <Team />
       <Faqs />
       <Footer />
-      //<SocialPanel />
     </div>
   );
 };

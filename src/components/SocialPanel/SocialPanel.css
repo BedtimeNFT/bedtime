@@ -1,0 +1,40 @@
+.social-panel {
+  position: fixed;
+  top: 50%; /* Stay just above the middle of the page */
+  transform: translateY(-50%); /* Centers it vertically */
+  right: 0; /* Stick it to the right side */
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Spacing between icons */
+  z-index: 1000; /* Make sure it stays above other elements */
+}
+
+.social-icon {
+  text-decoration: none;
+  color: white;
+  background-color: #333;
+  padding: 15px;
+  border-radius: 50%;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  line-height: 50px;
+  transition: background-color 0.3s ease;
+}
+
+.social-icon.facebook {
+  background-color: #3b5998;
+}
+
+.social-icon.twitter {
+  background-color: #1DA1F2;
+}
+
+.social-icon.instagram {
+  background-color: #C13584;
+}
+
+.social-icon:hover {
+  background-color: #555;
+}

@@ -8,6 +8,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <SocialPanel />
       </Routes>
     </BrowserRouter>
   );

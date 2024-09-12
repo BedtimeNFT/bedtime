@@ -8,6 +8,7 @@ import Illustration_Webpage from "../../assets/Illustration_Webpage.png";
 import TwitterIcon from "../../assets/logo-twitter.svg";
 import DiscordIcon from "../../assets/logo-discord.svg";
 import OpenseaIcon from "../../assets/socialIcon3.png";
+import MagicedenIcon from "../../assets/socialIcon4.png";
 
 const Footer = () => {
   return (
@@ -18,14 +19,17 @@ const Footer = () => {
         class="footerimg"
       />
       <div class="footer-socials">
-        <Link to="https://discord.gg/xgWDBFgcQM">
+        <Link to="https://x.com/bedtimenft">
           <img src={TwitterIcon} className="SocailIcon" />
         </Link>
-        <Link to="https://discord.gg/xgWDBFgcQM">
+        <Link to="https://discord.gg/bedtimecreations">
           <img src={DiscordIcon} className="SocailIcon" />
         </Link>
         <Link to="https://opensea.io/">
           <img src={OpenseaIcon} className="SocailIcon" />
+        </Link>
+      <Link to="https://opensea.io/">
+          <img src={MagicedenIcon} className="SocailIcon" />
         </Link>
       </div>
     </div>

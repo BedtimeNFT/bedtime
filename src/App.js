@@ -2,13 +2,13 @@ import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import "aos/dist/aos.css";
-import SocialPanel from './components/SocialPanel/SocialPanel';
+//import SocialPanel from './components/SocialPanel/SocialPanel';
 
 function App() {
   return (
     <BrowserRouter>
       {/* SocialPanel should be outside of Routes */}
-      <SocialPanel /> 
+      //<SocialPanel /> 
 
       <Routes>
         <Route path="/" element={<Home />} />

@@ -28,7 +28,10 @@ const Footer = () => {
         <Link to="https://bit.ly/BedtimeOS">
           <img src={OpenseaIcon} className="SocailIcon-adj" />
         </Link>
-      <Link to="https://bit.ly/BedtimeCreation">
+        <Link to="https://bit.ly/BedtimeCreation">
+          <img src={MagicedenIcon} className="SocailIcon-adj" />
+        </Link>
+        <Link to="https://bit.ly/BedtimeCompanions">
           <img src={MagicedenIcon} className="SocailIcon-adj" />
         </Link>
       </div>
@@ -37,3 +40,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+

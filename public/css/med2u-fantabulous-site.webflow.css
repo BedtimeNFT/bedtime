@@ -1112,28 +1112,29 @@ figcaption {
 }
 
 .mint-amount {
-  width: 60%; /* Adjust width as needed */
-  margin-bottom: 20px; /* Space between input and buttons */
-  margin-left: 27px;
-  height: 100px;
-  clear: both;
-  opacity: 1;
-  color: #fff;
-  text-align: center;
-  object-fit: contain;
-  background-color: #333;
-  border: 20px solid #ffcb20;
-  border-radius: 20px;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  font-size: 3rem;
-  font-weight: 300;
-  overflow: auto;
+    width: 35%;
+    margin-bottom: 20px;
+    /* margin-left: 27px; */
+    margin: 0 auto 20px;
+    height: 70px;
+    clear: both;
+    opacity: 1;
+    color: #fff;
+    text-align: center;
+    object-fit: contain;
+    background-color: #333;
+    border: 5px solid #ffcb20;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-bottom: 15px;
+    font-size: 3rem;
+    font-weight: 300;
+    overflow: none;
 }
 
 
 .mint-amount:focus {
-  border-width: 1rem 0 1rem 1rem;
+  /*border-width: 1rem 0 1rem 1rem;*/
   border-color: var(--chocolate);
 }
 
@@ -1151,12 +1152,12 @@ figcaption {
 .get-metamask-button {
   height: 70px;
   aspect-ratio: auto;
-  border: .5rem solid var(--gold2);
+  border: 5px solid var(--gold2);
   color: #333;
   letter-spacing: 10px;
   object-fit: contain;
   background-color: #fff;
-  border-radius: 20px;
+  border-radius: 10px;
   margin-bottom: 0;
   padding: 0 100px;
   font-family: Erica One, sans-serif;

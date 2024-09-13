@@ -442,13 +442,14 @@
   <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
   <script src="https://bedtime-cayc.vercel.app/ABI.js"></script>
   <script src="https://bedtime-cayc.vercel.app/ERC20_ABI.js"></script>
- <script>
+  <script>
     const CONTRACT_ADDRESS = "0xaCBC81FE1F56e4138AA1Bc1cF0745D5b52bAcaB5"; //address for your smart contract
     const WEI_COST = 40000000000000000;
-    const CHAIN_ID = '0x1'; //'0x89' for polygon and '0x1' for Ethereum
+    const CONTRACT_ADDRESS_SHEESH = "0xbB4f3aD7a2cf75d8EfFc4f6D7BD21d95F06165ca"; //address for your smart contract
+    const WEI_COST_SHEESH = 105000000000000000000000000;
+    const CHAIN_ID = '0x1'; //'0x89' for polygon an '0x1' for Ethereum
     const CHAIN_ID_NAME = 'Ethereum'; //enter name of blockchain used
     console.log('ABI : ', ABI);
-    
     // get a reference to all html elements
     const mintAmount = document.querySelector("#mint-amount");
     const mintButton = document.querySelector("#mint-button");
@@ -458,22 +459,32 @@
     const mintForm = document.querySelector(".mint-form");
     const numMinted = document.querySelector(".num-minted");
     const maxSupply = document.querySelector(".max-supply");
+    const mintAmountSheesh = document.querySelector("#mint-amount");
+    const mintButtonSheesh = document.querySelector("#mint-buttonSheesh");
 
     // Web3 Setup
+    //const web3 = new Web3(Web3.givenProvider);
     const web3 = new Web3(window.ethereum);
     const contract = new web3.eth.Contract(ABI, CONTRACT_ADDRESS);
+    const contractsheesh = new web3.eth.Contract(ERC20_ABI, CONTRACT_ADDRESS_SHEESH);
     console.log('ETH Contract with ABI : ', contract);
-    
     contract.methods.getPausedState().call().then(paused => {
       console.log('Paused:', paused);
     });
 
     contract.methods.getTotalSupply().call().then((supply) => {
+      // Convert supply to BigInt, if it's not already
       const supplyBigInt = BigInt(supply);
+
+      // Convert 1000 to BigInt
       const totalBigInt = BigInt(1000);
+
+      // Perform the subtraction
       const remaining = totalBigInt - supplyBigInt;
 
-      document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 1 ETH each`;
+      // Update the innerText of the element
+      // Convert the BigInt result to a string for display
+      document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
       console.log('Total Minted:', supply);
     });
 
@@ -490,8 +501,10 @@
         return;
       }
 
+      // Convert amount to BigInt
       amount = BigInt(amount);
 
+      // Get a list of accounts from MetaMask
       try {
         const accounts = await window.ethereum.request({
           method: "eth_requestAccounts",
@@ -506,6 +519,7 @@
         var totalCost = BigInt(WEI_COST) * amount;
         console.log(`Total cost: ${totalCost} WEI`);
 
+        // Estimate gas for the transaction
         try {
           const estimatedGas = await contract.methods.publicMint(amount, accounts[0]).estimateGas({
             from: accounts[0],
@@ -513,9 +527,12 @@
           });
 
           console.log(`Estimated Gas: ${estimatedGas}`);
+
+          // Add 30% buffer to the estimated gas
           const bufferedGas = (BigInt(estimatedGas) * BigInt(130)) / BigInt(100);
           console.log(`Buffered Gas (with 30% buffer): ${bufferedGas}`);
 
+          // Send the transaction
           try {
             const receipt = await contract.methods.publicMint(amount, accounts[0]).send({
               from: accounts[0],
@@ -536,6 +553,38 @@
         console.error("Error fetching accounts: ", accountError);
         messageText.innerText = "Error fetching accounts";
       }
+    }
+
+    // Mint Function SHEESH new
+    const mintTokensSheesh = async function (amount) {
+      if (amount <= 0) {
+        console.error("Invalid amount. Please enter a positive number.");
+        return;
+      }
+      amount = BigInt(amount);
+      const accounts = await window.ethereum.request({
+        method: "eth_requestAccounts",
+      });
+      if (accounts.length === 0) {
+        console.error("No Ethereum accounts found. Please ensure MetaMask is connected.");
+        return;
+      }
+      console.log(`Using account: ${accounts[0]}`);
+      var totalCostSheesh = BigInt(WEI_COST_SHEESH) * BigInt(amount);
+      console.log('Total Cost Sheesh : ' + totalCostSheesh);
+      console.log('Total amount : ', amount);
+      //amount = totalCostSheesh;
+      console.log('Total amount = sheesh : ', amount);
+      console.log("Sending transaction...to : ", CONTRACT_ADDRESS_SHEESH, accounts[0]);
+      //approve
+      const amountapprovedsheesh = await contractsheesh.methods.approve(CONTRACT_ADDRESS, WEI_COST_SHEESH).send({ from: accounts[0] });
+      console.log("amount : ", amountapprovedsheesh)
+      const receipt = await contract.methods.publicMintWithSheesh(amount, accounts[0]).send({
+        from: accounts[0],
+        gas: 100000
+      });
+      console.log("Transaction successful. Receipt: ", receipt);
+      console.error("Error sending transaction: ", sendError);
     }
 
     const updateChainId = async function () {
@@ -573,8 +622,23 @@
         mintAmount.value = '';
       }
     });
-</script>
 
+    // On button click SHEESH
+    mintButtonSheesh.addEventListener("click", function (e) {
+      // prevent default action
+      e.preventDefault();
+      //Alert if input is empty
+      if (!mintAmountSheesh.value) {
+        alert("Please enter number of NFTs to mint!");
+      } else {
+        console.log('Sheesh Contract with ABI : ', contractsheesh);
+        console.log('Sheesh Contract : ' + CONTRACT_ADDRESS_SHEESH);
+        mintTokensSheesh(mintAmountSheesh.value);
+        messageText.innerText = "Please accept in Metamask!";
+        mintAmountSheesh.value = '';
+      }
+    });
+  </script>
 </body>
 
 </html>

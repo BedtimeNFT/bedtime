@@ -440,8 +440,8 @@
     crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script><!--  Adding web3.js -->
   <script src="https://cdn.jsdelivr.net/npm/web3@latest/dist/web3.min.js"></script>
-  <script src="https://bedtime-creation.vercel.app/ABI.js"></script>
-  <script src="https://bedtime-creation.vercel.app/ERC20_ABI.js"></script>
+  <script src="https://bedtime.vercel.app/ABI.js"></script>
+  <script src="https://bedtime.vercel.app/ERC20_ABI.js"></script>
   <script>
     const CONTRACT_ADDRESS = "0xaCBC81FE1F56e4138AA1Bc1cF0745D5b52bAcaB5"; //address for your smart contract
     const WEI_COST = 40000000000000000;
@@ -484,7 +484,7 @@
 
       // Update the innerText of the element
       // Convert the BigInt result to a string for display
-      document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 0.04 ETH each`;
+      document.getElementById('supplyText').innerText = `${remaining.toString()} of 1000 Bedtime Creations Companions are available for only 1 ETH each`;
       console.log('Total Minted:', supply);
     });
 

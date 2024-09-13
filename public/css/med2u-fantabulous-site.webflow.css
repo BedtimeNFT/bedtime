@@ -954,12 +954,13 @@ figcaption {
 }
 
 .header_component {
-  width: 100%;
-  height: 150vh;
-  flex-direction: column;
-  justify-content: space-around;
-  padding-left: 40px;
-  display: flex;
+    width: 100%;
+    height: 60vh;
+    padding-bottom: 65%;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 40px;
+    display: flex;
 }
 
 .heading {

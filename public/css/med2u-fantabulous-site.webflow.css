@@ -1149,23 +1149,30 @@ figcaption {
   display: flex;
 }
 
-.get-metamask-button {
-  height: 70px;
-  aspect-ratio: auto;
-  border: 5px solid var(--gold2);
-  color: #333;
-  letter-spacing: 10px;
-  object-fit: contain;
-  background-color: #fff;
-  border-radius: 10px;
-  margin-bottom: 0;
-  padding: 0 100px;
-  font-family: Erica One, sans-serif;
-  font-size: 3rem;
-  font-weight: 400;
-  line-height: 1;
-  transition: background-color .2s;
-  position: relative;
+.mint-button {
+    margin-bottom: 20px;
+    height: 100px;
+    clear: both;
+    border: 5px solid var(--gold2);
+    color: #333;
+    text-align: center;
+    letter-spacing: 5px;
+    column-count: 1;
+    object-fit: contain;
+    background-color: #fff;
+    border-radius: 10px;
+    flex: 0 auto;
+    align-self: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0 10px;
+    font-family: Erica One, sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    transition: background-color .2s;
+    display: block;
+    position: static;
+    overflow: hidden;
 }
 
 .get-metamask-button:hover {

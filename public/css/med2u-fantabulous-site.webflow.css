@@ -963,15 +963,8 @@ figcaption {
 }
 
 .heading {
-  color: var(--gold2);
-  text-align: center;
-  letter-spacing: 10px;
-  text-shadow: 6px 6px 0 var(--chocolate);
-  margin-top: .75rem;
-  padding-top: 5px;
-  font-family: Erica One, sans-serif;
-  font-size: 6rem;
-  font-weight: 400;
+    margin-top: -5rem;
+    padding-top: 5px;
 }
 
 .header_middle-wrapper {

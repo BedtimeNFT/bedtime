@@ -32,6 +32,57 @@
       pointer-events: none;
       opacity: 0.5;
     }
+	<!-- Social Styles -->
+	.socials {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Space between icons */
+}
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.social-icon:hover {
+  transform: scale(1.1); /* Scale effect on hover */
+}
+
+.info-icon {
+  width: 64px;
+}
+
+.social-icon-wrapper {
+  position: relative;
+}
+
+.popout-trigger:hover + .popout-links, /* Trigger the pop-out on hover */
+.popout-links:hover {
+  display: block; /* Show popout on hover */
+}
+
+.popout-links {
+  display: none; /* Hidden by default */
+  position: absolute;
+  left: 50px; /* Adjust positioning to your preference */
+  top: 0;
+  background-color: #f5f5f5; /* Background for pop-out */
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.popout-links a {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.popout-links img {
+  width: 24px;
+  height: 24px;
+}
+
   </style>
 </head>
 
@@ -157,13 +208,46 @@
       </div>
       <section class="section">
           <div class="socials">
-              <img src="images/information-button-1.png" loading="lazy" width="256" data-w-id="fedbb240-3adf-f54d-1d8b-a7c1d3d7ba2f" alt="" class="info-icon">
-              <a href="https://x.com/bedtimenft"><img src="/static/media/logo-twitter.429d29774a2d2c6e9fe87aca3a129131.svg" class="SocailIcon"></a><a href="https://discord.gg/bedtimecreations"><img src="/static/media/logo-discord.f418ac4aedec870326f414da6cbe141e.svg" class="SocailIcon"></a><a href="https://bit.ly/BedtimeOS" target="_blank"><img src="images/opensea.png" title="Bedtime Creations" class="SocailIcon-adj"></a><a href="https://bit.ly/BedtimeCreation"><img src="images/magiceden.png" title="Bedtime Creations" target="_blank" class="SocailIcon-adj"></a><a href="https://bit.ly/BedtimeCompanions"><img src="images/magiceden.png" title="Companions" target="_blank" class="SocailIcon-adj"></a></div>
-<!--
-        <a href="https://opensea.io/collection/bedtime-creations-companions" class="opensea-link w-inline-block"><img src="images/opensea.svg" loading="lazy" width="256" alt="" class="image-2">
-            <a href="https://magiceden.io/collections/ethereum/0xacbc81fe1f56e4138aa1bc1cf0745d5b52bacab5" target="_blank" class="magiceden-link w-inline-block"><img
-            src="images/magiceden.svg" loading="lazy" width="256" alt="" class="image-2">
--->
+    <img src="images/information-button-1.png" loading="lazy" width="256" alt="Info" class="info-icon">
+    
+    <!-- Twitter Icon -->
+    <a href="https://x.com/bedtimenft" target="_blank">
+        <img src="/static/media/logo-twitter.429d29774a2d2c6e9fe87aca3a129131.svg" alt="Twitter" class="social-icon">
+    </a>
+
+    <!-- Discord Icon -->
+    <a href="https://discord.gg/bedtimecreations" target="_blank">
+        <img src="/static/media/logo-discord.f418ac4aedec870326f414da6cbe141e.svg" alt="Discord" class="social-icon">
+    </a>
+
+    <!-- Facebook Icon -->
+    <a href="https://facebook.com/bedtimenft" target="_blank">
+        <img src="images/facebook.png" alt="Facebook" class="social-icon">
+    </a>
+
+    <!-- OpenSea Icon with Pop-out Links -->
+    <div class="social-icon-wrapper">
+        <a href="https://bit.ly/BedtimeOS" target="_blank">
+            <img src="images/opensea.png" title="Bedtime Creations" alt="OpenSea" class="social-icon popout-trigger">
+        </a>
+        
+        <div class="popout-links">
+            <a href="https://bit.ly/BedtimeOS" target="_blank">
+                <img src="images/opensea.png" title="Bedtime Creations" alt="OpenSea Bedtime" class="social-icon-adj">
+            </a>
+            <a href="https://bit.ly/BedtimeCreation" target="_blank">
+                <img src="images/opensea.png" title="Bedtime Companions" alt="OpenSea Companions" class="social-icon-adj">
+            </a>
+            <a href="https://bit.ly/BedtimeCreation" target="_blank">
+                <img src="images/magiceden.png" title="Magic Eden Creations" alt="Magic Eden Creations" class="social-icon-adj">
+            </a>
+            <a href="https://bit.ly/BedtimeCompanions" target="_blank">
+                <img src="images/magiceden.png" title="Magic Eden Companions" alt="Magic Eden Companions" class="social-icon-adj">
+            </a>
+        </div>
+    </div>
+</div>
+
           <div class="global-styles w-embed">
             <style>
               /* Snippet gets rid of top margin on first element in any rich text*/

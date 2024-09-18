@@ -2,15 +2,7 @@
   width: 100%;
   margin-bottom: -100px;
 }
-/*
-.footer-socials {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
-}
-*/
+
 .footer-socials {
     align-items: center;
     background-color: #0c6e93;

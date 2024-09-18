@@ -1223,7 +1223,7 @@ figcaption {
 }
 
 .info-icon {
-  width: 64px;
+  width: 40px;
 }
 
 .social-icon-wrapper {
@@ -1236,14 +1236,15 @@ figcaption {
 }
 
 .popout-links {
-  display: none; /* Hidden by default */
-  position: absolute;
-  left: 50px; /* Adjust positioning to your preference */
-  top: 0;
-  background-color: #f5f5f5; /* Background for pop-out */
-  padding: 5px;
-  border-radius: 5px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    display: none;
+    width: 55px;
+    position: absolute;
+    left: 42px;
+    top: -98px;
+    background-color: #386eec;
+    padding: 6px 0 5px 17px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
 }
 
 .popout-links a {

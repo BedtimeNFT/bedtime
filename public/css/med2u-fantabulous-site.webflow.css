@@ -1113,6 +1113,13 @@ figcaption {
   width: 150px;
   left: 4%;
 }
+
+.banner {
+    margin-top: 15%;
+    margin-bottom: 15%;
+    width: 85%;
+    margin-left: 6%;
+}
 .banerimg2 {
   width: 90%;
   z-index: 0;

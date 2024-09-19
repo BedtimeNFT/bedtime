@@ -72,16 +72,16 @@
 }
 
 body {
-    background-color: #bfeafd!important;
-    font-family: DynaPuff,sans-serif;
-    overflow-x: hidden
-}
-
-body {
-  color: #333;
-  /*font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Fira Sans, Droid Sans, sans-serif;*/
-  font-size: 1rem;
-  line-height: 1.5;
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: #bfeafd !important;
+    font-family: DynaPuff, sans-serif;
+    overflow-x: hidden;
+    background-image: url(https://bedtimecreation.com/static/media/bannerclouds.e14eb01.png);
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-size: cover; /* Scale the image to cover the entire background */
+    background-position: center; /* Center the background image */
 }
 
 .special-offer {
@@ -1134,7 +1134,7 @@ figcaption {
 }
 .banerimg2 {
   /*width: 90%; */
-  z-index: 0;
+  z-index: -1;
   margin: 0;
   position: fixed;
   top: 40%;
@@ -1424,7 +1424,7 @@ body {
 }
 
 .text-block-2 {
-  color: #ffcb20;
+  color: #066f05;
   margin-bottom: 1rem;
   font-size: 1.5rem;
   font-weight: 900;

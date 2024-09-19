@@ -981,6 +981,9 @@ figcaption {
 
 .header_middle-wrapper {
   justify-content: space-around;
+  max-width: 80%
+  maring-left: auto;
+  margin-right: auto;
   margin-top: 24px;
   margin-bottom: 24px;
   display: flex;
@@ -1108,8 +1111,17 @@ figcaption {
   box-shadow: 0 0 16px 2px rgba(0, 0, 0, .3);
 }
 
+.sticky {
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px;
+}
+
 .logonav {
-  position: absolute;
+  position: fixed;
   width: 150px;
   left: 4%;
 }
@@ -1121,10 +1133,10 @@ figcaption {
     margin-left: 6%;
 }
 .banerimg2 {
-  width: 90%;
+  /*width: 90%; */
   z-index: 0;
   margin: 0;
-  position: absolute;
+  position: fixed;
   top: 40%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);

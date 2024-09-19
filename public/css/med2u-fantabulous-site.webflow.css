@@ -955,7 +955,7 @@ figcaption {
 
 .header_component {
     width: 100%;
-    height: 100vh;
+    height: 60%;
     flex-direction: column;
     justify-content: space-around;
     padding-left: 40px;

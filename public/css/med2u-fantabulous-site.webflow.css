@@ -1,3 +1,9 @@
+@import url(https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap);* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+}
+
 :root {
   --chocolate: #c6630c;
   --gold2: #ffcb22;
@@ -63,12 +69,6 @@
 .w-form-formradioinput--inputType-custom.w--redirected-checked {
   border-width: 4px;
   border-color: #3898ec;
-}
-
-@import url(https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500;600;700&display=swap);* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0
 }
 
 body {
@@ -981,8 +981,8 @@ figcaption {
 
 .header_middle-wrapper {
   justify-content: space-around;
-  max-width: 80%
-  maring-left: auto;
+  max-width: 80%;
+  margin-left: auto;
   margin-right: auto;
   margin-top: 24px;
   margin-bottom: 24px;

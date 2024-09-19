@@ -1509,12 +1509,12 @@ body {
   background-color: var(--gold2);
 }
 
-@media screen and (min-width: 1280px) {
+/*@media screen and (min-width: 1280px) {
   .page-padding {
     display: flex;
   }
 }
-
+*/
 @media screen and (max-width: 991px) {
   .hide-tablet {
     display: none;

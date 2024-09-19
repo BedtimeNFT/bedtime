@@ -1085,7 +1085,7 @@ figcaption {
 }
 
 .section {
-  background-color: #e8fcfc;
+  background-color: #bfeafd;
 }
 
 .image {
@@ -1115,7 +1115,7 @@ figcaption {
 }
 .banerimg2 {
   width: 90%;
-  z-index: 21;
+  z-index: 0;
   margin: 0;
   position: absolute;
   top: 40%;

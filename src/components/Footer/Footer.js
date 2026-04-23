@@ -8,7 +8,7 @@ import Illustration_Webpage from "../../assets/Illustration_Webpage.png";
 import TwitterIcon from "../../assets/logo-twitter.svg";
 import DiscordIcon from "../../assets/logo-discord.svg";
 import OpenseaIcon from "../../assets/socialIcon3.png";
-import MagicedenIcon from "../../assets/socialIcon4.png";
+
 
 const Footer = () => {
   return (
@@ -27,12 +27,6 @@ const Footer = () => {
         </Link>
         <Link to="https://bit.ly/BedtimeOS">
           <img src={OpenseaIcon} className="SocailIcon-adj" />
-        </Link>
-        <Link to="https://bit.ly/BedtimeCreation">
-          <img src={MagicedenIcon} className="SocailIcon-adj" />
-        </Link>
-        <Link to="https://bit.ly/BedtimeCompanions">
-          <img src={MagicedenIcon} className="SocailIcon-adj" />
         </Link>
       </div>
     </div>

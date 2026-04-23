@@ -18,7 +18,7 @@ const Header = () => {
           <a href="https://bedtimecreation.com/indexmint.html">
             <li>Mint</li>
           </a>
-          <a href="https://tokenthread.io" target="_blank"><li>Merch</li>
+          <a href="https://tokenthread.io" target="_blank" rel="noreferrer"><li>Merch</li>
           </a>
        </ul>
       </div>

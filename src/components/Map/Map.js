@@ -38,19 +38,11 @@ const Map = () => {
       {/* Map  */}
       <div className="parentmap" onClick={handleMapClick}>
         <img src={Mapbg} alt="Map Background" className="mapbg" />
-        <img
-          src={Mapfrostland}
-          className="mapfimg"
-          aria-describedby="popup-1"
-        />
-        <img src={MapMystics} className="mapmimg" aria-describedby="popup-2" />
-        <img src={MapWoodland} className="mapwimg" aria-describedby="popup-3" />
-        <img src={MapDemons} className="mapdimg" aria-describedby="popup-4" />
-        <img
-          src={MapCandyLand}
-          className="mapcimg"
-          aria-describedby="popup-5"
-        />
+        <img src={Mapfrostland} className="mapfimg" alt="Frostland Map" aria-describedby="popup-1" />
+        <img src={MapMystics} className="mapmimg" alt="Mystics Map" aria-describedby="popup-2" />
+        <img src={MapWoodland} className="mapwimg" alt="Woodland Map" aria-describedby="popup-3" />
+        <img src={MapDemons} className="mapdimg" alt="Demons Map" aria-describedby="popup-4" />
+        <img src={MapCandyLand} className="mapcimg" alt="Candymen Map" aria-describedby="popup-5" />
       </div>
       {/* Modal  */}
       {isModalOpen && (

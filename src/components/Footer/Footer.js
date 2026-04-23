@@ -28,7 +28,7 @@ const Footer = () => {
         <Link to="https://bit.ly/BedtimeOS">
           <img src={OpenseaIcon} alt="Bedtime Creations on OpenSea" className="SocailIcon-adj" />
         </Link>
-        <Link to="https://bit.ly/BedtimeCompanions">
+        <Link to="https://opensea.io/collection/bedtime-creations-companions">
           <img src={OpenseaIcon} alt="Bedtime Creations Creations on OpenSea" className="SocailIcon-adj" />
         </Link>          
       </div>

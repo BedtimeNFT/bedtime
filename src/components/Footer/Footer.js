@@ -20,13 +20,13 @@ const Footer = () => {
       />
       <div class="footer-socials">
         <Link to="https://x.com/bedtimenft">
-          <img src={TwitterIcon} className="SocailIcon" />
+          <img src={TwitterIcon} alt="Twitter" className="SocailIcon" />
         </Link>
         <Link to="https://discord.gg/bedtimecreations">
-          <img src={DiscordIcon} className="SocailIcon" />
+          <img src={DiscordIcon} alt="Discord" className="SocailIcon" />
         </Link>
         <Link to="https://bit.ly/BedtimeOS">
-          <img src={OpenseaIcon} className="SocailIcon-adj" />
+          <img src={OpenseaIcon} alt="OpenSea" className="SocailIcon-adj" />
         </Link>
       </div>
     </div>
